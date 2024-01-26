@@ -20,7 +20,7 @@ const DataScience = () => {
       <button className="a1">Learn SQL</button>
       </Link>
       <Link to="/DataCleaning">
-      <button className="a1">DataCleaning</button>
+      <button className="a1">Data Cleaning</button>
       </Link>
       <Link to="/EDA">
       <button className="a1">Exploratory Data Analysis</button>
