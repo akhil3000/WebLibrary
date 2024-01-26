@@ -61,7 +61,7 @@ const DataScience = () => {
        <button className="a1">Deep RL And Self Driving Cars NanoDegree</button> 
        </Link>
        <Link to="/IntroductionToGenerativeAI">
-       <button className="a1">Introduction To GenerativeAI</button>
+       <button className="a1">Introduction To Generative AI</button>
        </Link>
        <Link to="/DataScienceCommunity">
        <button className="a1">DataScience Community</button>
