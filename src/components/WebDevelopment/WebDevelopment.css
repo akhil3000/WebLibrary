@@ -21,3 +21,10 @@
     border-style:solid; 
     border-color:green;
 }
+
+.blocks{
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    gap:15px;
+}

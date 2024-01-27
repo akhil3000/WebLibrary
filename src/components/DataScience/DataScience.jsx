@@ -1,71 +1,44 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import "./DataScience.css"
+import Homecard from '../Homecard'
 const DataScience = () => {
   return (
     <div className="Hello">
-      <Link to="/DataSciencePrerequitises">
-     <button className="a1">DataScience Prerequitises</button>
-      </Link>
-       <Link to="/ProgrammingLanguage">
-     <button className="a1">Python With DSA</button>
-      </Link>
-      <Link to="/DataScienceLibraries">
-       <button className="a1">DataScience Libraries</button>
-      </Link> 
-      <Link to="/Statistics">
-       <button className="a1">Statistics & Maths for DataScience</button>
-      </Link> 
-      <Link to="/SQL">
-      <button className="a1">Learn SQL</button>
-      </Link>
-      <Link to="/DataCleaning">
-      <button className="a1">Data Cleaning</button>
-      </Link>
-      <Link to="/EDA">
-      <button className="a1">Exploratory Data Analysis</button>
-      </Link>
-       <Link to="/MachineLearning">
-       <button className="a1"> Machine Learning Algorithms</button>
-       </Link>
-       <Link to="/BigData">
-      <button className="a1">BigData&Spark</button>
-      </Link>
-       <Link to="/PracticeWebsitesAndBlogs">
-       <button className="a1">Practice on Anayltics Vidhya And Kaggle</button>
-       </Link>
-       <Link to="/AnalyticsVidhyaBlackBeltProgram">
-       <button className="a1">Analytics Vidhya DataScientist BlackBelt Program</button>
-       </Link>
        <div className="hii">
-       This Knowledge is Enough to Become Data Analyst or Data Scientist,
-       AI Engineer Research Pathway is Continued for Enthusiasts
+       Fundamentals & Beginner
        </div>
-       
-       <Link to="/DeepLearningAndNeuralNetworks">
-       <button className="a1">DeepLearning & NeuralNetworks</button>
-       </Link>
-       <Link to="/ComputerVision">
-       <button className="a1">Computer Vision</button>
-       </Link>
-       <Link to="/NLP">
-       <button className="a1">Natural Language Processing</button>
-       </Link>
-       <Link to="/RecommendationSystems">
-       <button className="a1"> Recommendation Systems</button>
-       </Link>
-       <Link to="/ReinforcementLearning">
-       <button className="a1">Reinforcement Learning</button>
-       </Link>
-       <Link to="/DeepReinforcementLearning">
-       <button className="a1">Deep RL And Self Driving Cars NanoDegree</button> 
-       </Link>
-       <Link to="/IntroductionToGenerativeAI">
-       <button className="a1">Introduction To Generative AI</button>
-       </Link>
-       <Link to="/DataScienceCommunity">
-       <button className="a1">DataScience Community</button>
-       </Link>
+        <div className="blocks">
+        <Homecard path="/DataSciencePrerequitises" title="DataScience Prerequitises"/>
+        <Homecard path="/ProgrammingLanguage" title="Python With DSA"/>
+        <Homecard path="/DataScienceLibraries" title="DataScience Libraries"/>
+        <Homecard path="/Statistics" title="Statistics & Maths for DataScience"/>
+        <Homecard path="/SQL" title="Learn SQL"/>
+        </div>
+        <div className="hii">
+        Core & Intermediate
+       </div>
+        <div className="blocks">
+        <Homecard path="/DataCleaning" title="Data Cleaning"/>
+        <Homecard path="/EDA" title="Exploratory Data Analysis"/>
+        <Homecard path="/MachineLearning" title="Machine Learning Algorithms"/>
+        <Homecard path="/BigData" title="BigData&Spark"/>
+        <Homecard path="/PracticeWebsitesAndBlogs" title="Practice on Anayltics Vidhya And Kaggle"/>
+        <Homecard path="/AnalyticsVidhyaBlackBeltProgram" title="Analytics Vidhya DataScientist BlackBelt Program"/>
+        </div>
+        <div className="hii">
+        Research & Advanced
+       </div>
+       <div className="blocks">
+        <Homecard path="/DeepLearningAndNeuralNetworks" title="DeepLearning & NeuralNetworks"/>
+        <Homecard path="/ComputerVision" title="Computer Vision"/>
+        <Homecard path="/NLP" title="Natural Language Processing"/>
+        <Homecard path="/RecommendationSystems" title="Recommendation Systems"/>
+        <Homecard path="/ReinforcementLearning" title="Reinforcement Learning"/>
+        <Homecard path="/DeepReinforcementLearning" title="Deep RL And Self Driving Cars NanoDegree"/>
+        <Homecard path="/IntroductionToGenerativeAI" title="Introduction To Generative AI"/>
+        <Homecard path="/DataScienceCommunity" title="DataScience Community"/>
+        </div>
     </div>
   )
 }

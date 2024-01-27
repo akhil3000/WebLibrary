@@ -50,7 +50,7 @@ import Cplusplus from './components/CSFundamentals/Cplusplus';
 import DataStrctures from './components/CSFundamentals/DataStrctures';
 import DesignAndAnalysisOfAlgorithms from './components/CSFundamentals/DesignAndAnalysisOfAlgorithms';
 import Java from './components/CSFundamentals/Java';
-import OOPS from './components/CSFundamentals/OOPS';
+
 import Python from './components/CSFundamentals/Python';
 import JS from './components/CSFundamentals/JS';
 import DiscreteMathematics from './components/CSFundamentals/DiscreteMathematics';
@@ -132,7 +132,6 @@ function App() {
           <Route path="/DataStrctures" element={<DataStrctures/>}/>
           <Route path="/DesignAndAnalysisOfAlgorithms" element={<DesignAndAnalysisOfAlgorithms/>}/>
           <Route path="/Java" element={<Java/>}/>
-          <Route path="/OOPS" element={<OOPS/>}/>
           <Route path="/Python" element={<Python/>}/>
           <Route path="/JS" element={< JS/>}/>
           <Route path="/DiscreteMathematics" element={<DiscreteMathematics/>}/>
