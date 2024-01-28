@@ -30,7 +30,7 @@ import DataCleaning from './components/DataScience/DataCleaning';
 import EDA from './components/DataScience/EDA';
 import MachineLearning from './components/DataScience/MachineLearning';
 import DeepLearningAndNeuralNetworks from './components/DataScience/DeepLearningAndNeuralNetworks';
-import NLP from './components/DataScience/NLP';
+import NaturalLanguageProcessing from './components/DataScience/NaturalLanguageProcessing';
 import DataSciencePrerequitises from './components/DataScience/DataSciencePrerequitises';
 import IntroductionToGenerativeAI from './components/DataScience/IntroductionToGenerativeAI';
 import PracticeWebsitesAndBlogs from './components/DataScience/PracticeWebsitesAndBlogs';
@@ -112,7 +112,7 @@ function App() {
           <Route path="/DataCleaning" element={<DataCleaning/>}/>
           <Route path="/MachineLearning" element={<MachineLearning/>}/>
           <Route path="/DeepLearningAndNeuralNetworks" element={<DeepLearningAndNeuralNetworks/>}/>
-          <Route path="/NLP" element={<NLP/>}/>
+          <Route path="/NaturalLanguageProcessing" element={<NaturalLanguageProcessing/>}/>
           <Route path="/DataSciencePrerequitises" element={<DataSciencePrerequitises/>}/>
           <Route path="/IntroductionToGenerativeAI" element={<IntroductionToGenerativeAI/>}/>
           <Route path="/PracticeWebsitesAndBlogs" element={<PracticeWebsitesAndBlogs/>}/>

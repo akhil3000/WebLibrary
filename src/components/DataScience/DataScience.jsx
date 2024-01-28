@@ -32,7 +32,7 @@ const DataScience = () => {
        <div className="blocks">
         <Homecard path="/DeepLearningAndNeuralNetworks" title="DeepLearning & NeuralNetworks"/>
         <Homecard path="/ComputerVision" title="Computer Vision"/>
-        <Homecard path="/NLP" title="Natural Language Processing"/>
+        <Homecard path="/NaturalLanguageProcessing" title="Natural Language Processing"/>
         <Homecard path="/RecommendationSystems" title="Recommendation Systems"/>
         <Homecard path="/ReinforcementLearning" title="Reinforcement Learning"/>
         <Homecard path="/DeepReinforcementLearning" title="Deep RL And Self Driving Cars NanoDegree"/>
