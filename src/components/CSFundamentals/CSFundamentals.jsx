@@ -16,7 +16,7 @@ const CSFundamentals = () => {
        <Homecard path="/DesignAndAnalysisOfAlgorithms" title="Design And Analysis Of Algorithms"/>
        <Homecard path="/Java" title="Java The Reliable Systems Language & Object Oriented Principles"/>
        <Homecard path="/Python" title="Python The Versatile Scripting Language"/>
-       <Homecard path="/JavaScript" title="JavaScript The Web Language"/>
+       <Homecard path="/VanillaJavaScript" title="JavaScript The Web Language"/>
        </div>
        <div className="hii">
          Phase-2
@@ -25,7 +25,7 @@ const CSFundamentals = () => {
        <Homecard path="/DiscreteMathematics" title="Discrete Mathematics"/>
        <Homecard path="/OperatingSystems" title="Operating Systems"/>
        <Homecard path="/UnixAndLinux" title="Unix And Linux"/>
-       <Homecard path="/DBMS" title="Database Management Systems"/>
+       <Homecard path="/DataBaseManagementSystems" title="Database Management Systems"/>
        <Homecard path="/ComputerNetworks" title="Computer Networks"/>
        <Homecard path="/ThoeryOfComputation" title="Thoery Of Computation"/>
        <Homecard path="/CompilerDesign" title="Compiler Design"/>
@@ -35,7 +35,7 @@ const CSFundamentals = () => {
        </div>
        <div className="Phase3">
        <Homecard path="/SoftWareEngineering" title="Software Engineering"/>
-       <Homecard path="/Uml" title="Unified Modelling Language"/>
+       <Homecard path="/UnifiedModellingLanguage" title="Unified Modelling Language"/>
        <Homecard path="/WebTechnologies" title="Web Technologies"/>
        <Homecard path="/MERNStack" title="MERN Stack"/>
        <Homecard path="/CryptoGraphyAndCyberSecurity" title="CryptoGraphy And Cyber Security "/>

@@ -13,14 +13,14 @@ const DataScience = () => {
         <Homecard path="/ProgrammingLanguage" title="Python With DSA"/>
         <Homecard path="/DataScienceLibraries" title="DataScience Libraries"/>
         <Homecard path="/Statistics" title="Statistics & Maths for DataScience"/>
-        <Homecard path="/SQL" title="Learn SQL"/>
+        <Homecard path="/StructuredQueryLanguage" title="Learn SQL"/>
         </div>
         <div className="hii">
         Core & Intermediate
        </div>
         <div className="blocks">
         <Homecard path="/DataCleaning" title="Data Cleaning"/>
-        <Homecard path="/EDA" title="Exploratory Data Analysis"/>
+        <Homecard path="/ExploratoryDataAnalysis" title="Exploratory Data Analysis"/>
         <Homecard path="/MachineLearning" title="Machine Learning Algorithms"/>
         <Homecard path="/BigData" title="BigData&Spark"/>
         <Homecard path="/PracticeWebsitesAndBlogs" title="Practice on Anayltics Vidhya And Kaggle"/>

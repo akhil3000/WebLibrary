@@ -2,76 +2,83 @@ import React,{lazy,Suspense} from "react";
 import './App.css';
 import Navbar from './components/Navbar';
 import {Route,Routes} from "react-router-dom";
-import ImageSlider from './components/ImageSlider';
-import Contribute from './components/Contribute';
-import AboutUs from './components/AboutUs';
-import Home from './components/Home';
-import WebDevelopmentBasics from './components/WebDevelopment/WebDevelopmentBasics';
-import GitAndGithub from './components/WebDevelopment/GitAndGithub';
-import HtmlAndCss from './components/WebDevelopment/HtmlAndCss';
-import JavaScript from './components/WebDevelopment/JavaScript';
-import Reactjs from './components/WebDevelopment/Reactjs';
-import BackendBasics from './components/WebDevelopment/BackendBasics';
-import MongoDB from './components/WebDevelopment/MongoDB';
-import NodeANDExpress from './components/WebDevelopment/NodeANDExpress';
-import MERNStackProjects from './components/WebDevelopment/MERNStackProjects';
-import Deployments from './components/WebDevelopment/Deployments';
-import Footerx from './components/Footerx';
-import MyCourses from './components/MyCourses';
-import WebPrerequitises from './components/WebDevelopment/WebPrerequitises';
-import NextJs from './components/WebDevelopment/NextJs';
-import MicroServicesAndCloud from './components/WebDevelopment/MicroServicesAndCloud';
-import Spring from './components/WebDevelopment/Spring';
-import SystemDesign from './components/WebDevelopment/SystemDesign';
-import ProgrammingLanguage from './components/DataScience/ProgrammingLanguage';
-import Statistics from './components/DataScience/Statistics';
-import SQL from './components/DataScience/SQL';
-import DataCleaning from './components/DataScience/DataCleaning';
-import EDA from './components/DataScience/EDA';
-import MachineLearning from './components/DataScience/MachineLearning';
-import DeepLearningAndNeuralNetworks from './components/DataScience/DeepLearningAndNeuralNetworks';
-import NaturalLanguageProcessing from './components/DataScience/NaturalLanguageProcessing';
-import DataSciencePrerequitises from './components/DataScience/DataSciencePrerequitises';
-import IntroductionToGenerativeAI from './components/DataScience/IntroductionToGenerativeAI';
-import PracticeWebsitesAndBlogs from './components/DataScience/PracticeWebsitesAndBlogs';
-import AnalyticsVidhyaBlackBeltProgram from './components/DataScience/AnalyticsVidhyaBlackBeltProgram';
-import DsaPrerequitises from './components/DSA/DsaPrerequitises';
-import Cpluspluspathway from './components/DSA/Cpluspluspathway';
-import JavaPathway from './components/DSA/JavaPathway';
-import Blogs from './components/DSA/Blogs';
-import CompetitiveDSABooks from './components/DSA/CompetitiveDSABooks';
-import DSAStrcturedCuricullumInJava from './components/DSA/DSAStrcturedCuricullumInJava';
-import SdeSheets from './components/DSA/SdeSheets';
-import CodingPractice from './components/DSA/CodingPractice';
-import DebuggingCommunity from './components/DSA/DebuggingCommunity';
-import IntroductionToComputerScience from './components/CSFundamentals/IntroductionToComputerScience';
-import CLanguage from './components/CSFundamentals/CLanguage';
-import Cplusplus from './components/CSFundamentals/Cplusplus';
-import DataStrctures from './components/CSFundamentals/DataStrctures';
-import DesignAndAnalysisOfAlgorithms from './components/CSFundamentals/DesignAndAnalysisOfAlgorithms';
-import Java from './components/CSFundamentals/Java';
 
-import Python from './components/CSFundamentals/Python';
-import JS from './components/CSFundamentals/JS';
-import DiscreteMathematics from './components/CSFundamentals/DiscreteMathematics';
-import OperatingSystems from './components/CSFundamentals/OperatingSystems';
-import UnixAndLinux from './components/CSFundamentals/UnixAndLinux';
-import DBMS from './components/CSFundamentals/DBMS';
-import ComputerNetworks from './components/CSFundamentals/ComputerNetworks';
-import ThoeryOfComputation from './components/CSFundamentals/ThoeryOfComputation';
-import CompilerDesign from './components/CSFundamentals/CompilerDesign';
-import SoftWareEngineering from './components/CSFundamentals/SoftWareEngineering';
-import Uml from './components/CSFundamentals/Uml';
-import WebTechnologies from './components/CSFundamentals/WebTechnologies';
-import MERNStack from './components/CSFundamentals/MERNStack';
-import CryptoGraphyAndCyberSecurity from './components/CSFundamentals/CryptoGraphyAndCyberSecurity';
-import MobileApplicationDev from './components/CSFundamentals/MobileApplicationDev';
-import DesignPatternsAndSystemDesign from './components/CSFundamentals/DesignPatternsAndSystemDesign';
-import TestingAndDevops from './components/CSFundamentals/TestingAndDevops';
-import DistributedSystems from './components/CSFundamentals/DistributedSystems';
-import CloudComputing from './components/CSFundamentals/CloudComputing';
-import ComputerGraphicsAndGameDevelopment from './components/CSFundamentals/ComputerGraphicsAndGameDevelopment';
-import BlockChainAndWeb3 from './components/WebDevelopment/BlockChainAndWeb3';
+import store from "./utils/store";
+import {Provider} from "react-redux";
+import{
+  Contribute,
+  AboutUs,
+  Home,
+  WebDevelopmentBasics,
+  GitAndGithub,
+  HtmlAndCss,
+  JavaScript,
+  Reactjs,
+  BackendBasics,
+  MongoDB,
+  NodeANDExpress,
+  MERNStackProjects,
+  Deployments,
+  Footerx,
+  MyCourses,
+  WebPrerequitises,
+  NextJs,
+  MicroServicesAndCloud,
+  Spring,
+  SystemDesign,
+  ProgrammingLanguage,
+  Statistics,
+  StrcturedQueryLanguage,
+  DataCleaning,
+  ExploratoryDataAnalysis,
+  MachineLearning,
+  DeepLearningAndNeuralNetworks,
+  NaturalLanguageProcessing,
+  DataSciencePrerequitises,
+  IntroductionToGenerativeAI,
+  ReinforcementLearning,
+  RecommendationSystems,
+  DeepReinforcementLearning,
+  PracticeWebsitesAndBlogs,
+  AnalyticsVidhyaBlackBeltProgram,
+  DsaPrerequitises,
+  Cpluspluspathway, 
+  JavaPathway,
+  Blogs,
+  CompetitiveDSABooks,
+  DSAStrcturedCuricullumInJava,
+  SdeSheets,
+  CodingPractice,
+  DebuggingCommunity,
+  IntroductionToComputerScience,
+  CLanguage,
+  Cplusplus,
+  DataStrctures,
+  DesignAndAnalysisOfAlgorithms,
+  Java,
+  Python,
+  VanillaJavaScript,
+  DiscreteMathematics,
+  OperatingSystems,
+  UnixAndLinux,
+  DatabaseManagementSystems,
+  ComputerNetworks,
+  ThoeryOfComputation,
+  CompilerDesign,
+  SoftWareEngineering,
+  UnifiedModellingLanguage,
+  WebTechnologies,
+  MERNStack,
+  CryptoGraphyAndCyberSecurity,
+  MobileApplicationDev,
+  DesignPatternsAndSystemDesign,
+  TestingAndDevops,
+  DistributedSystems,
+  CloudComputing,
+  ComputerGraphicsAndGameDevelopment,
+  BlockChainAndWeb3
+
+} from './pages';
 const WebDevlopment=lazy(()=>import("./components/WebDevelopment/WebDevlopment"));
 const DataScience=lazy(()=>import("./components/DataScience/DataScience"));
 const CSFundamentals=lazy(()=>import("./components/CSFundamentals/CSFundamentals"));
@@ -81,6 +88,7 @@ const DSA=lazy(()=>import("./components/DSA/DSA"));
 function App() {
   return (
     <div className="App">
+        <Provider store={store}>
         <Navbar/>
         <Routes>
           <Route path="/" element={<Home/>}/>
@@ -108,8 +116,9 @@ function App() {
           <Route path="/SystemDesign" element={<SystemDesign/>}/>
           <Route path="/ProgrammingLanguage" element={<ProgrammingLanguage/>}/>
           <Route path="/Statistics" element={<Statistics/>}/>
-          <Route path="/SQL" element={<SQL/>}/>
+          <Route path="/StrcturedQueryLanguage" element={<StrcturedQueryLanguage/>}/>
           <Route path="/DataCleaning" element={<DataCleaning/>}/>
+          <Route path="/ExploratoryDataAnalysis" element={<ExploratoryDataAnalysis/>}/>
           <Route path="/MachineLearning" element={<MachineLearning/>}/>
           <Route path="/DeepLearningAndNeuralNetworks" element={<DeepLearningAndNeuralNetworks/>}/>
           <Route path="/NaturalLanguageProcessing" element={<NaturalLanguageProcessing/>}/>
@@ -133,11 +142,11 @@ function App() {
           <Route path="/DesignAndAnalysisOfAlgorithms" element={<DesignAndAnalysisOfAlgorithms/>}/>
           <Route path="/Java" element={<Java/>}/>
           <Route path="/Python" element={<Python/>}/>
-          <Route path="/JS" element={< JS/>}/>
+          <Route path="/VanillaJavaScript" element={< VanillaJavaScript/>}/>
           <Route path="/DiscreteMathematics" element={<DiscreteMathematics/>}/>
           <Route path="/OperatingSystems" element={<OperatingSystems/>}/>
           <Route path="/UnixAndLinux" element={<UnixAndLinux/>}/>
-          <Route path="/DBMS" element={<DBMS/>}/>
+          <Route path="/DatabaseManagementSystems" element={<DatabaseManagementSystems/>}/>
           <Route path="/ComputerNetworks" element={<ComputerNetworks/>}/>
           <Route path="/ThoeryOfComputation" element={<ThoeryOfComputation/>}/>
           <Route path="/CompilerDesign" element={<CompilerDesign/>}/>
@@ -152,9 +161,14 @@ function App() {
           <Route path="/CloudComputing" element={<CloudComputing/>}/>
           <Route path="/ComputerGraphicsAndGameDevelopment" element={<ComputerGraphicsAndGameDevelopment/>}/>
           <Route path="/BlockChainAndWeb3 " element={<BlockChainAndWeb3/>}/>      
+          <Route path="/ReinforcementLearning " element={<ReinforcementLearning/>}/>   
+          <Route path="/DeepReinforcementLearning " element={<DeepReinforcementLearning/>}/>   
+          <Route path="/RecommendationSystems " element={<RecommendationSystems/>}/>
+          <Route path="/UnifiedModellingLanguage " element={<UnifiedModellingLanguage/>}/>
+
         </Routes>
-        
         <Footerx/>
+        </Provider>
     </div>
 
   );
