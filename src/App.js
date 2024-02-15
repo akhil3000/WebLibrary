@@ -2,8 +2,9 @@ import React,{lazy,Suspense} from "react";
 import './App.css';
 import Navbar from './components/Navbar';
 import {Route,Routes} from "react-router-dom";
-
+import Spacecomponent from "./components/Spacecomponent";
 import store from "./utils/store";
+
 import {Provider} from "react-redux";
 import{
   Contribute,
@@ -90,6 +91,7 @@ function App() {
     <div className="App">
         <Provider store={store}>
         <Navbar/>
+        <Spacecomponent/>
         <Routes>
           <Route path="/" element={<Home/>}/>
           <Route path="/WebDevlopment" element={<Suspense><WebDevlopment/></Suspense>}/>
