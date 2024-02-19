@@ -48,7 +48,7 @@ import DebuggingCommunity from './components/DSA/DebuggingCommunity';
 import IntroductionToComputerScience from './components/CSFundamentals/IntroductionToComputerScience';
 import CLanguage from './components/CSFundamentals/CLanguage';
 import Cplusplus from './components/CSFundamentals/Cplusplus';
-import DataStrctures from './components/CSFundamentals/DataStrctures';
+import DataStructures from './components/CSFundamentals/DataStructures';
 import DesignAndAnalysisOfAlgorithms from './components/CSFundamentals/DesignAndAnalysisOfAlgorithms';
 import Java from './components/CSFundamentals/Java';
 
@@ -123,7 +123,7 @@ export{
     IntroductionToComputerScience,
     CLanguage,
     Cplusplus,
-    DataStrctures,
+    DataStructures,
     DesignAndAnalysisOfAlgorithms,
     Java,
     Python,

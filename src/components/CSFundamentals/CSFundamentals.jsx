@@ -11,10 +11,10 @@ const CSFundamentals = () => {
        <div className="Phase1">
        <Homecard path="/IntroductionToComputerScience" title="Introduction To Computer Science"/>
        <Homecard path="/Clanguage" title="C The Mother Language"/>
-       <Homecard path="/Cplusplus" title="C++ The High Performance Language"/>
-       <Homecard path="/DataStrctures" title="Data Structures With C++"/>
+       <Homecard path="/Cplusplus" title="C++ The High Performance Language And OOPS"/>
+       <Homecard path="/DataStructures" title="Data Structures With C++"/>
        <Homecard path="/DesignAndAnalysisOfAlgorithms" title="Design And Analysis Of Algorithms"/>
-       <Homecard path="/Java" title="Java The Reliable Systems Language & Object Oriented Principles"/>
+       <Homecard path="/Java" title="Java The Reliable Systems Language"/>
        <Homecard path="/Python" title="Python The Versatile Scripting Language"/>
        <Homecard path="/VanillaJavaScript" title="JavaScript The Web Language"/>
        </div>

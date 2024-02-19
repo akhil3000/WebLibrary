@@ -14,7 +14,7 @@ const Homecard = ({path,title}) => {
     <div>
     <Link to={path}>
      <button className="a1">{title}
-     <button className="a2" onClick={()=>handleAddItem()}>Bookmark Course </button>
+     {<button className="a2" onClick={()=>handleAddItem()}>Bookmark Course </button>}
      </button>
       </Link>
     </div>

@@ -54,7 +54,7 @@ import{
   IntroductionToComputerScience,
   CLanguage,
   Cplusplus,
-  DataStrctures,
+  DataStructures,
   DesignAndAnalysisOfAlgorithms,
   Java,
   Python,
@@ -140,7 +140,7 @@ function App() {
           <Route path="/IntroductionToComputerScience" element={<IntroductionToComputerScience/>}/>
           <Route path="/CLanguage" element={<CLanguage/>}/>
           <Route path="/Cplusplus" element={<Cplusplus/>}/>
-          <Route path="/DataStrctures" element={<DataStrctures/>}/>
+          <Route path="/DataStructures" element={<DataStructures/>}/>
           <Route path="/DesignAndAnalysisOfAlgorithms" element={<DesignAndAnalysisOfAlgorithms/>}/>
           <Route path="/Java" element={<Java/>}/>
           <Route path="/Python" element={<Python/>}/>

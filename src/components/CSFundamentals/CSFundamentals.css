@@ -8,6 +8,14 @@ align-items:center;
 
 }
 
+.menuitem{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom:100px;
+}
+
 .text{
     text-align:center;
 }
@@ -25,9 +33,16 @@ align-items:center;
     margin-left: auto;
     margin-right: auto;
     width: 35%; 
+    padding-top:15px;
 }
 
-.hii{border-width:3px; 
+.mac{
+    width:30%;
+}
+
+.hii{
+    margin-top:20px;
+    border-width:3px; 
     border-style:solid; 
     border-color:green;
 }

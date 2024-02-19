@@ -15,10 +15,9 @@ const DSA = () => {
       <Homecard path="/CompetitiveDSABooks" title="Competitive DSA Books"/>
       </div>
       <div className="DSA1">
-      <Homecard path="/DSAStrcturedCuricullumInJava" title="DSA Level 2 Curicullum"/>
+      <Homecard path="/CodingPractice" title="Programming Practice Websites"/>
       <Homecard path="/SdeSheets" title="DSA SDE Sheets"/>
       </div>
-      <Homecard path="/CodingPractice" title="Programming Practice Websites"/>
       <Homecard path="/DebuggingCommunity" title="DebuggingCommunity"/>
     </div>
   )
