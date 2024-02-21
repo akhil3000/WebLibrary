@@ -7,5 +7,8 @@
  text-align:center;
  padding:250px 250px;
  color:black;
+ display:flex;
+ flex-direction:column;
+ gap:10px;
  
 }
