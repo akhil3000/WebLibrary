@@ -1,0 +1,21 @@
+{
+  "phase1": [
+    {
+      "phaseTitle": "Intro to CS"
+    },
+    {
+      "phaseTitle": "C the mother langauge",
+      "courses": [
+        {
+          "title": "Mathematics For Programmers",
+          "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwLL-mEB4ef20f3iqWMGWa25"
+        },
+        {}
+      ]
+    },
+    {
+      "phaseTitle": "C++ The High Performance Language And OOPS",
+      "courses": [{}]
+    }
+  ]
+}
