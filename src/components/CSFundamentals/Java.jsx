@@ -14,8 +14,9 @@ const Java = () => {
        </div>
      <MenuTitle title="Java Backend Development RoadMap" url="https://www.javabrains.io/pages/complete-java-backend-learning-path"/>
      <MenuTitle title="Java Backend Development Resources" url="https://www.youtube.com/@Java.Brains/playlists"/> 
-     <MenuTitle title="Java Backend Development Project 1" url="https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/"/>
-     <MenuTitle title="Java Backend Development Project 2" url="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0"/>
+     <MenuTitle title="Java Backend Development Project 1" url="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?couponCode=KEEPLEARNING"/>
+     <MenuTitle title="Java Backend Development Project 2" url="https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/"/>
+     <MenuTitle title="Java Backend Development Project 3" url="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0"/>
     </div>
   )
 }
