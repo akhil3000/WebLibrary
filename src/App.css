@@ -1,38 +1,5 @@
-.Footer{
-    
-    
-    display:flex;
-    flex-direction:row;
-    justify-content:space-around;
-    text-align:center;
-}
-
-.Footer2{
-    margin-top:10px;
-    display:flex;
-    flex-direction:row;
-    justify-content:space-around;
-    gap:18px;
-}
-.hello{
-    
-}
-.middle{
-    padding-top:70px;
-}
-
-.FooterHead{
-    background-color:#5585b5;
-    position:fixed;
-    left: 0;
-    bottom: 0;
-    height:50px;
-    width: 100%;
-    text-align: center;
-}  
-
-.year{
-      
-    margin-top:10px;
-    text-align:center;
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }

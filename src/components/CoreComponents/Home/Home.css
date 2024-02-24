@@ -1,0 +1,12 @@
+.home {
+  background-color: yellow;
+  width: 100%;
+  background-image: url("../../../assets/library.png");
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
