@@ -23,12 +23,18 @@ const Footer = () => {
           </p>
         </div>
         <div className="social-icons">
-          <a href="#" target="__blank">
+          <a href="https://discord.gg/UJ885hqDPd" target="__blank">
             <BsDiscord className="icons" />
           </a>
+          <a href="https://www.linkedin.com/in/akhil-polisetty-b09b8b192/" target="__blank">
           <BsLinkedin className="icons" />
-          <BsYoutube className="icons" />
+          </a>
+          <a href="https://t.me/+4tZnvg47-akyNzY1" target="__blank">
           <BsTelegram className="icons" />
+          </a>
+          <a href="https://www.youtube.com/@akhilpolisetty" target="__blank">
+          <BsYoutube className="icons" />
+          </a>
         </div>
       </footer>
     </>
