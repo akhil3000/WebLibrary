@@ -1,894 +1,659 @@
 {
-  
-  "phase1": [
-    {
-      "phaseTitle": "Introduction To Computer Science"
-    },
-    {
-      "phaseTitle": "C The Mother Language",
-      "courses": [
-        {
-          "title": "Mathematics For Programmers",
-          "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwLL-mEB4ef20f3iqWMGWa25"
-        },
-        {
-          "title": "Introduction To Programming Through C",
-          "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE"
-        },
-        {
-          "title": "Complete C Tutorial",
-          "courseUrl": "https://www.youtube.com/playlist?list=PLLOxZwkBK52AE9jFVOGZTJxaiAC_xB8Yy"
-        },
-        {
-          "title": "Pointers In Depth",
-          "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_"
-        },
-        {
-          "title": "Time Complexity Analysis",
-          "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn"
-        },
-        {
-          "title": "Recursion In Depth",
-          "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwLz3g66WrxFGSXvSsvyfzCO"
-        },
-        {
-          "title": "C Documentation",
-          "courseUrl": "https://www.w3schools.com/c/index.php"
-        },
-        {
-          "title": "C Programming Practice",
-          "courseUrl": "https://www.programiz.com/c-programming/examples"
-        },
-        {
-          "title": "Book1",
-          "url": "https://www.flipkart.com/programming-ansi-c-english-6th/p/itme7ufzvhngh2yz?pid=9781259004612"
-        },
-        {
-          "title": "Book2",
-          "courseUrl": "https://www.amazon.in/Programming-Language-Kernighan-Dennis-Ritchie/dp/9332549443"
-        },
-        {
-          "title": "Real World Applications of C language",
-          "courseUrl": "https://www.invensis.net/blog/applications-of-c-and-c-plus-plus-in-the-real-world"
-        }
-      ]
-    },
-    
-     
-    {
-      "phaseTitle": "C++ The High Performance Language And OOPS",
-      "courses": [
-        {
-          "title": "C++ With OOPS Tutorial",
-          "courseUrl": "https://www.youtube.com/playlist?list=PLVlQHNRLflP8_DGKcMoRw-TYJJALgGu4J"
-        },
-        {
-          "title": "C++ Documentation",
-          "courseUrl": "https://www.w3schools.com/cpp/"
-        },
-        {
-          "title": "C++ Programming Practice",
-          "courseUrl": "https://www.programiz.com/cpp-programming/examples"
-        },
-        {
-          "title": "Book1",
-          "courseUrl": "https://www.amazon.in/Object-Oriented-Programming-C-8th-Balagurusamy/dp/9389949181"
-        },
-        {
-          "title": "Real World Applications of C++ language",
-          "courseUrl": "https://www.invensis.net/blog/applications-of-c-and-c-plus-plus-in-the-real-world"
-        }
-      ]
-    },
-    /*
+
+    "CS Fundamentals": {
+        "phase1": [
+            {
+              "phaseTitle": "Introduction To Computer Science"
+            },
+            {
+              "phaseTitle": "C The Mother Language",
+              "courses": [
+                {
+                  "title": "Mathematics For Programmers",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwLL-mEB4ef20f3iqWMGWa25"
+                },
+                {
+                  "title": "Introduction To Programming Through C",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwLSqGsERZGXGkA5AfMhcknE"
+                },
+                {
+                  "title": "Complete C Tutorial",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PLLOxZwkBK52AE9jFVOGZTJxaiAC_xB8Yy"
+                },
+                {
+                  "title": "Pointers In Depth",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_"
+                },
+                {
+                  "title": "Time Complexity Analysis",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn"
+                },
+                {
+                  "title": "Recursion In Depth",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwLz3g66WrxFGSXvSsvyfzCO"
+                },
+                {
+                  "title": "C Documentation",
+                  "courseUrl": "https://www.w3schools.com/c/index.php"
+                },
+                {
+                  "title": "C Programming Practice",
+                  "courseUrl": "https://www.programiz.com/c-programming/examples"
+                },
+                {
+                  "title": "Book1",
+                  "url": "https://www.flipkart.com/programming-ansi-c-english-6th/p/itme7ufzvhngh2yz?pid=9781259004612"
+                },
+                {
+                  "title": "Book2",
+                  "courseUrl": "https://www.amazon.in/Programming-Language-Kernighan-Dennis-Ritchie/dp/9332549443"
+                },
+                {
+                  "title": "Real World Applications of C language",
+                  "courseUrl": "https://www.invensis.net/blog/applications-of-c-and-c-plus-plus-in-the-real-world"
+                }
+              ]
+            },
+            
+            
+            {
+              "phaseTitle": "C++ The High Performance Language And OOPS",
+              "courses": [
+                {
+                  "title": "C++ With OOPS Tutorial",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PLVlQHNRLflP8_DGKcMoRw-TYJJALgGu4J"
+                },
+                {
+                  "title": "C++ Documentation",
+                  "courseUrl": "https://www.w3schools.com/cpp/"
+                },
+                {
+                  "title": "C++ Programming Practice",
+                  "courseUrl": "https://www.programiz.com/cpp-programming/examples"
+                },
+                {
+                  "title": "Book1",
+                  "courseUrl": "https://www.amazon.in/Object-Oriented-Programming-C-8th-Balagurusamy/dp/9389949181"
+                },
+                {
+                  "title": "Real World Applications of C++ language",
+                  "courseUrl": "https://www.invensis.net/blog/applications-of-c-and-c-plus-plus-in-the-real-world"
+                }
+              ]
+            },
+
+            {
+              "phaseTitle": "Data Structures With C++",
+              "courses": [
+                {
+                  "title": "Time Complexity Analysis",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn"
+                },
+                {
+                  "title": "DataStructures With C++",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P"
+                },
+                {
+                  "title": "Sorting Algorithms",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U"
+                },
+                {
+                  "title": "DSA Documentation & Tutorial",
+                  "courseUrl": "https://www.programiz.com/dsa"
+                },
+                {
+                  "title": "HackerRank Data Structures Practice",
+                  "courseUrl": "https://www.hackerrank.com/domains/data-structures"
+                },
+                {
+                  "title": "Competitive DSA",
+                  "courseUrl": "https://www.youtube.com/@takeUforward/playlists"
+                },
+
+                {
+                  "title": "Strivers SDE Sheet",
+                  "courseUrl": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
+                },
+              
+                {
+                  "title": "Book1",
+                  "courseUrl": "https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/8193245288/ref=sr_1_1?qid=1708155390&refinements=p_27%3ANarasimha+Karumanchi&s=books&sr=1-1"
+                },
+                {
+                  "title": "Book2",
+                  "courseUrl": "https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850"
+                },
+                {
+                  "title": "Real World Applications of Data Structures",
+                  "courseUrl": "https://www.geeksforgeeks.org/real-time-application-of-data-structures/"
+                }
+
+              
+              ]
+            },
+
+            
+            {
+              "phaseTitle": "Design And Analysis Of Algorithms",
+              "courses": [
+                {
+                  "title": "Design And Analysis Of Algorithms",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
+                },
+                {
+                  "title": "Algorithms Specialization",
+                  "courseUrl": "https://www.coursera.org/specializations/algorithms"
+                },
+                {
+                  "title": "Documentation Tutorial",
+                  "courseUrl": "https://www.javatpoint.com/daa-tutorial"
+                },
+                {
+                  "title": "Book",
+                  "courseUrl": "https://www.amazon.in/Data-structures-Algorithm-Analysis-C/dp/8131714748"
+                }
+              ]
+            },
+              
+          
 
 
-    
+            {
+              "phaseTitle": "Java The Reliable Systems Language",
+              "courses": [
+                {
+                  "title": "Introduction To Java Programming",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PLLOxZwkBK52BaOQCJrVvkc97uzeMsx9TT"
+                },
+                {
+                  "title": "Java Tutorial",
+                  "courseUrl": "https://www.javatpoint.com/java-tutorial"
+                },
+                {
+                  "title": "Java With DSA Level1",
+                  "courseUrl": "https://www.javatpoint.com/java-programs"
+                }
+                ,
+                {
+                  "title": "Java With DSA Level2",
+                  "courseUrl": "https://www.scaler.com/topics/course/dsa-beginners-java/"
+                }
+                ,
+                {
+                  "title": "Java Interview Questions",
+                  "courseUrl": "https://www.javatpoint.com/corejava-interview-questions"
+                }
+                {
+                  "title":"Web Development Basics",
+                  "courseUrl":"https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+                }
+                ,
+                {
+                  "title": "Java Backend Development RoadMap",
+                  "courseUrl": "https://www.javabrains.io/pages/complete-java-backend-learning-path"
+                }
+                ,
+                {
+                  "title": "Java Backend Development Resources",
+                  "courseUrl": "https://www.youtube.com/@Java.Brains/playlists"
+                }
+                ,
+                {
+                  "title": "Java Backend Development Project 1",
+                  "courseUrl": "https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?couponCode=KEEPLEARNING"
+                }
+                ,
+                {
+                  "title": "Java Backend Development Project 2",
+                  "courseUrl": "https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/"
+                }
+                ,
+                {
+                  "title": "Java Backend Development Project 3",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0"
+                },
+                {
+                  "title":"Java Backend Development Project 4",
+                  "courseUrl":"https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=KEEPLEARNING"
+                }
 
-     
-   
-   
-     
+              ]
+            },
 
+          
+            {
+              "phaseTitle": "Python The Versatile Scripting Language",
+              "courses": [
+                
+                {
+                  "title": "Introduction To Python",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PLLOxZwkBK52DmuHRO3UNpqAzDF57FtIxk"
+                }
+                ,
+                {
+                  "title": "Python Documentation",
+                  "courseUrl": "https://www.w3schools.com/python/"
+                }
+                ,
+                {
+                  "title": "Python With DSA Level 1",
+                  "courseUrl": "https://pynative.com/python-exercises-with-solutions/"
+                }
+                ,
+                {
+                  "title": "Python With DSA Level 2",
+                  "courseUrl": "https://www.programiz.com/dsa"
+                }
+                ,
+                {
+                  "title": "Python Specialization",
+                  "courseUrl": "https://www.coursera.org/specializations/python"
+                }
+                ,
+                {
+                  "title": "Python Projects Course",
+                  "courseUrl": "https://www.udemy.com/course/100-days-of-code/"
+                }
+                ,
+                {
+                  "title": "Merits And Demerits Of Python",
+                  "courseUrl": "https://www.tutorialspoint.com/what-are-the-limitations-of-python"
+                }
 
-    <div className="menuitem">
-      <MenuTitle title="Computer Networks Specialization" url="https://www.coursera.org/learn/computer-networking"/>
-      <MenuTitle title="Computer Networks Complete Tutorial" url="https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_"/>
-      <MenuTitle title="Computer Networks Documentation" url="https://www.geeksforgeeks.org/computer-network-tutorials"/>
-      <MenuTitle title="Computer Networks Interview Questions" url="https://www.interviewbit.com/networking-interview-questions/"/>
-      <MenuTitle title="CCNA Course" url="https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/?couponCode=IND21PM"/>
-      <MenuTitle title="Book" url="https://www.flipkart.com/computer-networks/p/itmfbt6qgafcpkuc"/>
-      <MenuTitle title="Real World Applications of Computer Networks" url="https://www.prepbytes.com/blog/computer-network/uses-of-computer-network/"/>
-    </div>
+              ]
+            },
 
-    
-*/
-    {
-      "phaseTitle": "Data Structures With C++",
-      "courses": [
-        {
-          "title": "Time Complexity Analysis",
-          "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn"
-        },
-        {
-          "title": "DataStructures With C++",
-          "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P"
-        },
-        {
-          "title": "Sorting Algorithms",
-          "courseUrl": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U"
-        },
-        {
-          "title": "DSA Documentation & Tutorial",
-          "courseUrl": "https://www.programiz.com/dsa"
-        },
-        {
-          "title": "HackerRank Data Structures Practice",
-          "courseUrl": "https://www.hackerrank.com/domains/data-structures"
-        },
-        {
-          "title": "Competitive DSA",
-          "courseUrl": "https://www.youtube.com/@takeUforward/playlists"
-        },
+            
+            {
+              "phaseTitle": "JavaScript The Web Language",
+              "courses": [
+                
+                {
+                  "title": "JavaScript Module from Angela You Course",
+                  "courseUrl": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
+                }
+                ,
+                {
+                  "title": "JavaScript Documentation",
+                  "courseUrl": "https://www.w3schools.com/js/"
+                }
+                ,
+                {
+                  "title": "Namaste JavaScript Season1",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP"
+                }
 
-        {
-          "title": "Strivers SDE Sheet",
-          "courseUrl": "https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"
-        },
-      
-        {
-          "title": "Book1",
-          "courseUrl": "https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/8193245288/ref=sr_1_1?qid=1708155390&refinements=p_27%3ANarasimha+Karumanchi&s=books&sr=1-1"
-        },
-        {
-          "title": "Book2",
-          "courseUrl": "https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850"
-        },
-        {
-          "title": "Real World Applications of Data Structures",
-          "courseUrl": "https://www.geeksforgeeks.org/real-time-application-of-data-structures/"
-        }
+                ,
+                {
+                  "title": "Namaste JavaScript Season2",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX"
+                }
+                ,
+                {
+                  "title": "JavaScript Interview Questions",
+                  "courseUrl": "https://www.youtube.com/playlist?list=PLlasXeu85E9eV5xUEgrWUB8NAUvNZGsK0"
+                }
 
-       
-      ]
-    },
-
-    
-    {
-      "phaseTitle": "Design And Analysis Of Algorithms",
-      "courses": [
-        {
-          "title": "Design And Analysis Of Algorithms",
-          "courseUrl": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"
-        },
-        {
-          "title": "Algorithms Specialization",
-          "courseUrl": "https://www.coursera.org/specializations/algorithms"
-        },
-        {
-          "title": "Documentation Tutorial",
-          "courseUrl": "https://www.javatpoint.com/daa-tutorial"
-        },
-        {
-          "title": "Book",
-          "courseUrl": "https://www.amazon.in/Data-structures-Algorithm-Analysis-C/dp/8131714748"
-        }
-      ]
-    },
-       
-   
-
-
-    {
-      "phaseTitle": "Java The Reliable Systems Language",
-      "courses": [
-        {
-          "title": "Introduction To Java Programming",
-          "courseUrl": "https://www.youtube.com/playlist?list=PLLOxZwkBK52BaOQCJrVvkc97uzeMsx9TT"
-        },
-        {
-          "title": "Java Tutorial",
-          "courseUrl": "https://www.javatpoint.com/java-tutorial"
-        },
-        {
-          "title": "Java With DSA Level1",
-          "courseUrl": "https://www.javatpoint.com/java-programs"
-        }
-        ,
-        {
-          "title": "Java With DSA Level2",
-          "courseUrl": "https://www.scaler.com/topics/course/dsa-beginners-java/"
-        }
-        ,
-        {
-          "title": "Java Interview Questions",
-          "courseUrl": "https://www.javatpoint.com/corejava-interview-questions"
-        }
-        {
-          "title":"Web Development Basics",
-          "courseUrl":"https://www.udemy.com/course/the-complete-web-development-bootcamp/"
-        }
-        ,
-        {
-          "title": "Java Backend Development RoadMap",
-          "courseUrl": "https://www.javabrains.io/pages/complete-java-backend-learning-path"
-        }
-        ,
-        {
-          "title": "Java Backend Development Resources",
-          "courseUrl": "https://www.youtube.com/@Java.Brains/playlists"
-        }
-        ,
-        {
-          "title": "Java Backend Development Project 1",
-          "courseUrl": "https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?couponCode=KEEPLEARNING"
-        }
-        ,
-        {
-          "title": "Java Backend Development Project 2",
-          "courseUrl": "https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/"
-        }
-        ,
-        {
-          "title": "Java Backend Development Project 3",
-          "courseUrl": "https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0"
-        },
-        {
-          "title":"Java Backend Development Project 4",
-          "courseUrl":"https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=KEEPLEARNING"
-        }
-
-      ]
-    },
-
-   
-    {
-      "phaseTitle": "Python The Versatile Scripting Language",
-      "courses": [
+                ,
+                {
+                  "title": "JavaScript Interview Questions With Code",
+                  "courseUrl": "https://github.com/akhil3000/JSInterviewQuestions"
+                }
+                ,
+                {
+                  "title": "JavaScript DSA Level 1",
+                  "courseUrl": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures"
+                }
+                ,
+                {
+                  "title": "JavaScript DSA Level 2",
+                  "courseUrl": "https://www.programiz.com/javascript/examples#google_vignette"
+                },
+                {
+                  "title": "JavaScript Projects Course",
+                  "courseUrl": "https://www.udemy.com/course/build-real-world-javascript-development-projects/?kw=build++18+ja&src=sac"
+                }
+                ,
+                {
+                  "title": "Applications Of JavaScript In Real World",
+                  "courseUrl": "https://www.tutorialspoint.com/top-practical-applications-of-javascript"
+                }
+              ]
+            }
         
-        {
-          "title": "Introduction To Python",
-          "courseUrl": "https://www.youtube.com/playlist?list=PLLOxZwkBK52DmuHRO3UNpqAzDF57FtIxk"
-        }
-        ,
-        {
-          "title": "Python Documentation",
-          "courseUrl": "https://www.w3schools.com/python/"
-        }
-        ,
-        {
-          "title": "Python With DSA Level 1",
-          "courseUrl": "https://pynative.com/python-exercises-with-solutions/"
-        }
-        ,
-        {
-          "title": "Python With DSA Level 2",
-          "courseUrl": "https://www.programiz.com/dsa"
-        }
-        ,
-        {
-          "title": "Python Specialization",
-          "courseUrl": "https://www.coursera.org/specializations/python"
-        }
-        ,
-        {
-          "title": "Python Projects Course",
-          "courseUrl": "https://www.udemy.com/course/100-days-of-code/"
-        }
-        ,
-        {
-          "title": "Merits And Demerits Of Python",
-          "courseUrl": "https://www.tutorialspoint.com/what-are-the-limitations-of-python"
-        }
 
-      ]
-    },
+          ],
+        "phase2":[
+          {
+            "phaseTitle": "Discrete Mathematics",
+            "courses": [
+              
+              {
+                "title": "Discrete Mathematics Part 1",
+                "courseUrl": "https://www.youtube.com/playlist?list=PLrjkTql3jnm_GEUWTjAS38-hgtT3Dzuag"
+              }
+              ,
+              {
+                "title": "Discrete Mathematics Part 2",
+                "courseUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3"
+              }
+              ,
+              {
+                "title": "Discrete Mathematics Specialization",
+                "courseUrl": "https://www.coursera.org/specializations/discrete-mathematics"
+              }
+              ,
+              {
+                "title": "Book",
+                "courseUrl": "https://www.amazon.in/Discrete-Mathematics-Its-Applications-SIE/dp/9390727359/ref=sr_1_3?dib=eyJ2IjoiMSJ9.0K3zmADbRHP1bLB8qVWySV4ZlKShXSORyJkOJOHYBRyif115rxRxmZ2dZFYw_IPpB0KCi4JplCSsroia1LHlSFDLtaDYu5TkOPL5uZFxpEceg8tSWgSjdLAsXyXjfkW7VTR0BuCPkLAE0sqsdBV73seeQlnaXDWmzFYu5ZRJWI4jMc0CUkLNaLBnGdWzwFMnaMLo67cjkwjzq0PtbPZZL9vAKWn_CztSPNMrJTttZrE.3RkEk6D6Bpq1kn7a-p3JU9qQelYFl-ipwnyjFgPXKvE&dib_tag=se&keywords=discrete+mathematics&qid=1708424734&sr=8-3"
+              }
+              ,
+              {
+                "title": "Real World Applications Of Discrete Mathematics",
+                "courseUrl": "https://anushka93719.medium.com/discrete-mathematics-in-the-real-world-fbfde9d8a4b5"
+              }
+            ]
+          },
+          
 
-    
-    {
-      "phaseTitle": "JavaScript The Web Language",
-      "courses": [
+            
+
+          {
+            "phaseTitle": "Operating Systems",
+            "courses": [
+              
+              {
+                "title": "Operating System Basics",
+                "courseUrl": "https://www.scaler.com/topics/course/free-operating-system-course/"
+              }
+              ,
+              {
+                "title": "Operating System Complete Tutorial",
+                "courseUrl": "https://www.youtube.com/playlist?list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-"
+              }
+
+              ,
+              {
+                "title": "Operating System Documentation",
+                "courseUrl": "https://www.geeksforgeeks.org/operating-systems/"
+              }
+
+              ,
+              {
+                "title": "Operating System Interview Questions",
+                "courseUrl": "https://www.geeksforgeeks.org/operating-systems-interview-questions/"
+              }
+
+              ,
+              {
+                "title": "Book",
+                "courseUrl": "https://www.amazon.in/Operating-System-Principles-Silberschatz/dp/8126509627/ref=sr_1_1?dib=eyJ2IjoiMSJ9.CxJwPzdT35aL_UKJfb_NoRLmUUd9G5S_MIvANXT900Q_OBNSueNDltXjgd9rVExMApfeqTkxSbwJwvX2htWqutyz761SuSHOu8ZE7Nrbx_mPt9JdOIrq5JEG8FJDKPGQRY_7C2DWEPgxZpoX7zi87pMFeXjp-Tslp29VNn97foKSRMqC2TODm0IlXmd3_5eF5P7QlB28tAsIPOix7lM4l-fcZzPJEUTGmkxrGE4pRIc.WK553lTSney_B-jw2Y0MN2Q8cPInb8mO_562E68rq4Y&dib_tag=se&qid=1708443068&refinements=p_lbr_books_authors_browse-bin%3AAbraham+Silberschatz&s=books&sr=1-1"
+                
+              }
+            ]
+          },
+
+          
+          {
+            "phaseTitle": "Unix And Linux",
+            "courses": [
+              
+              {
+                "title": "Unix & Linux Tutorial",
+                "courseUrl": "https://www.youtube.com/playlist?list=PLLOxZwkBK52DRvS1wKjAHvbOwLmLDl1Io"
+              }
+              ,
+              {
+                "title": "Linux Documentation",
+                "courseUrl": "https://phoenixnap.com/kb/linux-commands"
+              }
+              ,
+              {
+                "title": "Distributions Of Linux",
+                "courseUrl": "https://www.scaler.com/topics/linux-flavors/"
+              }
+              ,
+              {
+                "title": "Real World Applications Of Linux",
+                "courseUrl": "https://linuxways.net/best-of-linux/12-real-world-practical-applications-of-linux/"
+              }
+            ]
+          },
+
         
-        {
-          "title": "JavaScript Module from Angela You Course",
-          "courseUrl": "https://www.udemy.com/course/the-complete-web-development-bootcamp/"
-        }
-        ,
-        {
-          "title": "JavaScript Documentation",
-          "courseUrl": "https://www.w3schools.com/js/"
-        }
-        ,
-        {
-          "title": "Namaste JavaScript Season1",
-          "courseUrl": "https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP"
-        }
+          {
+            "phaseTitle": "Database Management Systems",
+            "courses": [
+              
+              {
+                "title": "DBMS & SQL Complete Tutorial",
+                "courseUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y"
+              }
+              ,
+              {
+                "title": "DBMS Documentation",
+                "courseUrl": "https://www.javatpoint.com/dbms-tutorial"
+              }
+              ,
+              {
+                "title": "DBMS Interview Questions",
+                "courseUrl": "https://www.interviewbit.com/dbms-interview-questions/"
+              }
+              ,
+              {
+                "title": "SQL Documentation",
+                "courseUrl": "https://www.w3schools.com/sql/"
+              }
+              ,
+              {
+                "title": "SQL Hackerrank Practice",
+                "courseUrl": "https://www.hackerrank.com/domains/sql"
+              }
+              ,
+              {
+                "title": "SQL Leetcode Practice",
+                "courseUrl": "https://leetcode.com/studyplan/top-sql-50/"
+              }
+              ,
+              {
+                "title": "SQL Interview Questions",
+                "courseUrl": "https://www.interviewbit.com/sql-interview-questions/"
+              },
+              {
+                "title":"Introduction to NoSql Databases",
+                "courseUrl":"https://www.javatpoint.com/nosql-databases"
+              }
+              ,
+              
+              {
+                "title":"Web Development Project using Database",
+                "courseUrl":"https://www.youtube.com/watch?v=I7EDAR2GRVo"
+              }
+            ,
+              {
+                "title":"Book",
+                "courseUrl":"https://www.amazon.in/Database-Management-Systems-Raghu-Ramakrishnan/dp/9339213114"
+              },
+              
+              {
+                "title":"Real World Applications of DBMS",
+                "courseUrl":"https://www.interviewbit.com/blog/applications-of-dbms/"
+              }
+              
+              
+            ]
+          },
+          
+          {
+            "phaseTitle": "Computer Networks",
+            "courses": [
+              
+              {
+                "title": "Computer Networks Specialization",
+                "courseUrl": "https://www.coursera.org/learn/computer-networking"
+              }
+              ,
+              {
+                "title": "Computer Networks Complete Tutorial",
+                "courseUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_"
+              }
+              ,
+              {
+                "title": "Computer Networks Documentation",
+                "courseUrl": "https://www.geeksforgeeks.org/computer-network-tutorials"
+              }
+              ,
+              {
+                "title": "Computer Networks Interview Questions",
+                "courseUrl": "https://www.interviewbit.com/networking-interview-questions/"
+              },
+              {
+                "title":"CCNA Course",
+                "courseUrl":"https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/?couponCode=IND21PM"
+              },
+              {
+                "title":"Book",
+                "courseUrl":"https://www.flipkart.com/computer-networks/p/itmfbt6qgafcpkuc"
+              },
+              {
+                "title":"Real World Applications of Computer Networks",
+                "courseUrl":"https://www.prepbytes.com/blog/computer-network/uses-of-computer-network/"
+              }
+            ]
+          },
+          {
+            "phaseTitle": "Thoery Of Computation",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "Compiler Design",
+            "courses": [{}]
+          }
+        ],
+        "phase3":[
+          {
+            "phaseTitle": "Software Engineering",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "Unified Modelling Language",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "Web Technologies",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "MERN Stack",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "CryptoGraphy And Cyber Security",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "Mobile Application Development",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "Testing And Devops",
+            "courses": [{}]
+          }
+        ],
+        "phase4":[
+          {
+            "phaseTitle": "Design Patterns And System Design",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "Distributed Systems",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "Cloud Computing",
+            "courses": [{}]
+          },
+          {
+            "phaseTitle": "Computer Graphics And Game Development",
+            "courses": [{}]
+          }
 
-        ,
+        ]
+    },
+    "web Development": {
+      "phase1": [
         {
-          "title": "Namaste JavaScript Season2",
-          "courseUrl": "https://www.youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX"
-        }
-        ,
-        {
-          "title": "JavaScript Interview Questions",
-          "courseUrl": "https://www.youtube.com/playlist?list=PLlasXeu85E9eV5xUEgrWUB8NAUvNZGsK0"
-        }
-
-        ,
-        {
-          "title": "JavaScript Interview Questions With Code",
-          "courseUrl": "https://github.com/akhil3000/JSInterviewQuestions"
-        }
-        ,
-        {
-          "title": "JavaScript DSA Level 1",
-          "courseUrl": "https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures"
-        }
-        ,
-        {
-          "title": "JavaScript DSA Level 2",
-          "courseUrl": "https://www.programiz.com/javascript/examples#google_vignette"
+          "phaseTitle": "Web Development Prerequitises"
         },
         {
-          "title": "JavaScript Projects Course",
-          "courseUrl": "https://www.udemy.com/course/build-real-world-javascript-development-projects/?kw=build++18+ja&src=sac"
-        }
-        ,
+          "phaseTitle":"Web Development Basics",
+          "courses":[{}]
+         },
+         {
+          "phaseTitle":"Git And Github",
+          "courses":[{}]
+         },
+         {
+          "phaseTitle":"HTML And CSS",
+          "courses":[{}]
+         },
+         {
+          "phaseTitle":"JavaScript",
+          "courses":[{}]
+         },
+         {
+          "phaseTitle":"ReactJs",
+          "courses":[{}]
+         }
+      ],
+      "phase2": [
         {
-          "title": "Applications Of JavaScript In Real World",
-          "courseUrl": "https://www.tutorialspoint.com/top-practical-applications-of-javascript"
+          "phaseTitle":"Backend Basics",
+          "courses":[{}]
+        },
+        {
+          "phaseTitle":"MongoDB",
+          "courses":[{}]
+        },
+        {
+          "phaseTitle":"Node And Express Js",
+          "courses":[{}]
+        },
+        {
+          "phaseTitle":"MERN Stack Projects",
+          "courses":[{}]
+        },
+        {
+          "phaseTitle":"NextJs",
+          "courses":[{}]
+        },
+        {
+          "phaseTitle":"MicroServices And Cloud",
+          "courses":[{}]
         }
-      ]
-    }
- 
-
-  ],
-
- 
-"phase2":[
-  {
-    "phaseTitle": "Discrete Mathematics",
-    "courses": [
-      
-      {
-        "title": "Discrete Mathematics Part 1",
-        "courseUrl": "https://www.youtube.com/playlist?list=PLrjkTql3jnm_GEUWTjAS38-hgtT3Dzuag"
-      }
-      ,
-      {
-        "title": "Discrete Mathematics Part 2",
-        "courseUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3"
-      }
-      ,
-      {
-        "title": "Discrete Mathematics Specialization",
-        "courseUrl": "https://www.coursera.org/specializations/discrete-mathematics"
-      }
-      ,
-      {
-        "title": "Book",
-        "courseUrl": "https://www.amazon.in/Discrete-Mathematics-Its-Applications-SIE/dp/9390727359/ref=sr_1_3?dib=eyJ2IjoiMSJ9.0K3zmADbRHP1bLB8qVWySV4ZlKShXSORyJkOJOHYBRyif115rxRxmZ2dZFYw_IPpB0KCi4JplCSsroia1LHlSFDLtaDYu5TkOPL5uZFxpEceg8tSWgSjdLAsXyXjfkW7VTR0BuCPkLAE0sqsdBV73seeQlnaXDWmzFYu5ZRJWI4jMc0CUkLNaLBnGdWzwFMnaMLo67cjkwjzq0PtbPZZL9vAKWn_CztSPNMrJTttZrE.3RkEk6D6Bpq1kn7a-p3JU9qQelYFl-ipwnyjFgPXKvE&dib_tag=se&keywords=discrete+mathematics&qid=1708424734&sr=8-3"
-      }
-      ,
-      {
-        "title": "Real World Applications Of Discrete Mathematics",
-        "courseUrl": "https://anushka93719.medium.com/discrete-mathematics-in-the-real-world-fbfde9d8a4b5"
-      }
-    ]
-  },
-  
-
-     
-
-  {
-    "phaseTitle": "Operating Systems",
-    "courses": [
-      
-      {
-        "title": "Operating System Basics",
-        "courseUrl": "https://www.scaler.com/topics/course/free-operating-system-course/"
-      }
-      ,
-      {
-        "title": "Operating System Complete Tutorial",
-        "courseUrl": "https://www.youtube.com/playlist?list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-"
-      }
-
-      ,
-      {
-        "title": "Operating System Documentation",
-        "courseUrl": "https://www.geeksforgeeks.org/operating-systems/"
-      }
-
-      ,
-      {
-        "title": "Operating System Interview Questions",
-        "courseUrl": "https://www.geeksforgeeks.org/operating-systems-interview-questions/"
-      }
-
-      ,
-      {
-        "title": "Book",
-        "courseUrl": "https://www.amazon.in/Operating-System-Principles-Silberschatz/dp/8126509627/ref=sr_1_1?dib=eyJ2IjoiMSJ9.CxJwPzdT35aL_UKJfb_NoRLmUUd9G5S_MIvANXT900Q_OBNSueNDltXjgd9rVExMApfeqTkxSbwJwvX2htWqutyz761SuSHOu8ZE7Nrbx_mPt9JdOIrq5JEG8FJDKPGQRY_7C2DWEPgxZpoX7zi87pMFeXjp-Tslp29VNn97foKSRMqC2TODm0IlXmd3_5eF5P7QlB28tAsIPOix7lM4l-fcZzPJEUTGmkxrGE4pRIc.WK553lTSney_B-jw2Y0MN2Q8cPInb8mO_562E68rq4Y&dib_tag=se&qid=1708443068&refinements=p_lbr_books_authors_browse-bin%3AAbraham+Silberschatz&s=books&sr=1-1"
-        
-      }
-    ]
-  },
-
-  
-  {
-    "phaseTitle": "Unix And Linux",
-    "courses": [
-      
-      {
-        "title": "Unix & Linux Tutorial",
-        "courseUrl": "https://www.youtube.com/playlist?list=PLLOxZwkBK52DRvS1wKjAHvbOwLmLDl1Io"
-      }
-      ,
-      {
-        "title": "Linux Documentation",
-        "courseUrl": "https://phoenixnap.com/kb/linux-commands"
-      }
-      ,
-      {
-        "title": "Distributions Of Linux",
-        "courseUrl": "https://www.scaler.com/topics/linux-flavors/"
-      }
-      ,
-      {
-        "title": "Real World Applications Of Linux",
-        "courseUrl": "https://linuxways.net/best-of-linux/12-real-world-practical-applications-of-linux/"
-      }
-    ]
-  },
-
- 
-  {
-    "phaseTitle": "Database Management Systems",
-    "courses": [
-      
-      {
-        "title": "DBMS & SQL Complete Tutorial",
-        "courseUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y"
-      }
-      ,
-      {
-        "title": "DBMS Documentation",
-        "courseUrl": "https://www.javatpoint.com/dbms-tutorial"
-      }
-      ,
-      {
-        "title": "DBMS Interview Questions",
-        "courseUrl": "https://www.interviewbit.com/dbms-interview-questions/"
-      }
-      ,
-      {
-        "title": "SQL Documentation",
-        "courseUrl": "https://www.w3schools.com/sql/"
-      }
-      ,
-      {
-        "title": "SQL Hackerrank Practice",
-        "courseUrl": "https://www.hackerrank.com/domains/sql"
-      }
-      ,
-      {
-        "title": "SQL Leetcode Practice",
-        "courseUrl": "https://leetcode.com/studyplan/top-sql-50/"
-      }
-      ,
-      {
-        "title": "SQL Interview Questions",
-        "courseUrl": "https://www.interviewbit.com/sql-interview-questions/"
+      ],
+      "phase3": [
+        {
+          "phaseTitle":"Spring",
+          "courses":[{}]
+        },
+        {
+          "phaseTitle":"System Design",
+          "courses":[{}]
+        },
+        {
+          "phaseTitle":"BlockChain And Web3",
+          "courses":[{}]
       },
       {
-        "title":"Introduction to NoSql Databases",
-        "courseUrl":"https://www.javatpoint.com/nosql-databases"
-      }
-      ,
-      
-      {
-        "title":"Web Development Project using Database",
-        "courseUrl":"https://www.youtube.com/watch?v=I7EDAR2GRVo"
-      }
-     ,
-      {
-        "title":"Book",
-        "courseUrl":"https://www.amazon.in/Database-Management-Systems-Raghu-Ramakrishnan/dp/9339213114"
-      },
-      
-      {
-        "title":"Real World Applications of DBMS",
-        "courseUrl":"https://www.interviewbit.com/blog/applications-of-dbms/"
-      }
-      
-      
-    ]
-  },
-  
-  {
-    "phaseTitle": "Computer Networks",
-    "courses": [
-      
-      {
-        "title": "Computer Networks Specialization",
-        "courseUrl": "https://www.coursera.org/learn/computer-networking"
-      }
-      ,
-      {
-        "title": "Computer Networks Complete Tutorial",
-        "courseUrl": "https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_"
-      }
-      ,
-      {
-        "title": "Computer Networks Documentation",
-        "courseUrl": "https://www.geeksforgeeks.org/computer-network-tutorials"
-      }
-      ,
-      {
-        "title": "Computer Networks Interview Questions",
-        "courseUrl": "https://www.interviewbit.com/networking-interview-questions/"
-      },
-      {
-         "title":"CCNA Course",
-         "courseUrl":"https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/?couponCode=IND21PM"
-      },
-      {
-        "title":"Book",
-        "courseUrl":"https://www.flipkart.com/computer-networks/p/itmfbt6qgafcpkuc"
-      },
-      {
-        "title":"Real World Applications of Computer Networks",
-        "courseUrl":"https://www.prepbytes.com/blog/computer-network/uses-of-computer-network/"
-      }
-    ]
-  },
-  {
-    "phaseTitle": "Thoery Of Computation",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "Compiler Design",
-    "courses": [{}]
-  }
-],
-"phase3":[
-  {
-    "phaseTitle": "Software Engineering",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "Unified Modelling Language",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "Web Technologies",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "MERN Stack",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "CryptoGraphy And Cyber Security",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "Mobile Application Development",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "Testing And Devops",
-    "courses": [{}]
-  }
-],
-"phase4":[
-  {
-    "phaseTitle": "Design Patterns And System Design",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "Distributed Systems",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "Cloud Computing",
-    "courses": [{}]
-  },
-  {
-    "phaseTitle": "Computer Graphics And Game Development",
-    "courses": [{}]
-  }
-
-]
-{
-  "Basics And FrontEnd":[
-     {
-      "phaseTitle":"Web Development Prerequitises"
-     },
-     {
-      "phaseTitle":"Web Development Basics",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"Git And Github",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"HTML And CSS",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"JavaScript",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"ReactJs",
-      "courses":[{}]
-     }
-  ],
-  "Backend & Advanced":[
-    {
-      "phaseTitle":"Backend Basics",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"MongoDB",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"Node And Express Js",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"MERN Stack Projects",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"NextJs",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"MicroServices And Cloud",
-      "courses":[{}]
-    }
-  ],
-  "Good To have":[
-    {
-      "phaseTitle":"Spring",
-      "courses":[{}]
-    },
-    {
-      
-        "phaseTitle":"System Design",
+        "phaseTitle":"Deployments",
         "courses":[{}]
-      
-    },
-    {
-      
-      "phaseTitle":"BlockChain And Web3",
-      "courses":[{}]
-    
-  },
-  {
-      
-    "phaseTitle":"Deployments",
-    "courses":[{}]
-  
- },
- {
-      
-  "phaseTitle":"Web Development Community",
-  "courses":[{}]
-
-}
-  ]
-}
-{
-   {
-    "phaseTitle":"DSA Prerequitises",
-    "courses":[{}]
-   },
-   {
-    "phaseTitle":"C++ Pathway",
-    "courses":[{}]
-   },
-   {
-    "phaseTitle":"Java Pathway",
-    "courses":[{}]
-   },
-   {
-    "phaseTitle":"Blogs",
-    "courses":[{}]
-   },
-   {
-    "phaseTitle":"Competitive DSA Books",
-    "courses":[{}]
-   },
-   {
-    "phaseTitle":"Programming Practice Websites",
-    "courses":[{}]
-   },
-   {
-    "phaseTitle":"DSA SDE Sheets",
-    "courses":[{}]
-   },
-   {
-    "phaseTitle":"DebuggingCommunity",
-    "courses":[{}]
-   }
-
-}
-{
-  "Fundamentals & Beginner":[
-    {
-      "phaseTitle":"DataScience Prerequitises",
-    },
-    {
-      "phaseTitle":"Python With DSA",
-      "courses":[{}]
      },
      {
-      "phaseTitle":"DataScience Libraries",
+      "phaseTitle":"Web Development Community",
       "courses":[{}]
-     },
-     {
-      "phaseTitle":"Statistics & Maths for DataScience",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"Learn SQL",
-      "courses":[{}]
-     },
-  ],
-  "Core & Intermediate":[
-    {
-      "phaseTitle":"Data Cleaning",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"Exploratory Data Analysis",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"Machine Learning Algorithms",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"BigData&Spark",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"Practice on Anayltics Vidhya And Kaggle",
-      "courses":[{}]
-     },
-     {
-      "phaseTitle":"Analytics Vidhya DataScientist BlackBelt Program",
-      "courses":[{}]
-     },
-  ],
-  "Research & Advanced":[
-    {
-      "phaseTitle":"DeepLearning & NeuralNetworks",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"Computer Vision",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"Natural Language Processing",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"Recommendation Systems",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"Reinforcement Learning",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"Deep RL And Self Driving Cars NanoDegree",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"Introduction To Generative AI",
-      "courses":[{}]
-    },
-    {
-      "phaseTitle":"DataScience Community",
-      "courses":[{}]
+      }
+      ]
     }
-  ]
-}
-}
- /*
-   
-<MenuTitle title="Time Complexity Analysis" url="https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn"/> 
-    <MenuTitle title="DataStructures With C++" url="https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P"/>
-    <MenuTitle title="Sorting Algorithms" url="https://www.youtube.com/playlist?list=PL2_aWCzGMAwKedT2KfDMB9YA5DgASZb3U"/>
-    <MenuTitle title="DSA Documentation & Tutorial" url="https://www.programiz.com/dsa"/>
-    <MenuTitle title="HackerRank Data Structures Practice" url="https://www.hackerrank.com/domains/data-structures"/>
-    <MenuTitle title="Competitive DSA" url="https://www.youtube.com/@takeUforward/playlists"/>
-    <MenuTitle title="Strivers SDE Sheet" url="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"/>
-    <MenuTitle title="Book1" url="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/8193245288/ref=sr_1_1?qid=1708155390&refinements=p_27%3ANarasimha+Karumanchi&s=books&sr=1-1"/>
-    <MenuTitle title="Book1" url="https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850"/>
     
-    <MenuTitle title="Real World Applications of Data Structures" url="https://www.geeksforgeeks.org/real-time-application-of-data-structures/"/>
-
-    <MenuTitle title="Design And Analysis Of Algorithms" url="https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O"/>
-    <MenuTitle title="Algorithms Specialization" url="https://www.coursera.org/specializations/algorithms"/>
-    <MenuTitle title="Documentation Tutorial" url="https://www.javatpoint.com/daa-tutorial"/>
-    <MenuTitle title="Book" url="https://www.amazon.in/Data-structures-Algorithm-Analysis-C/dp/8131714748"/>
-
-    <MenuTitle title="Introduction To Java Programming" url="https://www.youtube.com/playlist?list=PLLOxZwkBK52BaOQCJrVvkc97uzeMsx9TT"/>
-     <MenuTitle title="Java Tutorial" url="https://www.javatpoint.com/java-tutorial"/>
-     <MenuTitle title="Java With DSA Level1" url="https://www.javatpoint.com/java-programs"/>
-     <MenuTitle title="Java With DSA Level2" url="https://www.scaler.com/topics/course/dsa-beginners-java/"/>
-     <MenuTitle title="Java Interview Questions" url="https://www.javatpoint.com/corejava-interview-questions"/>
-     <div className="hii">
-       You can start learning Web Development Basics and Front End Development from Web Development Module Parallelly Before going Further
-       </div>
-     <MenuTitle title="Java Backend Development RoadMap" url="https://www.javabrains.io/pages/complete-java-backend-learning-path"/>
-     <MenuTitle title="Java Backend Development Resources" url="https://www.youtube.com/@Java.Brains/playlists"/> 
-     <MenuTitle title="Java Backend Development Project 1" url="https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?couponCode=KEEPLEARNING"/>
-     <MenuTitle title="Java Backend Development Project 2" url="https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/"/>
-     <MenuTitle title="Java Backend Development Project 3" url="https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0"/>
-    </div>
-     
-     <div className="menuitem">
-    <MenuTitle title="Introduction To Python" url="https://www.youtube.com/playlist?list=PLLOxZwkBK52DmuHRO3UNpqAzDF57FtIxk"/>  
-    <MenuTitle title="Python Documentation" url="https://www.w3schools.com/python/"/>
-    <MenuTitle title="Python With DSA Level 1" url="https://pynative.com/python-exercises-with-solutions/"/>
-    <MenuTitle title="Python With DSA Level 2" url="https://www.programiz.com/dsa"/>
-
-    <MenuTitle title="Python Specialization" url="https://www.coursera.org/specializations/python"/>
-    <MenuTitle title="Python Projects Course" url="https://www.udemy.com/course/100-days-of-code/"/>
-    <MenuTitle title="Merits And Demerits Of Python" url="https://www.tutorialspoint.com/what-are-the-limitations-of-python"/>
-    </div>
-    <MenuTitle title="JavaScript Module from Angela You Course" url="https://www.udemy.com/course/the-complete-web-development-bootcamp/"/>
-    <MenuTitle title="JavaScript Documentation" url="https://www.w3schools.com/js/"/>
-    <MenuTitle title="Namaste JavaScript Season1" url="https://www.youtube.com/playlist?list=PLlasXeu85E9cQ32gLCvAvr9vNaUccPVNP"/>
-    <MenuTitle title="Namaste JavaScript Season2" url="https://www.youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX"/>
-    <MenuTitle title="JavaScript Interview Questions" url="https://www.youtube.com/playlist?list=PLlasXeu85E9eV5xUEgrWUB8NAUvNZGsK0"/>
-    <MenuTitle title="JavaScript Interview Questions With Code" url="https://github.com/akhil3000/JSInterviewQuestions"/>
-    <MenuTitle title="JavaScript DSA" url="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures"/>
-    <MenuTitle title="JavaScript Projects Course" url="https://www.udemy.com/course/build-real-world-javascript-development-projects/?kw=build++18+ja&src=sac"/>
-    <MenuTitle title="Applications Of JavaScript In Real World" url="https://www.tutorialspoint.com/top-practical-applications-of-javascript"/>
-    </div>
-
-     <div className="menuitem">
-      <MenuTitle title="Discrete Mathematics Part 1" url="https://www.youtube.com/playlist?list=PLrjkTql3jnm_GEUWTjAS38-hgtT3Dzuag"/>
-      <MenuTitle title="Discrete Mathematics Part 2" url="https://www.youtube.com/playlist?list=PLxCzCOWd7aiH2wwES9vPWsEL6ipTaUSl3"/>
-      <MenuTitle title="Discrete Mathematics Specialization" url="https://www.coursera.org/specializations/discrete-mathematics"/>
-      <MenuTitle title="Book" url="https://www.amazon.in/Discrete-Mathematics-Its-Applications-SIE/dp/9390727359/ref=sr_1_3?dib=eyJ2IjoiMSJ9.0K3zmADbRHP1bLB8qVWySV4ZlKShXSORyJkOJOHYBRyif115rxRxmZ2dZFYw_IPpB0KCi4JplCSsroia1LHlSFDLtaDYu5TkOPL5uZFxpEceg8tSWgSjdLAsXyXjfkW7VTR0BuCPkLAE0sqsdBV73seeQlnaXDWmzFYu5ZRJWI4jMc0CUkLNaLBnGdWzwFMnaMLo67cjkwjzq0PtbPZZL9vAKWn_CztSPNMrJTttZrE.3RkEk6D6Bpq1kn7a-p3JU9qQelYFl-ipwnyjFgPXKvE&dib_tag=se&keywords=discrete+mathematics&qid=1708424734&sr=8-3"/>
-      <MenuTitle title="Real World Applications Of Discrete Mathematics" url="https://anushka93719.medium.com/discrete-mathematics-in-the-real-world-fbfde9d8a4b5"/>
-    </div>
-
-    <MenuTitle title="Operating System Complete Tutorial" url="https://www.youtube.com/playlist?list=PLrjkTql3jnm9U1tSPnPQWQGIGNkUwBFv-"/>
-     <MenuTitle title="Operating System Interview Questions" url="https://www.geeksforgeeks.org/operating-systems-interview-questions/"/>
-     <MenuTitle title="Book" url="https://www.amazon.in/Operating-System-Principles-Silberschatz/dp/8126509627/ref=sr_1_1?dib=eyJ2IjoiMSJ9.CxJwPzdT35aL_UKJfb_NoRLmUUd9G5S_MIvANXT900Q_OBNSueNDltXjgd9rVExMApfeqTkxSbwJwvX2htWqutyz761SuSHOu8ZE7Nrbx_mPt9JdOIrq5JEG8FJDKPGQRY_7C2DWEPgxZpoX7zi87pMFeXjp-Tslp29VNn97foKSRMqC2TODm0IlXmd3_5eF5P7QlB28tAsIPOix7lM4l-fcZzPJEUTGmkxrGE4pRIc.WK553lTSney_B-jw2Y0MN2Q8cPInb8mO_562E68rq4Y&dib_tag=se&qid=1708443068&refinements=p_lbr_books_authors_browse-bin%3AAbraham+Silberschatz&s=books&sr=1-1"/>
-     
-      <div className="menuitem">
-    <MenuTitle title="Unix & Linux Tutorial" url="https://www.youtube.com/playlist?list=PLLOxZwkBK52DRvS1wKjAHvbOwLmLDl1Io"/>
-    <MenuTitle title="Linux Documentation" url="https://phoenixnap.com/kb/linux-commands"/>
-    <MenuTitle title="Flavours Of Linux" url="https://www.scaler.com/topics/linux-flavors/"/>
-    <MenuTitle title="Real World Applications Of Linux" url="https://linuxways.net/best-of-linux/12-real-world-practical-applications-of-linux/"/>
-    </div>
-
-<MenuTitle title="DBMS & SQL Complete Tutorial" url="https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y"/> 
-    <MenuTitle title="DBMS Interview Questions" url="https://www.interviewbit.com/dbms-interview-questions/"/> 
-    <MenuTitle title="SQL Documentation" url="https://www.w3schools.com/sql/"/> 
-    <MenuTitle title="SQL Hackerrank Practice" url="https://www.hackerrank.com/domains/sql"/> 
-    <MenuTitle title="SQL Leetcode Practice" url="https://leetcode.com/studyplan/top-sql-50/"/> 
-    <MenuTitle title="SQL Interview Questions" url="https://www.interviewbit.com/sql-interview-questions/"/> 
-    <MenuTitle title="Book" url="https://www.amazon.in/Database-Management-Systems-Raghu-Ramakrishnan/dp/9339213114"/>
-    <div className="menuitem">
-      <MenuTitle title="Computer Networks Specialization" url="https://www.coursera.org/learn/computer-networking"/>
-      <MenuTitle title="Computer Networks Complete Tutorial" url="https://www.youtube.com/playlist?list=PLxCzCOWd7aiGFBD2-2joCpWOLUrDLvVV_"/>
-      <MenuTitle title="Computer Networks Interview Questions" url="https://www.interviewbit.com/networking-interview-questions/"/>
-      <MenuTitle title="Book" url="https://www.flipkart.com/computer-networks/p/itmfbt6qgafcpkuc"/>
-    </div>
-*/
+  }

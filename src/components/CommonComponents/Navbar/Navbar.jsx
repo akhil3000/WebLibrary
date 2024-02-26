@@ -4,7 +4,10 @@ import { Link } from "react-router-dom";
 import "./Navbar.css";
 import Modal from "../Modal/Modal";
 const Navbar = () => {
-  const [showModal, setShowModal] = useState(false);
+  const [showModal, setShowModal] = useState({
+    type: "",
+    open: false,
+  });
 
   window.onscroll = () => {
     if (window.pageYOffset > 50) {
@@ -32,7 +35,7 @@ const Navbar = () => {
           <Link to="/DSA">DSA</Link>
         </li>
         <li>
-          <Link to="/CSFundamentals">CS Fundamentals</Link>
+          <Link to="/cs-fundamentals">CS Fundamentals</Link>
         </li>
         <li>
           <Link to="/MyCourses">My Courses</Link>
@@ -45,11 +48,17 @@ const Navbar = () => {
         </li>
       </ul>
       <div className="auth-buttons">
-        <button onClick={() => setShowModal(true)}>Sign in</button>
-        <button>Sign up</button>
+        <button onClick={() => setShowModal({ type: "Sign in", open: true })}>
+          Sign in
+        </button>
+        <button onClick={() => setShowModal({ type: "Sign up", open: true })}>
+          Sign up
+        </button>
       </div>
 
-      {showModal && <Modal closeModal={setShowModal} />}
+      {showModal.open && (
+        <Modal closeModal={setShowModal} modalType={showModal.type} />
+      )}
     </nav>
   );
 };

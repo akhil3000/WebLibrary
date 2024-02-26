@@ -2,96 +2,11 @@ import React, { lazy, Suspense } from "react";
 import "./App.css";
 import Navbar from "./components/CommonComponents/Navbar/Navbar";
 import { Route, Routes } from "react-router-dom";
-// import Spacecomponent from "./components/Spacecomponent";
-import store from "./utils/store";
-
-import {
-  Contribute,
-  AboutUs,
-  Home,
-  WebDevelopmentBasics,
-  GitAndGithub,
-  HtmlAndCss,
-  JavaScript,
-  Reactjs,
-  BackendBasics,
-  MongoDB,
-  NodeANDExpress,
-  MERNStackProjects,
-  Deployments,
-  Footerx,
-  MyCourses,
-  WebPrerequitises,
-  NextJs,
-  MicroServicesAndCloud,
-  Spring,
-  SystemDesign,
-  ProgrammingLanguage,
-  Statistics,
-  StrcturedQueryLanguage,
-  DataCleaning,
-  ExploratoryDataAnalysis,
-  MachineLearning,
-  DeepLearningAndNeuralNetworks,
-  NaturalLanguageProcessing,
-  DataSciencePrerequitises,
-  IntroductionToGenerativeAI,
-  ReinforcementLearning,
-  RecommendationSystems,
-  DeepReinforcementLearning,
-  PracticeWebsitesAndBlogs,
-  AnalyticsVidhyaBlackBeltProgram,
-  DsaPrerequitises,
-  Cpluspluspathway,
-  JavaPathway,
-  Blogs,
-  CompetitiveDSABooks,
-  DSAStrcturedCuricullumInJava,
-  SdeSheets,
-  CodingPractice,
-  DebuggingCommunity,
-  IntroductionToComputerScience,
-  CLanguage,
-  Cplusplus,
-  DataStructures,
-  DesignAndAnalysisOfAlgorithms,
-  Java,
-  Python,
-  VanillaJavaScript,
-  DiscreteMathematics,
-  OperatingSystems,
-  UnixAndLinux,
-  DatabaseManagementSystems,
-  ComputerNetworks,
-  ThoeryOfComputation,
-  CompilerDesign,
-  SoftWareEngineering,
-  UnifiedModellingLanguage,
-  WebTechnologies,
-  MERNStack,
-  CryptoGraphyAndCyberSecurity,
-  MobileApplicationDev,
-  DesignPatternsAndSystemDesign,
-  TestingAndDevops,
-  DistributedSystems,
-  CloudComputing,
-  ComputerGraphicsAndGameDevelopment,
-  BlockChainAndWeb3,
-} from "./pages";
-const WebDevlopment = lazy(() =>
-  import("./components/WebDevelopment/WebDevlopment")
-);
-const DataScience = lazy(() => import("./components/DataScience/DataScience"));
-const CSFundamentals = lazy(() =>
-  import("./components/CSFundamentals/CSFundamentals")
-);
-const DSA = lazy(() => import("./components/DSA/DSA"));
 
 function App() {
   return (
     <div className="App">
       <Navbar />
-      {/* <Spacecomponent/> */}
       <Routes>
         <Route path="/" element={<Home />} />
         <Route
