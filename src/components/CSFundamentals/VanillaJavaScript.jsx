@@ -10,7 +10,8 @@ const VanillaJavaScript = () => {
     <MenuTitle title="Namaste JavaScript Season2" url="https://www.youtube.com/playlist?list=PLlasXeu85E9eWOpw9jxHOQyGMRiBZ60aX"/>
     <MenuTitle title="JavaScript Interview Questions" url="https://www.youtube.com/playlist?list=PLlasXeu85E9eV5xUEgrWUB8NAUvNZGsK0"/>
     <MenuTitle title="JavaScript Interview Questions With Code" url="https://github.com/akhil3000/JSInterviewQuestions"/>
-    <MenuTitle title="JavaScript DSA" url="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures"/>
+    <MenuTitle title="JavaScript DSA Level1" url="https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures"/>
+    <MenuTitle title="JavaScript DSA Level 2" url="https://www.programiz.com/javascript/examples#google_vignette"/>
     <MenuTitle title="JavaScript Projects Course" url="https://www.udemy.com/course/build-real-world-javascript-development-projects/?kw=build++18+ja&src=sac"/>
     <MenuTitle title="Applications Of JavaScript In Real World" url="https://www.tutorialspoint.com/top-practical-applications-of-javascript"/>
     </div>

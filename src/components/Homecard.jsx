@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom'
 import {useSelector} from "react-redux";
 import { addItem } from '../utils/cartSlice';
 import { useDispatch } from 'react-redux';
+import photo from '../assets/Csfundamentals.jpg'
 const Homecard = ({path,title}) => {
   const cartItems=useSelector(store=>store.cart.items);
   const dispatch=useDispatch();
@@ -11,11 +12,11 @@ const Homecard = ({path,title}) => {
     dispatch(addItem("Grapes"));
   }
   return (
-    <div>
+    <div className="cardDimensions">
     <Link to={path}>
-     <button className="a1">{title}
-     {<button className="a2" onClick={()=>handleAddItem()}>Bookmark Course </button>}
-     </button>
+     
+     <img class="imageDimensions" src={photo} alt="Subject image"></img>
+     {title}
       </Link>
     </div>
   )
