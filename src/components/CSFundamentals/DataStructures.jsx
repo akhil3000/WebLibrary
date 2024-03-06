@@ -12,7 +12,7 @@ const DataStructures = () => {
     <MenuTitle title="Competitive DSA" url="https://www.youtube.com/@takeUforward/playlists"/>
     <MenuTitle title="Strivers SDE Sheet" url="https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/"/>
     <MenuTitle title="Book1" url="https://www.amazon.in/Data-Structures-Algorithms-Made-Easy/dp/8193245288/ref=sr_1_1?qid=1708155390&refinements=p_27%3ANarasimha+Karumanchi&s=books&sr=1-1"/>
-    <MenuTitle title="Book1" url="https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850"/>
+    <MenuTitle title="Book2" url="https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850"/>
     
     <MenuTitle title="Real World Applications of Data Structures" url="https://www.geeksforgeeks.org/real-time-application-of-data-structures/"/>
     </div>
