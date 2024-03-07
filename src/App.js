@@ -166,7 +166,7 @@ function App() {
           <Route path="/ReinforcementLearning " element={<ReinforcementLearning/>}/>   
           <Route path="/DeepReinforcementLearning " element={<DeepReinforcementLearning/>}/>   
           <Route path="/RecommendationSystems " element={<RecommendationSystems/>}/>
-          <Route path="/UnifiedModellingLanguage " element={<UnifiedModellingLanguage/>}/>
+          <Route path="/UnifiedModellingLanguage" element={<UnifiedModellingLanguage/>}/>
 
         </Routes>
         <Footerx/>
