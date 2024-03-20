@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './WebDevelopment.css'
+import MenuTitle from '../MenuTitle'
 const MongoDB = () => {
   return (
-    <div>MongoDB</div>
+    <div>
+      <MenuTitle title="" url=""/>
+    </div>
   )
 }
 

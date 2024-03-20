@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './DataScience.css'
+import MenuTitle from '../MenuTitle'
 const StrcturedQueryLanguage = () => {
   return (
-    <div>StrcturedQueryLanguage</div>
+    <div>
+      <MenuTitle title="" url=""/>
+    </div>
   )
 }
 

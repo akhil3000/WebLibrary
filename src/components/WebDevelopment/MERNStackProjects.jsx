@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './WebDevelopment.css'
+import MenuTitle from '../MenuTitle'
 const MERNStackProjects = () => {
   return (
-    <div>MERNStackProjects</div>
+    <div>
+       <MenuTitle title="" url=""/>
+    </div>
   )
 }
 

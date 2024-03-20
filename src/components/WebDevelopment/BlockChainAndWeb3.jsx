@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './WebDevelopment.css'
+import MenuTitle from '../MenuTitle'
 const BlockChainAndWeb3 = () => {
   return (
-    <div>BlockChainAndWeb3</div>
+    <div>
+      <MenuTitle title="" url=""/>
+    </div>
   )
 }
 

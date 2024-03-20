@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './DSA.css'
+import MenuTitle from '../MenuTitle'
 const DebuggingCommunity = () => {
   return (
-    <div>DebuggingCommunity</div>
+    <div>
+       <MenuTitle title="" url=""/>
+    </div>
   )
 }
 

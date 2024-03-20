@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './DataScience.css'
+import MenuTitle from '../MenuTitle'
 const BigData = () => {
   return (
-    <div>BigData</div>
+    <div>
+       <MenuTitle title="" url=""/>
+    </div>
   )
 }
 

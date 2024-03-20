@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './DataScience.css'
+import MenuTitle from '../MenuTitle'
 const DeepReinforcementLearning = () => {
   return (
-    <div>DeepReinforcementLearning</div>
+    <div>
+      <MenuTitle title="" url=""/>
+    </div>
   )
 }
 

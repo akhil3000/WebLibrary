@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './DataScience.css'
+import MenuTitle from '../MenuTitle'
 const DataScienceCommunity = () => {
   return (
-    <div>DataScienceCommunity</div>
+    <div>
+      <MenuTitle title="" url=""/>
+    </div>
   )
 }
 

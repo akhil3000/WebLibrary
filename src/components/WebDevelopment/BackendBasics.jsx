@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './WebDevelopment.css'
+import MenuTitle from '../MenuTitle'
 const BackendBasics = () => {
   return (
-    <div>Backend Basics</div>
+    <div>
+       <MenuTitle title="" url=""/>
+    </div>
   )
 }
 

@@ -1,8 +1,11 @@
 import React from 'react'
-
+import './WebDevelopment.css'
+import MenuTitle from '../MenuTitle'
 const MicroServicesAndCloud = () => {
   return (
-    <div>MicroServicesAndCloud</div>
+    <div>
+      <MenuTitle title="" url=""/>
+    </div>
   )
 }
 
