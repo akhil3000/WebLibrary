@@ -72,7 +72,8 @@ import TestingAndDevops from './components/CSFundamentals/TestingAndDevops';
 import DistributedSystems from './components/CSFundamentals/DistributedSystems';
 import CloudComputing from './components/CSFundamentals/CloudComputing';
 import ComputerGraphicsAndGameDevelopment from './components/CSFundamentals/ComputerGraphicsAndGameDevelopment';
-import BlockChainAndWeb3 from './components/WebDevelopment/BlockChainAndWeb3';
+import BlockChain from './components/WebDevelopment/BlockChain';
+import WebDevCommunity from './components/WebDevelopment/WebDevCommunity';
 
 export{
     ImageSlider,
@@ -145,7 +146,9 @@ export{
     TestingAndDevops,
     DistributedSystems,
     CloudComputing,
+    BlockChain,
     ComputerGraphicsAndGameDevelopment,
-    BlockChainAndWeb3
+    WebDevCommunity
+    
 
 }

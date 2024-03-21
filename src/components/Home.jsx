@@ -9,7 +9,7 @@ const Home = () => {
      <div className="heading">
       <h2>Welcome To WebLibrary</h2>
       <h2>Making Online learning simplified</h2>
-      <h2>The Online learning Resources Treasure for Computer Science Enthusiasts</h2>
+      <h2>The Online learning Treasure for Self-Taught Computer Science Enthusiasts</h2>
       
      
      </div>

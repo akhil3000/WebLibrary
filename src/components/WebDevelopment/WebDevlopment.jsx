@@ -35,7 +35,7 @@ const WebDevlopment = () => {
        <div className="blocks">
       <Homecard path="/Spring" title="Spring"/>
       <Homecard path="/SystemDesign" title="System Design"/>
-      <Homecard path="/BlockChainAndWeb3" title="BlockChain And Web3"/>
+      <Homecard path="/BlockChain" title="BlockChain And Web3"/>
       <Homecard path="/Deployments" title="Deployments"/>
       <Homecard path="/WebDevCommunity" title="Web Development Community"/>
       </div>

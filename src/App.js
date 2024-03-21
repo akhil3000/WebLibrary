@@ -70,6 +70,7 @@ import{
   UnifiedModellingLanguage,
   WebTechnologies,
   MERNStack,
+  BlockChain,
   CryptoGraphyAndCyberSecurity,
   MobileApplicationDev,
   DesignPatternsAndSystemDesign,
@@ -77,7 +78,8 @@ import{
   DistributedSystems,
   CloudComputing,
   ComputerGraphicsAndGameDevelopment,
-  BlockChainAndWeb3
+  WebDevCommunity
+  
 
 } from './pages';
 const WebDevlopment=lazy(()=>import("./components/WebDevelopment/WebDevlopment"));
@@ -162,11 +164,12 @@ function App() {
           <Route path="/DistributedSystems" element={<DistributedSystems/>}/>
           <Route path="/CloudComputing" element={<CloudComputing/>}/>
           <Route path="/ComputerGraphicsAndGameDevelopment" element={<ComputerGraphicsAndGameDevelopment/>}/>
-          <Route path="/BlockChainAndWeb3 " element={<BlockChainAndWeb3/>}/>      
+           <Route path="/BlockChain" element={<BlockChain/>}/>    
           <Route path="/ReinforcementLearning " element={<ReinforcementLearning/>}/>   
           <Route path="/DeepReinforcementLearning " element={<DeepReinforcementLearning/>}/>   
           <Route path="/RecommendationSystems " element={<RecommendationSystems/>}/>
           <Route path="/UnifiedModellingLanguage" element={<UnifiedModellingLanguage/>}/>
+          <Route path="WebDevCommunity" element={<WebDevCommunity/>}/>
 
         </Routes>
         <Footerx/>
