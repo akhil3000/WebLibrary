@@ -21,7 +21,8 @@ import MicroServicesAndCloud from './components/WebDevelopment/MicroServicesAndC
 import Spring from './components/WebDevelopment/Spring';
 import SystemDesign from './components/WebDevelopment/SystemDesign';
 import ProgrammingLanguage from './components/DataScience/ProgrammingLanguage';
-import Statistics from './components/DataScience/Statistics';
+import DSLibraries from './components/DataScience/DSLibraries';
+import MathsForDataScience from './components/DataScience/MathsForDataScience';
 import StrcturedQueryLanguage from './components/DataScience/StrcturedQueryLanguage';
 import DataCleaning from './components/DataScience/DataCleaning';
 import ExploratoryDataAnalysis from './components/DataScience/ExploratoryDataAnalysis';
@@ -98,9 +99,10 @@ export{
     Spring,
     SystemDesign,
     ProgrammingLanguage,
-    Statistics,
+    MathsForDataScience,
     StrcturedQueryLanguage,
     DataCleaning,
+    DSLibraries,
     ExploratoryDataAnalysis,
     MachineLearning,
     DeepLearningAndNeuralNetworks,

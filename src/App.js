@@ -28,8 +28,9 @@ import{
   Spring,
   SystemDesign,
   ProgrammingLanguage,
-  Statistics,
+  MathsForDataScience,
   StrcturedQueryLanguage,
+  DSLibraries,
   DataCleaning,
   ExploratoryDataAnalysis,
   MachineLearning,
@@ -119,7 +120,7 @@ function App() {
           <Route path="/Spring" element={<Spring/>}/>
           <Route path="/SystemDesign" element={<SystemDesign/>}/>
           <Route path="/ProgrammingLanguage" element={<ProgrammingLanguage/>}/>
-          <Route path="/Statistics" element={<Statistics/>}/>
+          <Route path="/MathsForDataScience" element={<MathsForDataScience/>}/>
           <Route path="/StrcturedQueryLanguage" element={<StrcturedQueryLanguage/>}/>
           <Route path="/DataCleaning" element={<DataCleaning/>}/>
           <Route path="/ExploratoryDataAnalysis" element={<ExploratoryDataAnalysis/>}/>
@@ -170,6 +171,7 @@ function App() {
           <Route path="/RecommendationSystems " element={<RecommendationSystems/>}/>
           <Route path="/UnifiedModellingLanguage" element={<UnifiedModellingLanguage/>}/>
           <Route path="WebDevCommunity" element={<WebDevCommunity/>}/>
+          <Route path="DSLibraries" element={<DSLibraries/>}/>
 
         </Routes>
         <Footerx/>

@@ -11,10 +11,13 @@ const MERNStack = () => {
       <MenuTitle title="MongoDB Practice" url="https://www.w3resource.com/mongodb-exercises/"/>
       <MenuTitle title="Node Js Projects Course" url="https://www.udemy.com/course/nodejs-tutorial-and-projects-course/"/>
       <MenuTitle title="Express Js Documentation" url="https://expressjs.com/en/4x/api.html"/>
-      <MenuTitle title="MERN Project 1" url="https://www.youtube.com/watch?v=I7EDAR2GRVo"/>
-      <MenuTitle title="MERN Project2" url="https://www.youtube.com/watch?v=P43DW3HUUH8&t=6390s"/>
-      <MenuTitle title="MERN Project 3" url="https://www.udemy.com/course/mern-ecommerce/"/>
-      <MenuTitle title="MERN Project 4" url="https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/?couponCode=ST12MT030524"/>
+      <MenuTitle title="MERN Beginner Project 1" url="https://www.youtube.com/watch?v=I7EDAR2GRVo"/>
+      <MenuTitle title="MERN Beginner Project2" url="https://www.youtube.com/watch?v=P43DW3HUUH8&t=6390s"/>
+      <MenuTitle title="MERN Beginner Project 3" url="https://www.youtube.com/watch?v=XnbUHzZkypQ&t=13501s"/>
+      <MenuTitle title="MERN Major Project 1" url="https://www.udemy.com/course/mern-ecommerce/"/>
+      <MenuTitle title="MERN Major Project2" url="https://www.udemy.com/course/mern-stack-course-mongodb-express-react-and-nodejs/?couponCode=ST12MT030524"/>
+      <MenuTitle title="MERN Major Project Series 1" url="https://www.youtube.com/playlist?list=PLfhDYRr-FofmvuICA63cUD1vo7MuY-t3g"/>
+       <MenuTitle title="MERN Major Project Series 2"  url="https://www.youtube.com/playlist?list=PL-7d5gUt3OsNStapRdJRYQCJoUtO2FvVA"/>
     </div>
   )
 }
