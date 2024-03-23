@@ -26,15 +26,17 @@ import MathsForDataScience from './components/DataScience/MathsForDataScience';
 import StrcturedQueryLanguage from './components/DataScience/StrcturedQueryLanguage';
 import DataCleaning from './components/DataScience/DataCleaning';
 import ExploratoryDataAnalysis from './components/DataScience/ExploratoryDataAnalysis';
+import BigData from './components/DataScience/BigData';
 import MachineLearning from './components/DataScience/MachineLearning';
 import DeepLearningAndNeuralNetworks from './components/DataScience/DeepLearningAndNeuralNetworks';
 import NaturalLanguageProcessing from './components/DataScience/NaturalLanguageProcessing';
+import FeatureSelection from './components/DataScience/FeatureSelection';
 import DataSciencePrerequitises from './components/DataScience/DataSciencePrerequitises';
 import IntroductionToGenerativeAI from './components/DataScience/IntroductionToGenerativeAI';
 import ReinforcementLearning from "./components/DataScience/ReinforcementLearning";
 import RecommendationSystems from "./components/DataScience/RecommendationSystems";
 import DeepReinforcementLearning from "./components/DataScience/DeepReinforcementLearning";
-
+import ComputerVision from './components/DataScience/ComputerVision';
 import PracticeWebsitesAndBlogs from './components/DataScience/PracticeWebsitesAndBlogs';
 import AnalyticsVidhyaBlackBeltProgram from './components/DataScience/AnalyticsVidhyaBlackBeltProgram';
 import DsaPrerequitises from './components/DSA/DsaPrerequitises';
@@ -105,7 +107,10 @@ export{
     DSLibraries,
     ExploratoryDataAnalysis,
     MachineLearning,
+    FeatureSelection,
+    BigData,
     DeepLearningAndNeuralNetworks,
+    ComputerVision,
     NaturalLanguageProcessing,
     DataSciencePrerequitises,
     IntroductionToGenerativeAI,

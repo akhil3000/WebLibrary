@@ -3,8 +3,8 @@ import './DataScience.css'
 import MenuTitle from '../MenuTitle'
 const AnalyticsVidhyaBlackBeltProgram = () => {
   return (
-    <div>
-      <MenuTitle title="" url=""/>
+    <div className="menuitem">
+      <MenuTitle title="Analytics Vidhya Blackbelt Program" url="https://www.analyticsvidhya.com/bbplus"/>
     </div>
   )
 }

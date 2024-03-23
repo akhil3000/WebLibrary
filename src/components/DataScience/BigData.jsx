@@ -3,8 +3,11 @@ import './DataScience.css'
 import MenuTitle from '../MenuTitle'
 const BigData = () => {
   return (
-    <div>
-       <MenuTitle title="" url=""/>
+    <div className="menuitem">
+       <MenuTitle title="Big Data Specialization" url="https://www.coursera.org/specializations/nosql-big-data-and-spark-foundations"/>
+       
+      <MenuTitle title="Data Engineering Specilization" url="https://www.coursera.org/professional-certificates/ibm-data-engineer"/>
+
     </div>
   )
 }

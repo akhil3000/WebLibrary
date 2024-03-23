@@ -34,8 +34,11 @@ import{
   DataCleaning,
   ExploratoryDataAnalysis,
   MachineLearning,
+  BigData,
+  FeatureSelection,
   DeepLearningAndNeuralNetworks,
   NaturalLanguageProcessing,
+  ComputerVision,
   DataSciencePrerequitises,
   IntroductionToGenerativeAI,
   ReinforcementLearning,
@@ -125,7 +128,10 @@ function App() {
           <Route path="/DataCleaning" element={<DataCleaning/>}/>
           <Route path="/ExploratoryDataAnalysis" element={<ExploratoryDataAnalysis/>}/>
           <Route path="/MachineLearning" element={<MachineLearning/>}/>
+          <Route path="/FeatureSelection" element={<FeatureSelection/>}/>
+          <Route path="/BigData" element={<BigData/>}/>
           <Route path="/DeepLearningAndNeuralNetworks" element={<DeepLearningAndNeuralNetworks/>}/>
+          <Route path="/ComputerVision" element={<ComputerVision/>}/>
           <Route path="/NaturalLanguageProcessing" element={<NaturalLanguageProcessing/>}/>
           <Route path="/DataSciencePrerequitises" element={<DataSciencePrerequitises/>}/>
           <Route path="/IntroductionToGenerativeAI" element={<IntroductionToGenerativeAI/>}/>
