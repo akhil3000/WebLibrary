@@ -4,6 +4,7 @@ import MenuTitle from '../MenuTitle'
 const DeepLearningAndNeuralNetworks = () => {
   return (
     <div className="menuitem">
+       <MenuTitle title="Krish Naik Deep Learning Course" url="https://www.youtube.com/playlist?list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi"/>
        <MenuTitle title="DeepLearning & NeuralNetworks Specialization" url="https://www.coursera.org/specializations/deep-learning"/>
        <MenuTitle title="GAN Specialization" url="https://www.coursera.org/specializations/generative-adversarial-networks-gans"/>
        <MenuTitle title="Top Deeplearning Frameworks" url="https://www.analyticsvidhya.com/blog/2019/03/deep-learning-frameworks-comparison/"/>

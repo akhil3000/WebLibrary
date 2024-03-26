@@ -5,6 +5,7 @@ const MachineLearning = () => {
   return (
     <div className="menuitem">
       <MenuTitle title="Kaggle Intro To Machine Learning Course" url="https://www.kaggle.com/code/dansbecker/how-models-work"/>
+      <MenuTitle title="Krish Naik Machine Learning Course" url="https://www.youtube.com/playlist?list=PLZoTAELRMXVPBTrWtJkn3wWQxZkmTXGwe"/>
       <MenuTitle title="Andrew Ng Machine Learning Specialization" url="https://www.coursera.org/specializations/machine-learning-introduction"/>
       <MenuTitle title="Machine Learning Algorithms Course" url="https://www.udemy.com/course/machinelearning/?couponCode=ST14MT32124"/>
       <MenuTitle title="Kaggle Datasets For Practice" url="https://www.kaggle.com/datasets?topic=trendingDataset"/>

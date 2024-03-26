@@ -33,10 +33,12 @@ import NaturalLanguageProcessing from './components/DataScience/NaturalLanguageP
 import FeatureSelection from './components/DataScience/FeatureSelection';
 import DataSciencePrerequitises from './components/DataScience/DataSciencePrerequitises';
 import IntroductionToGenerativeAI from './components/DataScience/IntroductionToGenerativeAI';
-import ReinforcementLearning from "./components/DataScience/ReinforcementLearning";
-import RecommendationSystems from "./components/DataScience/RecommendationSystems";
-import DeepReinforcementLearning from "./components/DataScience/DeepReinforcementLearning";
+import ReinforcementLearning from './components/DataScience/ReinforcementLearning';
+import RecommendationSystems from './components/DataScience/RecommendationSystems';
+import DeepReinforcementLearning from './components/DataScience/DeepReinforcementLearning';
+import DataScienceCommunity from './components/DataScience/DataScienceCommunity';
 import ComputerVision from './components/DataScience/ComputerVision';
+import TimeSeries from './components/DataScience/TimeSeries';
 import PracticeWebsitesAndBlogs from './components/DataScience/PracticeWebsitesAndBlogs';
 import AnalyticsVidhyaBlackBeltProgram from './components/DataScience/AnalyticsVidhyaBlackBeltProgram';
 import DsaPrerequitises from './components/DSA/DsaPrerequitises';
@@ -44,7 +46,6 @@ import Cpluspluspathway from './components/DSA/Cpluspluspathway';
 import JavaPathway from './components/DSA/JavaPathway';
 import Blogs from './components/DSA/Blogs';
 import CompetitiveDSABooks from './components/DSA/CompetitiveDSABooks';
-import DSAStrcturedCuricullumInJava from './components/DSA/DSAStrcturedCuricullumInJava';
 import SdeSheets from './components/DSA/SdeSheets';
 import CodingPractice from './components/DSA/CodingPractice';
 import DebuggingCommunity from './components/DSA/DebuggingCommunity';
@@ -116,7 +117,9 @@ export{
     IntroductionToGenerativeAI,
     ReinforcementLearning,
     RecommendationSystems,
+    TimeSeries,
     DeepReinforcementLearning,
+    DataScienceCommunity,
     PracticeWebsitesAndBlogs,
     AnalyticsVidhyaBlackBeltProgram,
     DsaPrerequitises,
@@ -124,7 +127,6 @@ export{
     JavaPathway,
     Blogs,
     CompetitiveDSABooks,
-    DSAStrcturedCuricullumInJava,
     SdeSheets,
     CodingPractice,
     DebuggingCommunity,

@@ -41,9 +41,11 @@ import{
   ComputerVision,
   DataSciencePrerequitises,
   IntroductionToGenerativeAI,
+  TimeSeries,
   ReinforcementLearning,
   RecommendationSystems,
   DeepReinforcementLearning,
+  DataScienceCommunity,
   PracticeWebsitesAndBlogs,
   AnalyticsVidhyaBlackBeltProgram,
   DsaPrerequitises,
@@ -51,7 +53,6 @@ import{
   JavaPathway,
   Blogs,
   CompetitiveDSABooks,
-  DSAStrcturedCuricullumInJava,
   SdeSheets,
   CodingPractice,
   DebuggingCommunity,
@@ -130,11 +131,13 @@ function App() {
           <Route path="/MachineLearning" element={<MachineLearning/>}/>
           <Route path="/FeatureSelection" element={<FeatureSelection/>}/>
           <Route path="/BigData" element={<BigData/>}/>
+          <Route path="/TimeSeries" element={<TimeSeries/>}/>
           <Route path="/DeepLearningAndNeuralNetworks" element={<DeepLearningAndNeuralNetworks/>}/>
           <Route path="/ComputerVision" element={<ComputerVision/>}/>
           <Route path="/NaturalLanguageProcessing" element={<NaturalLanguageProcessing/>}/>
           <Route path="/DataSciencePrerequitises" element={<DataSciencePrerequitises/>}/>
           <Route path="/IntroductionToGenerativeAI" element={<IntroductionToGenerativeAI/>}/>
+          <Route path="/DataScienceCommunity" element={<DataScienceCommunity/>}/>
           <Route path="/PracticeWebsitesAndBlogs" element={<PracticeWebsitesAndBlogs/>}/>
           <Route path="/AnalyticsVidhyaBlackBeltProgram" element={<AnalyticsVidhyaBlackBeltProgram/>}/>
           <Route path="/DsaPrerequitises" element={<DsaPrerequitises/>}/>
@@ -142,7 +145,6 @@ function App() {
           <Route path="/JavaPathway" element={<JavaPathway/>}/>
           <Route path="/Blogs" element={<Blogs/>}/>
           <Route path="/CompetitiveDSABooks" element={<CompetitiveDSABooks/>}/>
-          <Route path="/DSAStrcturedCuricullumInJava" element={<DSAStrcturedCuricullumInJava/>}/>
           <Route path="/SdeSheets" element={<SdeSheets/>}/>
           <Route path="/CodingPractice" element={<CodingPractice/>}/>
           <Route path="/DebuggingCommunity" element={<DebuggingCommunity/>}/>
@@ -172,12 +174,12 @@ function App() {
           <Route path="/CloudComputing" element={<CloudComputing/>}/>
           <Route path="/ComputerGraphicsAndGameDevelopment" element={<ComputerGraphicsAndGameDevelopment/>}/>
            <Route path="/BlockChain" element={<BlockChain/>}/>    
-          <Route path="/ReinforcementLearning " element={<ReinforcementLearning/>}/>   
-          <Route path="/DeepReinforcementLearning " element={<DeepReinforcementLearning/>}/>   
-          <Route path="/RecommendationSystems " element={<RecommendationSystems/>}/>
+          <Route path="/ReinforcementLearning" element={<ReinforcementLearning/>}/>   
+          <Route path="/DeepReinforcementLearning" element={<DeepReinforcementLearning/>}/>   
+          <Route path="/RecommendationSystems" element={<RecommendationSystems/>}/>
           <Route path="/UnifiedModellingLanguage" element={<UnifiedModellingLanguage/>}/>
-          <Route path="WebDevCommunity" element={<WebDevCommunity/>}/>
-          <Route path="DSLibraries" element={<DSLibraries/>}/>
+          <Route path="/WebDevCommunity" element={<WebDevCommunity/>}/>
+          <Route path="/DSLibraries" element={<DSLibraries/>}/>
 
         </Routes>
         <Footerx/>
