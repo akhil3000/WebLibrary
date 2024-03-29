@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/WebLibrary/static/css/main.f5541d06.css",
+    "main.js": "/WebLibrary/static/js/main.9e19148a.js",
+    "static/media/Diversepaths.png": "/WebLibrary/static/media/Diversepaths.6d8b3eac7ffcf152bb2a.png",
+    "static/media/qualitycontent.png": "/WebLibrary/static/media/qualitycontent.49a77f368ca588c6dbc4.png",
+    "static/media/ContinuousGrowth.png": "/WebLibrary/static/media/ContinuousGrowth.2c04fb8b635225a10e9c.png",
+    "static/media/heroimage.png": "/WebLibrary/static/media/heroimage.493a5b436756da41dc9f.png",
+    "static/media/Csfundametnals.jpg": "/WebLibrary/static/media/Csfundametnals.996d47a4b530641f3ef3.jpg",
+    "static/media/DSA.png": "/WebLibrary/static/media/DSA.233ab23de045979dc21d.png",
+    "static/media/AI.png": "/WebLibrary/static/media/AI.26303a758f5f3b436d44.png",
+    "static/media/Akhil.jpeg": "/WebLibrary/static/media/Akhil.2837ea520093cdbf70b8.jpeg",
+    "static/media/oldendaycomputer.jpeg": "/WebLibrary/static/media/oldendaycomputer.8a244f1a6ac5ee49a05d.jpeg",
+    "static/media/mac.jpg": "/WebLibrary/static/media/mac.753f28960dc1358adccd.jpg",
+    "static/media/Fullstack.png": "/WebLibrary/static/media/Fullstack.87f159cbade040856e30.png",
+    "static/media/DSA2.png": "/WebLibrary/static/media/DSA2.bac69183eed750f6aeda.png",
+    "static/media/Technlogies.png": "/WebLibrary/static/media/Technlogies.b9e8cc4c499d28bf9feb.png",
+    "static/media/Maang.png": "/WebLibrary/static/media/Maang.8049b971005390e5768e.png",
+    "static/media/WebDevelopment.jpg": "/WebLibrary/static/media/WebDevelopment.71a14ef7676f3a19e869.jpg",
+    "index.html": "/WebLibrary/index.html",
+    "main.f5541d06.css.map": "/WebLibrary/static/css/main.f5541d06.css.map",
+    "main.9e19148a.js.map": "/WebLibrary/static/js/main.9e19148a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5541d06.css",
+    "static/js/main.9e19148a.js"
+  ]
+}
