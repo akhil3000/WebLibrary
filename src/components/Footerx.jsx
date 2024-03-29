@@ -1,30 +1,43 @@
 import React from "react";
-import { Footer } from 'flowbite-react';
-import { BsDiscord, BsLinkedin, BsYoutube,BsTelegram} from 'react-icons/bs'; 
-import "../App.css";   
+import {
+  BsDiscord,
+  BsHeartFill,
+  BsLinkedin,
+  BsYoutube,
+  BsTelegram,
+} from "react-icons/bs";
+import { FaCopyright } from "react-icons/fa6";
+import "./Home.css";
 
-const Footerx=()=>{
-  const getYear=()=> {
-    return new Date().getFullYear();
-  }
-    return(
+const Footer = () => {
+  return (
     <>
-    <Footer container>
-      <div className="FooterHead">
-      <div className="Footer">
-          <Footer.Copyright href="#" by="WebLibrary™" year={getYear()} className="year"/>
-          <div className="Footer2">
-            <Footer.Icon href="https://discord.gg/erSBYrXp84" icon={BsDiscord} />
-            <Footer.Icon href="https://www.linkedin.com/in/akhil-polisetty-b09b8b192/" icon={BsLinkedin} />
-            <Footer.Icon href="https://www.youtube.com/@akhilpolisetty" icon={BsYoutube} />
-            <Footer.Icon href="https://t.me/+4tZnvg47-akyNzY1" icon={BsTelegram} />
-
-          </div>
+      <footer className="footer">
+        <div className="footer-title">
+          <FaCopyright />
+          FamousITCourses.com
         </div>
-      </div>
-    </Footer>
-
+        <div className="made-in-india">
+          <p>
+            Made with <BsHeartFill className="heart-icon" /> in India
+          </p>
+        </div>
+        <div className="social-icons">
+          <a href="https://discord.gg/UJ885hqDPd" target="__blank">
+            <BsDiscord className="icons" />
+          </a>
+          <a href="https://www.linkedin.com/in/akhil-polisetty-b09b8b192/" target="__blank">
+          <BsLinkedin className="icons" />
+          </a>
+          <a href="https://t.me/+4tZnvg47-akyNzY1" target="__blank">
+          <BsTelegram className="icons" />
+          </a>
+          <a href="https://www.youtube.com/@akhilpolisetty" target="__blank">
+          <BsYoutube className="icons" />
+          </a>
+        </div>
+      </footer>
     </>
-    )
-}
-export default Footerx;
+  );
+};
+export default Footer;

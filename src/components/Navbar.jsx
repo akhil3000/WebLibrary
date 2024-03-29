@@ -12,7 +12,7 @@ import "./Navbar.css"
 const Navbar = () => {
   return <nav>
     <Link to="/" className="title">
-      WebLibrary
+      FamousItCourses.com
     </Link>
     <ul>
         <li>

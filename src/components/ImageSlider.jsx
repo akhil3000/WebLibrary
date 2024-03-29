@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import image1 from "../assets/WebDevelopment.jpg"
 import image2 from "../assets/DataScience.jpg"
 import image3 from "../assets/DSA2.png"
-import image4 from "../assets/Csfundamentals.jpg"
+//import image4 from "../assets/Csfundamentals.jpg"
 import 'react-slideshow-image/dist/styles.css'
 import {Fade,Zoom,Slide} from 'react-slideshow-image'
 const slideImages=[

@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 import {useSelector} from "react-redux";
 import { addItem } from '../utils/cartSlice';
 import { useDispatch } from 'react-redux';
-import photo from '../assets/Csfundamentals.jpg'
+import photo from "../assets/Csfundametnals.jpg"
 const Homecard = ({path,title}) => {
   const cartItems=useSelector(store=>store.cart.items);
   const dispatch=useDispatch();
