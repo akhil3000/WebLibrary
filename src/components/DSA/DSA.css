@@ -33,3 +33,14 @@ align-items:center;
     border-style:solid; 
     border-color:green;
 }
+.image{
+    text-align:center;
+}
+
+.content{
+    text-align:center;
+}
+
+.DSA{
+    width:50%;
+}

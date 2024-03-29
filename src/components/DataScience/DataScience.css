@@ -27,3 +27,19 @@ align-items:center;
     align-items: center;
     padding-bottom:100px;
 }
+
+
+.DataScience{
+    display:block;
+    margin-right:auto;
+    margin-left:auto;
+    width:30%;
+}
+.AI{
+    padding:30px;
+}
+
+
+.prerequitises{
+    padding-top:20px;
+}

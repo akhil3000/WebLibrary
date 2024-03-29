@@ -26,7 +26,8 @@ const HtmlAndCss=()=>{
             <div className="hii">
                 Advanced
                </div>
-            <MenuTitle title="CSS Advanced Tutorial" url="https://www.udemy.com/course/advanced-css-and-sass/?couponCode=KEEPLEARNING"/>
+            <MenuTitle title="CSS Advanced Tutorial 1" url="https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/?couponCode=KEEPLEARNING"/>   
+            <MenuTitle title="CSS Advanced Tutorial 2" url="https://www.udemy.com/course/advanced-css-and-sass/?couponCode=KEEPLEARNING"/>
             <MenuTitle title="FrontEnd Mentors Practice" url="https://www.frontendmentor.io/challenges"/>
             <MenuTitle title="Bootstarp Tutorial" url="https://www.udemy.com/course/bootstrap-from-scratch/?couponCode=KEEPLEARNING"/>
             <MenuTitle title="Tailwind CSS Tutorial" url="https://www.udemy.com/course/tailwind-from-scratch/"/>
