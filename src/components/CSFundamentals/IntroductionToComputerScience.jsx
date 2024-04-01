@@ -15,6 +15,7 @@ const IntroductionToComputerScience = () => {
       <img src={photo1} alt="Steve Jobs" className="photo1"/>  
     </div>
     <div className="text">
+    
       <h4>There are approximately 25.6 million Software Developers in the world.</h4>
       <h4>It is expected that number of Software Developers will be 29.3 millions worldwide by 2027. </h4>
       <div className="history">
@@ -34,7 +35,7 @@ const IntroductionToComputerScience = () => {
       <h4> role in the eventual victory of the Allies over Axis Powers.That leads to Foundation of Computer Science after War</h4>
       <h4>You can know More about this invention in the Documentary film called The Imitation Game </h4>
       <h4>You can learn about this theoritcally from a subject called Theory Of Computation in more detail</h4>
-      </div>
+    
       <div>
       <h1>Early Age Computers</h1>
       <img src={photo3} alt="Earlyagecomputers"/>
@@ -66,6 +67,7 @@ const IntroductionToComputerScience = () => {
           <h4>What you need is Dedication to learn,Internet Connection,Laptop</h4>
           <h4>Thank You</h4> 
       </div>
+    </div>
     </div>
     </>
   )

@@ -42,4 +42,9 @@ align-items:center;
 
 .prerequitises{
     padding-top:20px;
+    font-family:system ui;
+}
+
+.content{
+    font-family:system ui;
 }
