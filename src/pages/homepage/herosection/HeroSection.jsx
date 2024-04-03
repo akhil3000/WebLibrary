@@ -26,7 +26,7 @@ function HeroSection() {
             switchingList={userTypes}
             switchColors={colors}
           />
-        <p className="tagline">Learn online from seasoned software engineers who offer high-quality content and guided pathways.</p>
+        <p className="tagline">Learn Online from Instructors who are Seasoned Sofware Engineers who offer high-quality content and guided pathways.</p>
       </div>
     </section>
   );
