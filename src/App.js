@@ -1,7 +1,7 @@
 import React, { useEffect, useLayoutEffect, useState } from "react";
 import "./App.css";
 import Navbar from "./components/navbarcomponents/Navbar";
-import { ScrollRestoration, useLocation } from "react-router-dom";
+import { useLocation } from "react-router-dom";
 import store from "./utils/store";
 
 import { Provider } from "react-redux";

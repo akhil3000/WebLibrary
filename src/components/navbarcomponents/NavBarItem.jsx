@@ -1,4 +1,4 @@
-import React, { useEffect, useLayoutEffect, useRef, useState } from "react";
+import React, { useCallback, useEffect, useLayoutEffect, useRef, useState } from "react";
 import "./NavBarItem.css";
 import { Link, useLocation } from "react-router-dom";
 import arrowUp from "../../assets/arrow_up.svg";
@@ -13,10 +13,6 @@ const NavBarItem = ({ isMobile, title, children, linkTo }) => {
   useEffect(()=> {
     setIsOpen(false);
   }, [location])
-  useLayoutEffect(()=> {
-    if(dropDownContainerRef.current == null) return
-    toggleDropdownHeight();
-  }, [isOpen, dropDownContainerRef])
   const handleFocus = () => {
     if (isMobile) return;
     setIsFocused(true);
@@ -32,7 +28,7 @@ const NavBarItem = ({ isMobile, title, children, linkTo }) => {
     setIsOpen(!isOpen);
   };
 
-  const toggleDropdownHeight = () => {
+  const toggleDropdownHeight = useCallback(() => {
     if(dropDownContainerRef.current == null) {
       return
     }
@@ -42,7 +38,12 @@ const NavBarItem = ({ isMobile, title, children, linkTo }) => {
     } else {
       dropDownContainerRef.current.style.height = "0";
     }
-  };
+  });
+  
+  useLayoutEffect(()=> {
+    if(dropDownContainerRef.current == null) return
+    toggleDropdownHeight();
+  }, [isOpen, dropDownContainerRef, toggleDropdownHeight])
   return (
     <li className="nav-item">
       <div
@@ -76,7 +77,7 @@ const NavBarItem = ({ isMobile, title, children, linkTo }) => {
             >
               {title}{" "}
               <span className="dropdown-icon">
-                <img src={isOpen ? arrowUp : arrowDown} />
+                <img src={isOpen ? arrowUp : arrowDown} alt="arrow"/>
               </span>
             </button>
           </>

@@ -1,4 +1,4 @@
-import React, { useEffect, useLayoutEffect, useState } from "react";
+import React, { useEffect, useState } from "react";
 import "./TextSwitcher.css";
 
 function TextSwitcher({ fixed, switchingList, switchColors }) {

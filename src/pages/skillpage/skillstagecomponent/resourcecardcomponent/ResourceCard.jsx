@@ -14,7 +14,6 @@ function ResourceCard({ data }) {
   const favicon = data.ogData.favicon
     ? data.ogData.favicon
     : baseURL + "favicon.ico";
-  const title = data.ogData.title ? data.ogData.title : data.title;
 
   return (
     <a className="resource-link"  rel="noreferrer" href={data.link} target="_blank">
@@ -22,7 +21,7 @@ function ResourceCard({ data }) {
         <img src={imageUrl} alt={siteName} className="resource-image" />
         <div className="resource-content">
           <div className="resource-site-info">
-            <img src={favicon} className="site-favicon" />
+            <img src={favicon} alt={siteName} className="site-favicon" />
             <p className="site-name">{siteName}</p>
           </div>
           <p className="resource-title">{data.title}</p>

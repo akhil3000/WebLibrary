@@ -1,6 +1,7 @@
 [
   {
     "title": "Web Development",
+    "shortTitle": "Web Development",
     "path": "/webdev",
     "blogs": [
       {
@@ -1153,6 +1154,7 @@
   },
   {
     "title": "Data Science",
+    "shortTitle": "Data Science",
     "path": "/datascience",
     "blogs": [
       {
@@ -2035,6 +2037,7 @@
   },
   {
     "title": "Data Structure and Algorithms",
+    "shortTitle": "DSA",
     "path": "/dsa",
     "blogs": [
       {
@@ -2607,6 +2610,7 @@
   },
   {
     "title": "Computer Science Fundamentals",
+    "shortTitle":"CS Fundamentals",
     "path": "/csfundamentals",
     "blogs": [
       {

@@ -14,7 +14,7 @@ function HeroSection() {
   const colors = ["#ee9b00", "#FB5607", "#FF006E", "#8338EC", "#3A86FF"];
   return (
     <section className="hero">
-      <img src={photo4} className="heroimage" />
+      <img src={photo4} alt="hero image" className="heroimage" />
 
       <div className="content">
         <h1 className="headline">
