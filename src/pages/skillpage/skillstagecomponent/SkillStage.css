@@ -1,0 +1,42 @@
+.skill-stage {
+    padding:2rem;
+}
+
+.stage-heading {
+    user-select: none;
+    text-align:center;
+    margin:10rem auto 5rem auto;
+    width:fit-content;
+    padding:0.5rem 2rem;
+    font-size: 1.5rem;
+    color:var(--color-secondary-tint-dark);
+    border:0.4rem solid rgba(0, 0, 0, 0.089);
+    background-color: white;
+    font-weight:bold;
+    border-radius:50rem;
+    position:relative;
+}
+
+.stage-heading::before {
+    content:'';
+    position:absolute;
+    left:-100rem;
+    right:-100rem;
+    top:calc(50% - 0.2rem);
+    bottom:calc(50% - 0.2rem);
+    background-color: rgba(0, 0, 0, 0.089);
+    z-index: -1;
+}
+.resources-container {
+    display:flex;
+    gap:2rem;
+    margin-top:5rem;
+    flex-direction: column;
+    align-items: center;
+}
+
+@media screen and (max-width:480px) {
+    .skill-stage {
+        padding:0rem;
+    }
+}

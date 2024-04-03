@@ -1,0 +1,26 @@
+.nav-dd-item {
+    width:40ch;
+    background: none;
+    border:none;
+    padding:1rem 2rem 1rem 1rem;
+    text-align: start;
+}
+.dropdown-item {
+    background-color: white;
+}
+
+@media screen and (min-width:481px) {
+    .dropdown-item:hover {
+        background-color: #f6f6f6;
+    }
+}
+@media screen and (max-width:480px){ 
+    .nav-dd-item {
+        width:80vw;
+        padding:0rem;
+        padding-left:0.5rem;
+    }
+    .dropdown-item {
+        background-color:  var(--color-light-white);
+    }
+}
