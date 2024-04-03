@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "FamousITCourses",
+  "name": "FamousITCourses - The Online Learning Treasure",
+  "description": "Explore FamousITCourses.com, the ultimate hub for online learning in computer science. Whether you're a student, fresher graduate, working professional, professor, or self-learner, our platform offers a curated selection of 300+ top courses taught by expert instructors who are seasoned software engineers. Elevate your skills with the best in the field.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -20,6 +21,6 @@
   ],
   "start_url": ".",
   "display": "standalone",
-  "theme_color": "#000000",
+  "theme_color": "#F9A31C",
   "background_color": "#ffffff"
 }

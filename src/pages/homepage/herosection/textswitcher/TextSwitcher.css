@@ -1,0 +1,27 @@
+.text-switcher {
+    display:flex;
+    font-size: 1.5rem;
+    flex-wrap:wrap;
+}
+
+.fixed {
+    flex-shrink: 0;    
+    margin:0;
+}
+.switching {    
+    margin:0;
+    height:3ch;
+    width:25ch;
+    position:relative;
+    overflow:hidden;
+    gap:1rem;
+}
+
+.switching-content {
+    display: flex;
+    flex-direction: column;
+    position:absolute;
+    gap:1rem;
+    font-weight: bold;
+    transition:top 0.5s ease-out;
+}
