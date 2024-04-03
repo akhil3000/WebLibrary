@@ -1,0 +1,30 @@
+.skill-page {
+    padding:2rem;
+    overflow: hidden;
+}
+
+.skill-heading {
+    font-weight: bolder;
+    font-size:2rem;
+    width:fit-content;
+    margin:1rem auto;
+    text-align: center;
+    position:relative;
+    color:var(--color-primary-tint-dark);
+}
+
+.skill-heading::after {
+    content:'';
+    position:absolute;
+    left:25%;
+    right:25%;
+    bottom:-2rem;
+    height:2px;
+    background-color: var(--color-primary-tint);
+}
+
+@media screen and (max-width:480px) {
+    .skill-page {
+        padding:1.5rem;
+    }
+}
