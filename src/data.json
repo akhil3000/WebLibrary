@@ -714,6 +714,16 @@
               {
                 "resources": [
                   {
+                    "title":"MERN Begineer Project 1",
+                    "link":"https://www.youtube.com/watch?v=I7EDAR2GRVo",
+                    "ogData":{
+                      "title":"MERN Tutorial For Beginners | Learn MERN In 60 Minutes",
+                      "description":"MERN Tutorial for beginners. In this video I will go over the MERN stack and show you guys how to setup a simple application with it.Code: https://github.com..."
+                      "siteName":"YouTube",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico",
+                      "imageUrl":"https://i.ytimg.com/vi/I7EDAR2GRVo/maxresdefault.jpg",
+                  },
+                  {
                     "title": "MERN Beginner Project 2",
                     "link": "https://www.youtube.com/watch?v=P43DW3HUUH8&t=6390s",
                     "ogData": {
