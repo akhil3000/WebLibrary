@@ -1,4 +1,4 @@
-# [FamousITResources.com](https://famousitcourses-com.onrender.com/)
+# FamousITResources.com
 
 Explore [FamousITCourses.com](https://famousitcourses-com.onrender.com/), the ultimate hub for online learning in computer science. 
 
