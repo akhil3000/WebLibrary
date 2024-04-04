@@ -576,12 +576,12 @@
                   },
                   {
                     "title": "React Js Official Documentation",
-                    "link": "https://legacy.reactjs.org/docs/getting-started.html",
+                    "link": "https://react.dev/",
                     "ogData": {
-                      "title": "Getting Started - React",
-                      "description": "A JavaScript library for building user interfaces",
-                      "imageUrl": "https://legacy.reactjs.org/logo-og.png",
-                      "favicon": "https://legacy.reactjs.org/favicon.ico"
+                      "title": "React",
+                      "description": "React is the library for web and native user interfaces. Build user interfaces out of individual pieces called components written in JavaScript. React is designed to let you seamlessly combine components written by independent people, teams, and organizations.",
+                      "imageUrl": "https://react.dev/images/og-home.png",
+                      "favicon": "https://react.dev/favicon.ico"
                     }
                   }
                 ]
