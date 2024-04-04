@@ -1,0 +1,33 @@
+.features-section {
+  background-color: black;
+  padding: 5rem 0;
+  color: white;
+}
+
+.features-content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.features-title {
+  color: white;
+  text-align: start;
+  font-size: 1.5rem;
+}
+
+.features {
+  display: flex;
+  align-items: start;
+  gap: 3rem;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+@media screen and (max-width: 1000px) {
+  .features {
+    flex-wrap: wrap;
+  }
+  .features-content {
+    padding:0.2rem 1rem;
+  }
+}

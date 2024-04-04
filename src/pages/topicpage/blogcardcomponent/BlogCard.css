@@ -1,0 +1,13 @@
+.blog-card {
+    max-width:20ch;
+    padding:2rem;
+    background-color: #fff4e2;
+    font-size: 1.5rem;
+    font-weight: bold;
+    border-radius:1rem;
+}
+
+.blog-link {
+    text-decoration: none;
+    color: black;
+}

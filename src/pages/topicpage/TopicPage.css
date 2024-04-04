@@ -1,0 +1,30 @@
+.topic-page {
+    padding:2rem;
+}
+
+.topic-heading {
+    font-size:2rem;
+    font-weight:bolder;
+    padding:1.5rem 0rem;
+    max-width:1200px;
+    margin:2rem auto;
+    color: var(--color-secondary-tint);
+}
+
+.section-container {
+    max-width:1200px;
+    display:flex;
+    flex-direction: column;
+    gap:2rem;
+    margin:0 auto;
+    margin-bottom:2rem;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content:center;
+}
+
+@media screen and (max-width:480px) {
+    .topic-page {
+        padding:1rem;
+    }
+}

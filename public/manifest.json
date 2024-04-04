@@ -1,0 +1,26 @@
+{
+  "short_name": "FamousITCourses",
+  "name": "FamousITCourses - The Online Learning Treasure",
+  "description": "Explore FamousITCourses.com, the ultimate hub for online learning in computer science. Whether you're a student, fresher graduate, working professional, professor, or self-learner, our platform offers a curated selection of 300+ top courses taught by expert instructors who are seasoned software engineers. Elevate your skills with the best in the field.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F9A31C",
+  "background_color": "#ffffff"
+}
