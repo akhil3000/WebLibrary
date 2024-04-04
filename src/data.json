@@ -720,8 +720,9 @@
                       "title":"MERN Tutorial For Beginners | Learn MERN In 60 Minutes",
                       "description":"MERN Tutorial for beginners. In this video I will go over the MERN stack and show you guys how to setup a simple application with it.Code: https://github.com...",
                       "siteName":"YouTube",
-                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico",
-                      "imageUrl":"https://i.ytimg.com/vi/I7EDAR2GRVo/maxresdefault.jpg"
+                      "imageUrl":"https://i.ytimg.com/vi/I7EDAR2GRVo/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                      
                   },
                   {
                     "title": "MERN Beginner Project 2",
@@ -886,6 +887,60 @@
             "stages": [
               {
                 "resources": [
+                   {
+                    "title": "Introduction To Java Programming",
+                    "link": "https://www.youtube.com/playlist?list=PLLOxZwkBK52BaOQCJrVvkc97uzeMsx9TT",
+                    "ogData": {
+                      "title": "JAVA PROGRAMMING",
+                      "description": "\n      \n        \n  \n    \n    \n    \n  \n  \n    \n    \n    \n  \n  \n  \n\n\n  \n\n\n\n        \n          \n          \n        \n        \n        \n        \n        \n          \n          \n          \n          \n          \n          \n          \n          \n          \n           \n        \n         …  \n            \n\n            \n            \n           \n      \n      \n      \n    ",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/VAfJ1H8_k3M/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLA_imLvfg8rINEnHRrZrzgrd7s_HA&days_since_epoch=19814",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "Java Tutorial",
+                    "link": "https://www.javatpoint.com/java-tutorial",
+                    "ogData": {
+                      "title": "Java Tutorial | Learn Java Programming - javatpoint",
+                      "description": "Java Tutorial or Learn Core Java Tutorial or Java Programming Tutorials for beginners and professionals with core concepts and examples covers the basics and fundamentals of java technology.",
+                      "siteName": "www.javatpoint.com",
+                      "imageUrl": "https://static.javatpoint.com/images/logo/jtp-logo3.png",
+                      "favicon": "https://static.javatpoint.com/images/favicon2.png"
+                    }
+                  },
+                 {
+                    "title": "Web Development Basics",
+                    "link": "https://www.udemy.com/course/the-complete-web-development-bootcamp/",
+                    "ogData": {
+                      "title": "The Complete 2024 Web Development Bootcamp",
+                      "description": "Become a Full-Stack Web Developer with just ONE course. HTML, CSS, Javascript, Node, React, PostgreSQL, Web3 and DApps",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-b.udemycdn.com/course/480x270/1565838_e54e_18.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+                  {
+                    "title": "Java Backend Development RoadMap",
+                    "link": "https://www.javabrains.io/pages/complete-java-backend-learning-path",
+                    "ogData": {
+                      "title": "Complete Java Backend Learning Path",
+                      "siteName": "Java Brains",
+                      "imageUrl": "https://import.cdn.thinkific.com/95869%2Fcustom_site_themes%2Fid%2FcE4Te9JmTdGN3jzcdp1o_logo.jpg",
+                      "favicon": "https://import.cdn.thinkific.com/95869/Q3qObH94QCyyjkRE8FpQ_unnamed.jpg"
+                    }
+                  },
+                  {
+                    "title": "Java Backend Development Resources",
+                    "link": "https://www.youtube.com/@Java.Brains/playlists",
+                    "ogData": {
+                      "title": "Java Brains",
+                      "description": "Java and JavaScript Courses and Tutorials",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kXjzz0sXPMWCSC2NsBqDJ63ezhamlw0TTdNBRb5A=s900-c-k-c0x00ffffff-no-rj",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
                   {
                     "title": "Java Backend Development Project 1",
                     "link": "https://www.udemy.com/course/building-real-time-rest-apis-with-spring-boot/?couponCode=KEEPLEARNING",
@@ -893,7 +948,7 @@
                       "title": "Building Real-Time REST APIs with Spring Boot - Blog App",
                       "description": "Build REST APIs using Spring Boot, Spring Security 6, JWT, Spring Data JPA, Hibernate, MySQL, Docker & Deploy on AWS",
                       "siteName": "Udemy",
-                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/4261034_59d9_7.jpg",
+                      "imageUrl": "https://img-b.udemycdn.com/course/480x270/4261034_59d9_7.jpg",
                       "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
                     }
                   },
@@ -904,7 +959,7 @@
                       "title": "[NEW] Master Spring Boot 3 & Spring Framework 6 with Java",
                       "description": "Become Java Spring Boot Full Stack Cloud Developer. Learn AWS, React, Docker, Spring Data JPA & Spring Security.",
                       "siteName": "Udemy",
-                      "imageUrl": "https://img-b.udemycdn.com/course/480x270/4993276_3452.jpg",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/4993276_3452.jpg",
                       "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
                     }
                   },
@@ -921,14 +976,15 @@
                   },
                   {
                     "title": "Java Backend Development Project 4",
-                    "link": "https://www.youtube.com/playlist?list=PLqq-6Pq4lTTa8V613TZhGq4o8hSgkMGQ0",
+                    "link": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=KEEPLEARNING",
                     "ogData": {
-                      "title": "IPL Dashboard - Spring Boot + React Full Stack development",
-                      "description": "This is a series of videos that cover full stack web application where we'll be building a simple IPL dashboard app from the scratch. If you are new, start f...",
-                      "siteName": "YouTube",
-                      "imageUrl": "https://i.ytimg.com/vi/aL1oP4GJR7M/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDuixOWDiPZvmHWUEBEP9oebAoaJQ&days_since_epoch=19814",
-                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                      "title": "Master Microservices with Spring Boot and Spring Cloud",
+                      "description": "Java Spring Boot Microservices 5-in-1 - Spring Boot, Spring Cloud, Docker, Kubernetes and REST API (REST Web Services)",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/1352468_3d97_8.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
                     }
+                  }
                   }
                 ]
               }
