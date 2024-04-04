@@ -37,8 +37,8 @@ function AppRoutes() {
           return (skillset.skills.map((skill) => {
             return (
               <Route
-                key={topic.path + skillset.path + skill.path}
-                path={topic.path + skillset.path + skill.path}
+                key={topic.path + (skillset.path ? skillset.path : '') + skill.path}
+                path={topic.path + (skillset.path ? skillset.path : '') + skill.path}
                 element={<SkillPage skill={skill} />}
               />
             );

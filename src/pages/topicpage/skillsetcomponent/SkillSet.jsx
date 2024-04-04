@@ -8,7 +8,7 @@ function SkillSet({ skillset, path }) {
       {skillset.title && <p className="skillset-heading">{skillset.title}</p>}
       <div className="skills-container">
         {skillset.skills.map((skill) => {
-          return <Skill skill={skill} path={path + skillset.path + skill.path} />;
+          return <Skill skill={skill} path={path + (skillset.path ? skillset.path : '') + skill.path} />;
         })}
       </div>
     </div>
