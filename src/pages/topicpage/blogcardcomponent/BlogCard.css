@@ -5,9 +5,11 @@
     font-size: 1.5rem;
     font-weight: bold;
     border-radius:1rem;
+    user-select: none;
 }
 
 .blog-link {
+    width:fit-content;
     text-decoration: none;
     color: black;
 }

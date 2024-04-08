@@ -8,7 +8,7 @@ function TopicPage({ topic }) {
     <div className="topic-page">
       <p className="topic-heading">{topic.title}</p>
 
-      <div className="section-container">
+      <div className="section-container blogs-container">
         {topic.blogs.map(blog => {
           return <BlogCard data={blog} path={topic.path}/>
         })}
