@@ -525,14 +525,14 @@
                     }
                   },
                   {
-                    "title": "Redux Middleware",
-                    "link": "https://www.youtube.com/playlist?list=PLTP3E5bPW797uMryjgPqSZsQkxU0s6gu2",
+                    "title": "Modern Redux In Depth",
+                    "link": "https://www.udemy.com/course/react-redux/?couponCode=LETSLEARNNOWPP",
                     "ogData": {
-                      "title": "React Redux Tutorials for Beginners",
-                      "description": "",
-                      "siteName": "YouTube",
-                      "imageUrl": "https://i.ytimg.com/vi/qNjNn9BCWCc/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLANbo4i4x7jWCcuWDypjSqyaoosgw&days_since_epoch=19814",
-                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                      "title": "Modern React With Redux",
+                      "description": "Learn Redux and RTK in Depth",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/705264_caa9_13.jpg",
+                      "favicon": "/staticx/udemy/images/v8/favicon-32x32.png"
                     }
                   },
                   {
