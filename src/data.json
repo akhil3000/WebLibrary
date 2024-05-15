@@ -2891,6 +2891,17 @@
                       "favicon": "https://www.w3schools.com/favicon.ico"
                     }
                   },
+
+                  {
+                    "title":"OOPS Interview Questions",
+                    "link":"https://www.geeksforgeeks.org/oops-interview-questions/",
+                    "ogData":{
+                      "title":"OOPS Interview Questions",
+                      "description":"Object-Oriented Programming, or OOPs, is a programming paradigm that implements the concept of objects in the program. It aims to provide an easier solution to real-world problems by implementing real-world entities such as inheritance, abstraction, polymorphism, etc. in programming. OOPs concept is widely used in many popular languages like Java",
+                      "imageUrl":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+                      "favicon":"https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png"
+                    }
+                  }, 
                   {
                     "title": "C++ Programming Practice",
                     "link": "https://www.programiz.com/cpp-programming/examples",
