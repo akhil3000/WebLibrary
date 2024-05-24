@@ -1,11 +1,12 @@
 import React from "react";
 import "./AboutUs.css";
 import aboutPhoto from "../../assets/Akhil.jpeg";
+import MyLazyLoadedImage from "../../components/MyLazyLoadedImage";
 
 const AboutUs = () => {
   return (
     <div className="about-us">
-      <img src={aboutPhoto} alt="Akhil Polisetty" className="about-photo" />
+      <MyLazyLoadedImage src={aboutPhoto} alt="Akhil Polisetty" className="about-photo" />
       <h1>Akhil Polisetty</h1>
       <div className="about-content">
         <h3>
