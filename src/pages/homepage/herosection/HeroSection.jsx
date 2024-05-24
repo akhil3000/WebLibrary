@@ -2,6 +2,7 @@ import React from "react";
 import "./HeroSection.css";
 import photo4 from "../../../assets/heroimage.png";
 import TextSwitcher from "./textswitcher/TextSwitcher";
+import MyLazyLoadedImage from "../../../components/MyLazyLoadedImage";
 
 function HeroSection() {
   const userTypes = [
@@ -14,7 +15,8 @@ function HeroSection() {
   const colors = ["#ee9b00", "#FB5607", "#FF006E", "#8338EC", "#3A86FF"];
   return (
     <section className="hero">
-      <img src={photo4} alt="hero image" className="heroimage" />
+      
+      <MyLazyLoadedImage src={photo4} alt="hero image" className="heroimage"/>
 
       <div className="content">
         <h1 className="headline">
