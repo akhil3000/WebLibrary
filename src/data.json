@@ -553,6 +553,16 @@
                     }
                   },
                   {
+                    "title":"LLD Machine Coding Module from Namaste FSD Course",
+                    "link":"https://namastedev.com/learn/namaste-frontend-system-design",
+                    "ogData": {
+                      "title": "Namaste Frontend System Design",
+                      "description": "Welcome to the 'Namaste Frontend System Design' course, a comprehensive journey covering pivotal modules. From fortifying systems against vulnerabilities to mastering networking, testing, communication, and offline support, delve into logging, database, performance, low-level, accessibility, and high-level design. Explore architectures of social media, e-commerce, streaming, and collaborative tools. Elevate skills in securing, optimizing, and architecting accessible, high-performance frontend systems.",
+                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/namaste-frontend-system-design/Namaste-Frontend-System-Design.jpeg"
+                    }
+                    
+                  },
+                  {
                     "title": "React With Typescript",
                     "link": "https://www.udemy.com/course/react-typescript-the-practical-guide/?couponCode=ACCAGE0923",
                     "ogData": {
