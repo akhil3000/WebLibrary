@@ -757,6 +757,18 @@
                     }
                   },
                   {
+                   "title":"MERN Beginner Project 4 With OAuth",
+                    "link":"https://www.youtube.com/watch?v=4NZx9OF07qY&t=6283s",
+                       "ogData": {
+                      "title": "MERN Finance Tracker App - Build A React Advanced Project",
+                      "description": "This video is made possible by Twingate! They have a really simple, ready to use, service that will help you solve countless problems. On top of that, AWS EC...",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/4NZx9OF07qY/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/9f65bf98/img/favicon.ico"
+                    }
+                  },
+                  
+                  {
                     "title": "MERN Major Project 1",
                     "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
                     "ogData": {
