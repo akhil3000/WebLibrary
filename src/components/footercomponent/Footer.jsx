@@ -35,7 +35,7 @@ const Footer = () => {
           <a href="https://t.me/+4tZnvg47-akyNzY1" target="__blank">
             <BsTelegram className="icons" />
           </a>
-          <a href="https://www.youtube.com/@akhilpolisetty" target="__blank">
+          <a href="https://www.youtube.com/@AkhilPolisetty-dg2yn" target="__blank">
             <BsYoutube className="icons" />
           </a>
         </div>
