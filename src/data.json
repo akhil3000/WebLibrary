@@ -1056,7 +1056,18 @@
               {
                 "resources": [
                   {
-                    "title": "Design Patterns Tutorial",
+                    "title": "System Design Basics(LLD+HLD+HandsOnHLD)",
+                    "link": "https://www.educosys.com/",
+                    "ogData": {
+                      "title": "System Design for Beginners",
+                      "description": "Elevate your skills with our tailored courses aimed towards anyone pursuing a software engineering career. Dive deep into coding, architecture, and industry best practices. Gain expertise to excel in any environment.",
+                      "siteName": "Educosys",
+                      "imageUrl": "https://open-graph-logos.s3.ap-south-1.amazonaws.com/educosys-full-logo-fit.jpg",
+                      "favicon": "https://www.educosys.com/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "Design Patterns Documentation",
                     "link": "https://www.geeksforgeeks.org/software-design-patterns/",
                     "ogData": {
                       "title": "Software Design Patterns Tutorial - GeeksforGeeks",
