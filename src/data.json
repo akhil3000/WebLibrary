@@ -1056,7 +1056,7 @@
               {
                 "resources": [
                   {
-                    "title": "System Design Basics(LLD+HLD+HandsOnHLD)",
+                    "title": "System Design Basics(LLD+HLD)",
                     "link": "https://www.educosys.com/",
                     "ogData": {
                       "title": "System Design for Beginners",
@@ -3249,14 +3249,14 @@
                     }
                   },
                   {
-                    "title": "Java Backend Development Project 2",
-                    "link": "https://www.udemy.com/course/spring-boot-and-spring-framework-tutorial-for-beginners/",
+                    "title": "Todolist Application With React & Spring Boot",
+                    "link": "https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr",
                     "ogData": {
-                      "title": "[NEW] Master Spring Boot 3 & Spring Framework 6 with Java",
-                      "description": "Become Java Spring Boot Full Stack Cloud Developer. Learn AWS, React, Docker, Spring Data JPA & Spring Security.",
-                      "siteName": "Udemy",
-                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/4993276_3452.jpg",
-                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                      "title": "Todolist Application With React and Spring Boot",
+                      "description": "Become Java Spring Boot Full Stack Cloud Developer. Learn  React, Spring",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/dP4goCkKxlw/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAmTpHVMznU1N1U_T9SwyBW6dOgSQ&amp;days_since_epoch=19906",
+                      "favicon": "https://www.youtube.com/s/desktop/28bb7000/img/favicon.ico"
                     }
                   },
                   {
@@ -3271,14 +3271,14 @@
                     }
                   },
                   {
-                    "title": "Java Backend Development Project 4",
-                    "link": "https://www.udemy.com/course/microservices-with-spring-boot-and-spring-cloud/?couponCode=KEEPLEARNING",
+                    "title": "Learn Spring Boot Microservices With Project",
+                    "link": "https://www.udemy.com/course/building-microservices-with-spring-boot-and-spring-cloud/?couponCode=THANKSLEARNER24",
                     "ogData": {
-                      "title": "Master Microservices with Spring Boot and Spring Cloud",
-                      "description": "Java Spring Boot Microservices 5-in-1 - Spring Boot, Spring Cloud, Docker, Kubernetes and REST API (REST Web Services)",
+                      "title": "Learn Beginner Microservices with Spring Boot and Spring Cloud",
+                      "description": "Learn to Build Microservices using Spring Boot ",
                       "siteName": "Udemy",
-                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/1352468_3d97_8.jpg",
-                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                      "imageUrl": "https://img-b.udemycdn.com/course/480x270/4923018_c5b4_2.jpg",
+                      "favicon": "/staticx/udemy/images/v8/favicon-32x32.png"
                     }
                   }
                 ],
@@ -4477,7 +4477,18 @@
               {
                 "resources": [
                   {
-                    "title": "Design Patterns Tutorial",
+                    "title": "System Design Basics(LLD+HLD)",
+                    "link": "https://www.educosys.com/",
+                    "ogData": {
+                      "title": "System Design for Beginners",
+                      "description": "Elevate your skills with our tailored courses aimed towards anyone pursuing a software engineering career. Dive deep into coding, architecture, and industry best practices. Gain expertise to excel in any environment.",
+                      "siteName": "Educosys",
+                      "imageUrl": "https://www.educosys.com/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FLLD%20%26%20HLD%20SYSTEM%20DESIGN.ffb1242c.png&w=1920&q=75",
+                      "favicon": "https://www.educosys.com/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "Design Patterns Documentation",
                     "link": "https://www.geeksforgeeks.org/software-design-patterns/",
                     "ogData": {
                       "title": "Software Design Patterns Tutorial - GeeksforGeeks",
@@ -4487,14 +4498,23 @@
                       "favicon": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png"
                     }
                   },
+                    {
+                    "title": "FrontEnd System Design",
+                    "link": "https://namastedev.com/learn/namaste-frontend-system-design",
+                    "ogData": {
+                      "title": "Namaste Frontend System Design",
+                      "description": "Welcome to the 'Namaste Frontend System Design' course, a comprehensive journey covering pivotal modules. From fortifying systems against vulnerabilities to mastering networking, testing, communication, and offline support, delve into logging, database, performance, low-level, accessibility, and high-level design. Explore architectures of social media, e-commerce, streaming, and collaborative tools. Elevate skills in securing, optimizing, and architecting accessible, high-performance frontend systems.",
+                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/namaste-frontend-system-design/Namaste-Frontend-System-Design.jpeg"
+                    }
+                  },
                   {
                     "title": "Grokking Modern System Design Interview for Engineers & Managers",
-                    "link": "https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers?utm_campaign=topic_grokking&utm_source=google&utm_medium=ppc&utm_content=search&utm_term=sitelink&eid=5082902844932096&utm_term=educative%20system%20design&utm_campaign=%5BBrand%5D+Educative+%7C+Exclude+USA&utm_source=adwords&utm_medium=ppc&hsa_acc=5451446008&hsa_cam=6976044439&hsa_grp=138308526222&hsa_ad=620692248173&hsa_src=g&hsa_tgt=aud-2193297638348:kwd-669186654906&hsa_kw=educative%20system%20design&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdlOzGfxVNmdHl9sgofuu1hdrVZC1MRJe3tXBGwU1BrIBl76LXNCyEhoCvewQAvD_BwE",
+                    "link": "https://www.educative.io/courses/grokking-modern-system-design-interview-for-engineers-managers?utm_campaign=topic_grokking&amp;utm_source=google&amp;utm_medium=ppc&amp;utm_content=search&amp;utm_term=sitelink&amp;eid=5082902844932096&amp;utm_term=educative%20system%20design&amp;utm_campaign=%5BBrand%5D+Educative+%7C+Exclude+USA&amp;utm_source=adwords&amp;utm_medium=ppc&amp;hsa_acc=5451446008&amp;hsa_cam=6976044439&amp;hsa_grp=138308526222&amp;hsa_ad=620692248173&amp;hsa_src=g&amp;hsa_tgt=aud-2193297638348:kwd-669186654906&amp;hsa_kw=educative%20system%20design&amp;hsa_mt=e&amp;hsa_net=adwords&amp;hsa_ver=3&amp;gad_source=1&amp;gclid=CjwKCAiAi6uvBhADEiwAWiyRdlOzGfxVNmdHl9sgofuu1hdrVZC1MRJe3tXBGwU1BrIBl76LXNCyEhoCvewQAvD_BwE",
                     "ogData": {
                       "title": "Grokking Modern System Design Interview for Engineers & Managers - AI-Powered Learning for Developers",
                       "description": "System Design interviews are now part of every Engineering and Product Management Interview. Interviewers want candidates to exhibit their technical knowledge of core building blocks and the rationale of their design approach. This course presents carefully selected system design problems with detailed solutions that will enable you to handle complex scalability scenarios during an interview or designing new products. \n\nYou will start with learning a bottom-up approach to designing scalable systems. First, you’ll learn about the building blocks of modern systems, with each component being a completely scalable application in itself. You'll then explore the RESHADED framework for architecting web-scale applications by determining requirements, constraints, and assumptions before diving into a step-by-step design process. Finally, you'll design several popular services by using these modular building blocks in unique combinations, and learn how to evaluate your design.",
                       "siteName": "Educative",
-                      "imageUrl": "https://educative.io/api/collection/10370001/4941429335392256/image/5840136713797632.png",
+                      "imageUrl": "https://qph.cf2.quoracdn.net/main-qimg-ab1a1fbd60683f227c2a07d8182f8cd1",
                       "favicon": "https://educative.io/static/favicons/favicon-whiteV2.png"
                     }
                   },
@@ -4505,7 +4525,7 @@
                       "title": "Grokking the Principles and Practices of Advanced System Design - AI-Powered Learning for Developers",
                       "description": "This course teaches you how large, real-world systems are built and operated to meet strict service-level agreements. You’ll learn the many building blocks of a modern system’s design by picking and combining the right pieces and understanding the trade-offs between them.\n\nYou’ll learn about some great systems from hyperscalers such as Google, Facebook, and Amazon. This course has hand-picked seminal work in system design that has stood the test of time and is grounded on strong principles. You will learn all these principles and see them in action in real-world systems.\n\nAfter taking this course, you will be able to solve various system design interview problems. You will have a deeper knowledge of an outage of your favorite app and will be able to understand their event post-mortem reports. This course will set your system design standards so that you can emulate similar success in your endeavors.",
                       "siteName": "Educative",
-                      "imageUrl": "https://educative.io/api/collection/10370001/6511981981073408/image/6211930336526336.png",
+                      "imageUrl": "https://qph.cf2.quoracdn.net/main-qimg-ab1a1fbd60683f227c2a07d8182f8cd1",
                       "favicon": "https://educative.io/static/favicons/favicon-whiteV2.png"
                     }
                   },
@@ -4520,22 +4540,15 @@
                       "favicon": "https://bytebytego.com/android-chrome-512x512.png"
                     }
                   },
-                  {
-                    "title": "FrontEnd System Design",
-                    "link": "https://namastedev.com/learn/namaste-frontend-system-design",
-                    "ogData": {
-                      "title": "Namaste Frontend System Design",
-                      "description": "Welcome to the 'Namaste Frontend System Design' course, a comprehensive journey covering pivotal modules. From fortifying systems against vulnerabilities to mastering networking, testing, communication, and offline support, delve into logging, database, performance, low-level, accessibility, and high-level design. Explore architectures of social media, e-commerce, streaming, and collaborative tools. Elevate skills in securing, optimizing, and architecting accessible, high-performance frontend systems.",
-                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/namaste-frontend-system-design/Namaste-Frontend-System-Design.jpeg"
-                    }
-                  },
+                
                   {
                     "title": "Book",
-                    "link": "https://www.amazon.in/System-Design-Interview-Insiders-Colour/dp/9355427190/ref=sr_1_2?dib=eyJ2IjoiMSJ9.R5bQmrAqMOECpq1G6Tnx-EjLbX9dmnHURthjTS_269P7fNw6UPwuojGrLewBuCZWdmovD5pleYCbXph9kCr9cCDM0K5m_vn6yPRXM5R8CwZAWd2ZCXj2iY-QYY7KXn-HlY895gJ8u1uSPKuy1BzypxCpiTuK_b28I3YfhGrvScxyLEkA_Xf6zor8EMxXFIF_sbzUjNB3FdjprNW5jnxgvmU25QK_EawfxWoFmcJ7XEU.ILLYJ-41E3QbmMMmFYcg86k1e-WQFHbPl1krNk59p8w&dib_tag=se&keywords=alex+yu+system+design&qid=1709917979&sr=8-2",
+                    "link": "https://www.amazon.in/System-Design-Interview-Insiders-Colour/dp/9355427190/ref=sr_1_2?dib=eyJ2IjoiMSJ9.R5bQmrAqMOECpq1G6Tnx-EjLbX9dmnHURthjTS_269P7fNw6UPwuojGrLewBuCZWdmovD5pleYCbXph9kCr9cCDM0K5m_vn6yPRXM5R8CwZAWd2ZCXj2iY-QYY7KXn-HlY895gJ8u1uSPKuy1BzypxCpiTuK_b28I3YfhGrvScxyLEkA_Xf6zor8EMxXFIF_sbzUjNB3FdjprNW5jnxgvmU25QK_EawfxWoFmcJ7XEU.ILLYJ-41E3QbmMMmFYcg86k1e-WQFHbPl1krNk59p8w&amp;dib_tag=se&amp;keywords=alex+yu+system+design&amp;qid=1709917979&amp;sr=8-2",
                     "ogData": {
-                      "title": "Buy System Design Interview: An Insider's Guide – Volume 1 (Full Colour Edition) Book Online at Low Prices in India | System Design Interview: An Insider's Guide – Volume 1 (Full Colour Edition) Reviews & Ratings - Amazon.in",
-                      "imageUrl": "https://m.media-amazon.com/images/G/31/gno/sprites/nav-sprite-global-1x-reorg-privacy._CB600086755_.png",
                       "siteName": "Amazon",
+                      "title": "System Design Interview: An Insider's Guide - Volume 1",
+                      "description": "Buy System Design Interview: An Insider's Guide - Volume 1 (Full Colour Edition) Book Online at Low Prices in India | System Design Interview: An Insider's Guide - Volume 1 (Full Colour Edition) Reviews & Ratings - Amazon.in",
+                      "imageUrl": "https://m.media-amazon.com/images/I/61Wot+AplwL._SL1500_.jpg",
                       "favicon": "https://www.amazon.in/favicon.ico"
                     }
                   }
