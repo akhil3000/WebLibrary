@@ -882,6 +882,7 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
+                 
                   {
                     "title": "NodeJs and Microservices and Cloud",
                     "link": "https://www.udemy.com/course/microservices-with-node-js-and-react/?couponCode=ST14MT32124",
@@ -891,6 +892,16 @@
                       "siteName": "Udemy",
                       "imageUrl": "https://img-b.udemycdn.com/course/480x270/2887266_c696_5.jpg",
                       "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+                    {
+                    "title": "AWS Basics Workshop",
+                    "link": "https://www.thecloudtrain.com/aws-workshop",
+                    "ogData": {
+                      "title": "Learn 30 AWS Services Basics",
+                      "description": "Cloud Train provides DevOps Training Workshops to help you accelerate your career growth and reach your career goals. Our expertise is in DevOps Cloud (AWS, Azure , GCP)  we provide DevOps  Cloud (AWS, Azure,GCP) Online Training and DevOps Workshops.",
+                       "siteName": "CloudTrain",
+                      "imageUrl": "https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png",
                     }
                   }
                 ]
@@ -1043,7 +1054,19 @@
                       "imageUrl": "https://img-b.udemycdn.com/course/480x270/4923018_c5b4_2.jpg",
                       "favicon": "/staticx/udemy/images/v8/favicon-32x32.png"
                     }
+                  },
+                    {
+                    "title": "AWS Basics Workshop",
+                    "link": "https://www.thecloudtrain.com/aws-workshop",
+                    "ogData": {
+                      "title": "Learn 30 AWS Services Basics",
+                      "description": "Cloud Train provides DevOps Training Workshops to help you accelerate your career growth and reach your career goals. Our expertise is in DevOps Cloud (AWS, Azure , GCP)  we provide DevOps  Cloud (AWS, Azure,GCP) Online Training and DevOps Workshops.",
+                       "siteName": "CloudTrain",
+                      "imageUrl": "https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png",
+                    }
                   }
+
+                  
                 ],
                 "title": "You can start learning Web Development Basics and Front End Development from Web Development Module Parallelly Before going Further"
               }
@@ -4613,6 +4636,16 @@
                       "siteName": "YouTube",
                       "imageUrl": "https://i.ytimg.com/vi/1ERdeg8Sfv4/maxresdefault.jpg",
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
+                    {
+                    "title": "AWS Basics Workshop",
+                    "link": "https://www.thecloudtrain.com/aws-workshop",
+                    "ogData": {
+                      "title": "Learn 30 AWS Services Basics",
+                      "description": "Cloud Train provides DevOps Training Workshops to help you accelerate your career growth and reach your career goals. Our expertise is in DevOps Cloud (AWS, Azure , GCP)  we provide DevOps  Cloud (AWS, Azure,GCP) Online Training and DevOps Workshops.",
+                       "siteName": "CloudTrain",
+                      "imageUrl": "https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png",
                     }
                   },
                   {
