@@ -942,6 +942,17 @@
                       "favicon": "https://static.javatpoint.com/images/favicon2.png"
                     }
                   },
+                    {
+                    "title": "Intermediate Java",
+                    "link": "https://www.youtube.com/playlist?list=PLGRDMO4rOGcOlR-f9gaNlYZ6O3F_n6wIq",
+                    "ogData": {
+                      "title": "Intermediate Java Tutorials with Modern Features",
+                      "description": "This is the playlist of Java programming tutorials and examples. All the video tutorials explained with coding examples",
+                      "siteName": "Youtube",
+                      "favicon": "https://www.youtube.com/s/desktop/d44eab58/img/favicon_48x48.png"
+                    }
+                  },
+                  
                   {
                     "title": "Java With DSA Level1",
                     "link": "https://www.javatpoint.com/java-programs",
@@ -2375,6 +2386,16 @@
                       "favicon": "https://static.javatpoint.com/images/favicon2.png"
                     }
                   },
+                   {
+                    "title": "Intermediate Java",
+                    "link": "https://www.youtube.com/playlist?list=PLGRDMO4rOGcOlR-f9gaNlYZ6O3F_n6wIq",
+                    "ogData": {
+                      "title": "Intermediate Java Tutorials with Modern Features",
+                      "description": "This is the playlist of Java programming tutorials and examples. All the video tutorials explained with coding examples",
+                      "siteName": "Youtube",
+                      "favicon": "https://www.youtube.com/s/desktop/d44eab58/img/favicon_48x48.png"
+                    }
+                  },
                   {
                     "title": "Time Complexity Analysis",
                     "link": "https://www.youtube.com/playlist?list=PL2_aWCzGMAwI9HK8YPVBjElbLbI3ufctn",
@@ -3189,6 +3210,16 @@
                       "siteName": "www.javatpoint.com",
                       "imageUrl": "https://static.javatpoint.com/images/logo/jtp-logo3.png",
                       "favicon": "https://static.javatpoint.com/images/favicon2.png"
+                    }
+                  },
+                   {
+                    "title": "Intermediate Java",
+                    "link": "https://www.youtube.com/playlist?list=PLGRDMO4rOGcOlR-f9gaNlYZ6O3F_n6wIq",
+                    "ogData": {
+                      "title": "Intermediate Java Tutorials with Modern Features",
+                      "description": "This is the playlist of Java programming tutorials and examples. All the video tutorials explained with coding examples",
+                      "siteName": "Youtube",
+                      "favicon": "https://www.youtube.com/s/desktop/d44eab58/img/favicon_48x48.png"
                     }
                   },
                   {
