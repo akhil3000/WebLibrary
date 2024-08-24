@@ -691,6 +691,18 @@
                       "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
                     }
                   },
+
+                  {
+                    "title": "Node And Express Js API Workshop",
+                    "link": "https://lp.airtribe.live/masterclass",
+                    "ogData": {
+                      "title": "Airtribe Node And Express Js",
+                      "description": "Workshop on 2-Day Masterclass on API Development using Node.js &amp;amp; Express.js by Dhaval Trivedi on Airtribe",
+                      "siteName": "Airtribe",
+                      "imageUrl": "https://framerusercontent.com/assets/aXItEjEBsYgAf0dEaNDu5qAd8.png",
+                      "favicon": "https://framerusercontent.com/images/MzxvLlXFFtNO93zLKOjcCnTuSEI.png"
+                    }
+                  },
                   {
                     "title": "Node And Express Complete Course",
                     "link": "https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?couponCode=ACCAGE0923",
@@ -700,6 +712,18 @@
                       "siteName": "Udemy",
                       "imageUrl": "https://img-c.udemycdn.com/course/480x270/3830262_2c3b_3.jpg",
                       "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+
+                  {
+                    "title": "Namaste Node Js",
+                    "link": "https://namastedev.com/learn/namaste-node",
+                    "ogData": {
+                      "title": "Namaste Node Js",
+                      "description": "Master NodeJS with the Namaste NodeJS course. Learn from basics to advanced concepts like asynchronous programming, event loops, and the V8 JavaScript engine. Gain hands-on experience and build scalable, high-performance server-side applications. Perfect for developers aiming to enhance their backend development skills.",
+                      "siteName": "NamasteDev",
+                      "imageUrl": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp"
+                  
                     }
                   },
                   {
@@ -1447,6 +1471,17 @@
                       "siteName": "Medium",
                       "imageUrl": "https://miro.medium.com/v2/resize:fit:1200/1*d0Qd8OUx_TUxG7N6H991ew.jpeg",
                       "favicon": "https://miro.medium.com/v2/resize:fill:128:128/1*VzTUkfeGymHP4Bvav-T-lA.png"
+                    }
+                  },
+                     {
+                    "title": "Krish Naik Maths for Data Science Course",
+                    "link": "https://www.udemy.com/course/mathematics-basics-to-advanced-for-data-science-and-ml/?couponCode=SKILLS4SALEB",
+                    "ogData": {
+                      "title": "Krish Naik Mathematics for Data Science",
+                      "description": "Build Strong math foundation with linear algebra,stats,probability,differential calculus for mastering data science",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/6106647_5842.jpg",
+                      "favicon":"/staticx/udemy/images/v7/apple-touch-icon.png"
                     }
                   },
                   {
@@ -2337,6 +2372,19 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
+                   {
+                    "title": "TUF+ Platform",
+                    "link": "https://takeuforward.org/plus",
+                    "ogData": {
+                      "title": "take U forward Plus",
+                      "description": "takeuforward is the best place to learn data structures, algorithms, most asked coding interview questions, real interview experiences free of cost.",
+                      "siteName": "TUF+",
+                      "imageUrl": "https://takeuforward-content-images.s3.ap-south-1.amazonaws.com/content/wallpaperYoutube-2.webp",
+                      "favicon": "https://static.takeuforward.org/content/favicon-yBC0qDmm"
+                    }
+                  },
+
+                  
                   {
                     "title": "Competitive DSA Level 2",
                     "link": "https://www.tle-eliminators.com/",
@@ -2498,6 +2546,18 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
+
+                   {
+                    "title": "TUF+ Platform",
+                    "link": "https://takeuforward.org/plus",
+                    "ogData": {
+                      "title": "take U forward Plus",
+                      "description": "takeuforward is the best place to learn data structures, algorithms, most asked coding interview questions, real interview experiences free of cost.",
+                      "siteName": "TUF+",
+                      "imageUrl": "https://takeuforward-content-images.s3.ap-south-1.amazonaws.com/content/wallpaperYoutube-2.webp",
+                      "favicon": "https://static.takeuforward.org/content/favicon-yBC0qDmm"
+                    }
+                  },
                   {
                     "title": "Book",
                     "link": "https://www.amazon.in/Cracking-Coding-Interview-Programing-Questions/dp/0984782850",
@@ -2619,6 +2679,18 @@
                       "favicon": "https://leetcode.com/favicon.ico"
                     }
                   }
+                  ,
+                 {
+                    "title": "TUF+ Platform",
+                    "link": "https://takeuforward.org/plus",
+                    "ogData": {
+                      "title": "take U forward Plus",
+                      "description": "takeuforward is the best place to learn data structures, algorithms, most asked coding interview questions, real interview experiences free of cost.",
+                      "siteName": "TUF+",
+                      "imageUrl": "https://takeuforward-content-images.s3.ap-south-1.amazonaws.com/content/wallpaperYoutube-2.webp",
+                      "favicon": "https://static.takeuforward.org/content/favicon-yBC0qDmm"
+                    }
+                  },
                 ],
                 "title": "DSA"
               },
