@@ -1058,6 +1058,19 @@
                     }
                   },
                   {
+                    "title": "Spring Boot Ecommerce Website Backend",
+                    "link": "view-source:https://www.youtube.com/watch?v=oGhc5Z-WJSw",
+                    "ogData": {
+                      "title": "Learn Spring Boot Ecommerce Website Backend in One Video",
+                      "description": "Master spring boot and spring security by building a shopping cart backend project. Starting with project generation, you&#39;ll learn to create and map entity c...",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/oGhc5Z-WJSw/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/eb72fb02/img/favicon.ico"
+                    }
+                  },  
+
+                  
+                  {
                     "title": "Todolist Application With React & Spring Boot",
                     "link": "https://www.youtube.com/playlist?list=PLGRDMO4rOGcNLnW1L2vgsExTBg-VPoZHr",
                     "ogData": {
