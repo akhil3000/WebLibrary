@@ -1138,6 +1138,19 @@
                     }
                   },
                   {
+                    "title": "Keerthi Puruswani System Design Concepts Learn in a Minute",
+                    "link": "https://www.youtube.com/playlist?list=PLliXPok7Zonmtn7MzXqnClQvcrIVxVGz9",
+                    "ogData": {
+                      "title": "System Design Concepts Learn in a minute",
+                      "description": "Learn All System Design Concepts briefly",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/h3ByQ5KydZ4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAiCGwHbxlySPvvKP3b2D8JrMorhg&amp;days_since_epoch=19987",
+                      "favicon": "https://www.youtube.com/s/desktop/494dd881/img/favicon.ico"
+                    }
+                  },
+                      
+                  
+                  {
                     "title": "Design Patterns Documentation",
                     "link": "https://www.geeksforgeeks.org/software-design-patterns/",
                     "ogData": {
@@ -1170,6 +1183,17 @@
                       "favicon": "https://www.youtube.com/s/desktop/ef8ce500/img/favicon.ico"
                     }
                   },
+
+                  {
+                    "title":" Namaste FrontEnd System Design Course",
+                    "link":"https://namastedev.com/learn/namaste-frontend-system-design",
+                    "ogData": {
+                      "title": "Namaste Frontend System Design",
+                      "description": "Welcome to the 'Namaste Frontend System Design' course, a comprehensive journey covering pivotal modules. From fortifying systems against vulnerabilities to mastering networking, testing, communication, and offline support, delve into logging, database, performance, low-level, accessibility, and high-level design. Explore architectures of social media, e-commerce, streaming, and collaborative tools. Elevate skills in securing, optimizing, and architecting accessible, high-performance frontend systems.",
+                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/namaste-frontend-system-design/Namaste-Frontend-System-Design.jpeg"
+                    }
+                    
+                  },
                    
                   {
                     "title": "Byte Byte Go System Design By Alex Yu",
@@ -1180,6 +1204,18 @@
                       "siteName": "ByteByteGo",
                       "imageUrl": "https://bytebytego.com/social1.png",
                       "favicon": "https://bytebytego.com/android-chrome-512x512.png"
+                    }
+                  },
+
+                  {
+                    "title": "Byte Byte Go System Design Learn in a minute Concepts",
+                    "link": "view-source:https://www.youtube.com/@ByteByteGo/shorts",
+                    "ogData": {
+                      "title": "Byte Byte Go System Design Learn in a minute Concepts",
+                      "description": "Covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview book series. This channel is managed by Alex Xu and Sahn Lam",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://yt3.googleusercontent.com/efrVnDJbJOQ5XcXrrFhA9V2wTXh6gP_i0KycoYjqhN3nEh6VbCgqMQakAcFqEsguw7wxhHEjnA=s900-c-k-c0x00ffffff-no-rj",
+                      "favicon": "https://www.youtube.com/s/desktop/494dd881/img/favicon.ico"
                     }
                   },
                 
@@ -4621,6 +4657,19 @@
                     }
                   },
                   {
+                    "title": "Keerthi Puruswani System Design Concepts Learn in a Minute",
+                    "link": "https://www.youtube.com/playlist?list=PLliXPok7Zonmtn7MzXqnClQvcrIVxVGz9",
+                    "ogData": {
+                      "title": "System Design Concepts Learn in a minute",
+                      "description": "Learn All System Design Concepts briefly",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/h3ByQ5KydZ4/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLAiCGwHbxlySPvvKP3b2D8JrMorhg&amp;days_since_epoch=19987",
+                      "favicon": "https://www.youtube.com/s/desktop/494dd881/img/favicon.ico"
+                    }
+                  },
+                      
+                  
+                  {
                     "title": "Design Patterns Documentation",
                     "link": "https://www.geeksforgeeks.org/software-design-patterns/",
                     "ogData": {
@@ -4653,6 +4702,18 @@
                       "favicon": "https://www.youtube.com/s/desktop/ef8ce500/img/favicon.ico"
                     }
                   },
+
+                  {
+                    "title":" Namaste FrontEnd System Design Course",
+                    "link":"https://namastedev.com/learn/namaste-frontend-system-design",
+                    "ogData": {
+                      "title": "Namaste Frontend System Design",
+                      "description": "Welcome to the 'Namaste Frontend System Design' course, a comprehensive journey covering pivotal modules. From fortifying systems against vulnerabilities to mastering networking, testing, communication, and offline support, delve into logging, database, performance, low-level, accessibility, and high-level design. Explore architectures of social media, e-commerce, streaming, and collaborative tools. Elevate skills in securing, optimizing, and architecting accessible, high-performance frontend systems.",
+                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/namaste-frontend-system-design/Namaste-Frontend-System-Design.jpeg"
+                    }
+                    
+                  },
+                   
                   {
                     "title": "Byte Byte Go System Design By Alex Yu",
                     "link": "https://bytebytego.com/",
@@ -4662,6 +4723,18 @@
                       "siteName": "ByteByteGo",
                       "imageUrl": "https://bytebytego.com/social1.png",
                       "favicon": "https://bytebytego.com/android-chrome-512x512.png"
+                    }
+                  },
+
+                  {
+                    "title": "Byte Byte Go System Design Learn in a minute Concepts",
+                    "link": "view-source:https://www.youtube.com/@ByteByteGo/shorts",
+                    "ogData": {
+                      "title": "Byte Byte Go System Design Learn in a minute Concepts",
+                      "description": "Covering topics and trends in large-scale system design, from the authors of the best-selling System Design Interview book series. This channel is managed by Alex Xu and Sahn Lam",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://yt3.googleusercontent.com/efrVnDJbJOQ5XcXrrFhA9V2wTXh6gP_i0KycoYjqhN3nEh6VbCgqMQakAcFqEsguw7wxhHEjnA=s900-c-k-c0x00ffffff-no-rj",
+                      "favicon": "https://www.youtube.com/s/desktop/494dd881/img/favicon.ico"
                     }
                   },
                 
