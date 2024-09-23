@@ -3263,16 +3263,28 @@
                     }
                   },
                   {
-                    "title": "Algorithms Specialization",
-                    "link": "https://www.coursera.org/specializations/algorithms",
+                    "title": "Algorithms ToolBox Specialization",
+                    "link": "https://www.coursera.org/learn/algorithmic-toolbox",
                     "ogData": {
-                      "title": "Algorithms",
-                      "description": "Offered by Stanford University. Learn To Think Like A Computer Scientist. Master the fundamentals of the design and analysis of algorithms. Enroll for free.",
+                      "title": "Algorithm Tool Box Specialization",
+                      "description": "Offered by UC Sandiego. Learn To Think Like A Computer Scientist. Master the fundamentals of the design and analysis of algorithms. Enroll for free.",
                       "siteName": "Coursera",
-                      "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~algorithms/XDP~SPECIALIZATION!~algorithms.jpeg",
-                      "favicon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/favicon-v2-194x194.png"
+                      "imageUrl": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~algorithmic-toolbox/XDP~COURSE!~algorithmic-toolbox.jpeg",
+                      "favicon": "https://d3njjcbhbojbot.cloudfront.net/web/images/favicons/apple-touch-icon-v2-57x57.png"
                     }
                   },
+                  {
+                    "title": "Algorithms TUF Playlists",
+                    "link": "https://www.youtube.com/@takeUforward/playlists",
+                    "ogData": {
+                      "title": "Take You Forward Algorithms Playlist",
+                      "description": "Learn Divide and Conquer,Greedy,Dynamic Programming",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mdPFTT7VuJHQkvzW9gjJxvSV3bBDpEVNw8dWOmHjTT5g=s900-c-k-c0x00ffffff-no-rj",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  }
+                  
                   {
                     "title": "Documentation Tutorial",
                     "link": "https://www.javatpoint.com/daa-tutorial",
