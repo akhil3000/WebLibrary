@@ -653,12 +653,12 @@
                   },
                   {
                     "title": "Mongodb Practice",
-                    "link": "https://learn.mongodb.com/learning-paths/introduction-to-mongodb",
+                    "link": "https://www.w3resource.com/mongodb-exercises/",
                     "ogData": {
-                      "title": "Introduction to MongoDB Course | MongoDB University",
-                      "description": "This introductory course contains 11 Units, covering the basics of MongoDB and Atlas. Register now and begin the journey to getting your MongoDB Certification.",
-                      "imageUrl": "https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress",
-                      "favicon": "https://d36ai2hkxl16us.cloudfront.net/thoughtindustries/image/upload/a_exif,c_fit,t_ti_favicon_v4/v1/course-uploads/ae62dcd7-abdc-4e90-a570-83eccba49043/aw372gbiwffg-MongoDBFavIcon1.png"
+                      "title": "Practice MongoDB queries with real world datasets",
+                      "description": "MongoDB Exercises, Practice, Solution: MongoDB is a free and open-source cross-platform document-oriented database. Classified as a NoSQL database, MongoDB avoids the traditional table-based relational database structure in favor of JSON-like documents with dynamic schemas, making the integration of data in certain types of applications easier and faster",
+                      "imageUrl": "//www.w3resource.com/w3r_images/mongodb.gif",
+                      "favicon": "//www.w3resource.com/images/favicon.png"
                     }
                   },
                   {
