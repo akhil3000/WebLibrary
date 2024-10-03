@@ -1126,6 +1126,18 @@
             "stages": [
               {
                 "resources": [
+
+                  {
+                    "title": "Gaurav Sen System Design Basics Playlists",
+                    "link": "https://www.youtube.com/@gkcs/playlists",
+                    "ogData": {
+                      "title": "Gaurav Sen System Design Basics Playlists",
+                      "description": "This channel is for software developers looking to get better at algorithms, system design, and learning engineering best practices.",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://yt3.googleusercontent.com/rsKAERVEXNTq6lbdIHUlm3aVAw4R2D1fPkDz-7sPccu9qwic5EYfSe6VI7tNB5-_r0Ip5_P0=s900-c-k-c0x00ffffff-no-rj",
+                      "favicon": "https://www.youtube.com/s/desktop/87338098/img/favicon.ico"
+                    }
+                  },
                   {
                     "title": "System Design Basics(LLD+HLD)",
                     "link": "https://www.educosys.com/",
@@ -4701,6 +4713,17 @@
                       "siteName": "GeeksforGeeks",
                       "imageUrl": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
                       "favicon": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_favicon.png"
+                    }
+                  },
+                   {
+                    "title": "Gaurav Sen System Design Basics Playlists",
+                    "link": "https://www.youtube.com/@gkcs/playlists",
+                    "ogData": {
+                      "title": "Gaurav Sen System Design Basics Playlists",
+                      "description": "This channel is for software developers looking to get better at algorithms, system design, and learning engineering best practices.",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://yt3.googleusercontent.com/rsKAERVEXNTq6lbdIHUlm3aVAw4R2D1fPkDz-7sPccu9qwic5EYfSe6VI7tNB5-_r0Ip5_P0=s900-c-k-c0x00ffffff-no-rj",
+                      "favicon": "https://www.youtube.com/s/desktop/87338098/img/favicon.ico"
                     }
                   },
                   {
