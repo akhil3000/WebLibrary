@@ -918,15 +918,28 @@
                     }
                   },
                     {
-                    "title": "AWS Basics Workshop",
-                    "link": "https://www.thecloudtrain.com/aws-workshop",
+                    "title": "AWS Zero To Hero Playlist",
+                    "link": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze",
                     "ogData": {
-                      "title": "Learn 30 AWS Services Basics",
-                      "description": "Cloud Train provides DevOps Training Workshops to help you accelerate your career growth and reach your career goals",
-                       "siteName": "CloudTrain",
-                      "imageUrl": "https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png"
+                      "title": "AWS Zero To Hero Playlist",
+                      "description": "A Free playlist for learning AWS from zero to hero. By following the playlist you can learn AWS with real time projects and Interview Questions.",
+                       "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/GkKNxyLp_V0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBy3SkEZqf91St6kVR_hWJepDGsoA&amp;days_since_epoch=20001"
+                      
                     }
-                  }
+                  },
+
+                 {
+                    "title": "Devops Playlists",
+                    "link": "https://www.youtube.com/@AbhishekVeeramalla",
+                    "ogData": {
+                      "title": "Devops Playlists",
+                      "description": "I am an opensource enthusiast and a great believer in sharing knowledge. I have my footprints in popular opensource projects like Argo CD, Argo CD Operator, Argo Rollouts Manager, GitOps Operator, F5 Ingress Controller, Nginx Ingress Controller by Nginx and others. ",
+                       "siteName": "Youtube",
+                      "imageUrl": "https://yt3.googleusercontent.com/dwzI3o0Lx9J8WmHJmqT4RclChSDjpMdRcBA32xPiZJGIieW203GuRvbKwcDb0AARN0x2m4xgCg=s900-c-k-c0x00ffffff-no-rj"
+                      
+                    }
+                 }
                 ]
               }
             ]
@@ -1104,15 +1117,28 @@
                     }
                   },
                     {
-                    "title": "AWS Basics Workshop",
-                    "link": "https://www.thecloudtrain.com/aws-workshop",
+                    "title": "AWS Zero To Hero Playlist",
+                    "link": "https://www.youtube.com/playlist?list=PLdpzxOOAlwvLNOxX0RfndiYSt1Le9azze",
                     "ogData": {
-                      "title": "Learn 30 AWS Services Basics",
-                      "description": "Cloud Train provides DevOps Training Workshops to help you accelerate your careers With Cloud and DevOps Workshops.",
-                       "siteName": "CloudTrain",
-                      "imageUrl": "https://static.wixstatic.com/media/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png/v1/fit/w_2500,h_1330,al_c/1c706c_a5df0ad56f894928bf858a74ba744b32%7Emv2.png"
+                      "title": "AWS Zero To Hero Playlist",
+                      "description": "A Free playlist for learning AWS from zero to hero. By following the playlist you can learn AWS with real time projects and Interview Questions.",
+                       "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/GkKNxyLp_V0/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBy3SkEZqf91St6kVR_hWJepDGsoA&amp;days_since_epoch=20001"
+                      
                     }
-                  }
+                  },
+
+                 {
+                    "title": "Devops Playlists",
+                    "link": "https://www.youtube.com/@AbhishekVeeramalla",
+                    "ogData": {
+                      "title": "Devops Playlists",
+                      "description": "I am an opensource enthusiast and a great believer in sharing knowledge. I have my footprints in popular opensource projects like Argo CD, Argo CD Operator, Argo Rollouts Manager, GitOps Operator, F5 Ingress Controller, Nginx Ingress Controller by Nginx and others. ",
+                       "siteName": "Youtube",
+                      "imageUrl": "https://yt3.googleusercontent.com/dwzI3o0Lx9J8WmHJmqT4RclChSDjpMdRcBA32xPiZJGIieW203GuRvbKwcDb0AARN0x2m4xgCg=s900-c-k-c0x00ffffff-no-rj"
+                      
+                    }
+                 }
 
                   
                 ],
@@ -4654,17 +4680,17 @@
                       "favicon": "https://www.amazon.in/favicon.ico"
                     }
                   },
-                  {
-                    "title": "DevOps Certification",
-                    "link": "https://www.tutorialspoint.com/certification/devops-certification/index.asp?gad_source=1&gclid=CjwKCAiAi6uvBhADEiwAWiyRdgAMSjjFCd5LtwsanucVfg2nmmWUr0BUXikTsj3XaqjpTLJm1kavQhoCpdsQAvD_BwE",
+                 {
+                    "title": "Devops Playlists",
+                    "link": "https://www.youtube.com/@AbhishekVeeramalla",
                     "ogData": {
-                      "title": "DevOps Certification 2024 - Become certified devops engineer",
-                      "description": "DevOps Certification by Tutorials Point provides you with the required expertise and skills to excel in the DevOps field.",
-                      "siteName": "TutorialsPoint",
-                      "imageUrl": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/8214/course_8214_image.jpg",
-                      "favicon": "https://www.tutorialspoint.com/favicon.ico"
+                      "title": "Devops Playlists",
+                      "description": "I am an opensource enthusiast and a great believer in sharing knowledge. I have my footprints in popular opensource projects like Argo CD, Argo CD Operator, Argo Rollouts Manager, GitOps Operator, F5 Ingress Controller, Nginx Ingress Controller by Nginx and others. ",
+                       "siteName": "Youtube",
+                      "imageUrl": "https://yt3.googleusercontent.com/dwzI3o0Lx9J8WmHJmqT4RclChSDjpMdRcBA32xPiZJGIieW203GuRvbKwcDb0AARN0x2m4xgCg=s900-c-k-c0x00ffffff-no-rj"
+                      
                     }
-                  }
+                 }
                 ]
               }
             ],
