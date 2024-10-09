@@ -1396,6 +1396,109 @@
                       "imageUrl": "https://i.ytimg.com/vi/udzURIui5V8/maxresdefault.jpg",
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
+                  },
+                  /*My Plan*/
+                  {
+                    "title": "MERN Beginner Project 3",
+                    "link": "https://www.youtube.com/watch?v=XnbUHzZkypQ&t=13501s",
+                    "ogData": {
+                      "title": "MERN Ecommerce App With Authentication - Build A React Advanced Project",
+                      "description": "This video is made possible by Twingate! They have a really simple, ready to use, service that will help you solve countless problems. On top of that, AWS EC...",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/XnbUHzZkypQ/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "React Beginner Project 3",
+                    "link": "https://www.youtube.com/watch?v=miUsa5SOXGk&amp;list=PLpPqplz6dKxVEqex8RMhgZUUe5_Sc6QHa&amp;index=33&amp;t=1540s",
+                    "ogData": {
+                      "title": "React Movie Rating App - Code and Deploy React Intermediate Project",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/miUsa5SOXGk/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "Namaste React",
+                    "link": "https://namastedev.com/learn/namaste-react",
+                    "ogData": {
+                      "title": "Namaste React",
+                      "description": "The mission of this web series is to take you from Zero to Hero in React. During this journey, you will learn everything in video classes and then implement it by building projects.",
+                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
+                    }
+                  },
+                  {
+                    "title": "React Interview Questions",
+                    "link": "https://www.youtube.com/watch?v=uE925hp9KDk",
+                    "ogData": {
+                      "title": "Top 12 React Interview Questions 🔥 for Freshers & Experienced  | Preparation 2024 🚀",
+                      "description": "Namaste React web series will take you from Zero to Hero in React. After watching this series, you will be able to develop production-ready react frontend web applications from scratch.\n\n During this journey, you will learn everything by watching videos and then implement it by building projects.\n\n The curriculum is designed with the principle of `learn by building`, so there will be a lot of Assignments/Projects you will work on. So only register if you are ready for a grind.\n\n After this series, you will be able to develop production-ready React frontend web applications from scratch.",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/uE925hp9KDk/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "React Machine Coding Level 1",
+                    "link": "https://github.com/NarendraKoya999/Frontend-Machine-Coding-Interview-Questions",
+                    "ogData": {
+                      "siteName": "GitHub",
+                      "imageUrl": "https://opengraph.githubassets.com/d3ffa038a4bbba10772a78d14cc6ebe43ce572cf10b96c3d09b6de48edd77807/NarendraKoya999/Frontend-Machine-Coding-Interview-Questions",
+                      "favicon": "https://github.githubassets.com/favicons/favicon-dark.svg"
+                    }
+                  },
+                  {
+                    "title": "React Machine Coding Level 2",
+                    "link": "https://frontendeval.com/",
+                    "ogData": {
+                      "description": "Free exercises to practice for modern frontend interviews",
+                      "favicon": "https://frontendeval.com/favicon.ico"
+                    }
+                  },
+                  {
+                    "title":"LLD Machine Coding Module from Namaste FSD Course",
+                    "link":"https://namastedev.com/learn/namaste-frontend-system-design",
+                    "ogData": {
+                      "title": "Namaste Frontend System Design",
+                      "description": "Welcome to the 'Namaste Frontend System Design' course, a comprehensive journey covering pivotal modules. From fortifying systems against vulnerabilities to mastering networking, testing, communication, and offline support, delve into logging, database, performance, low-level, accessibility, and high-level design. Explore architectures of social media, e-commerce, streaming, and collaborative tools. Elevate skills in securing, optimizing, and architecting accessible, high-performance frontend systems.",
+                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/namaste-frontend-system-design/Namaste-Frontend-System-Design.jpeg"
+                    }
+                    
+                  },
+                    {
+                    "title": "Namaste Node Js",
+                    "link": "https://namastedev.com/learn/namaste-node",
+                    "ogData": {
+                      "title": "Namaste Node Js",
+                      "description": "Master NodeJS with the Namaste NodeJS course. Learn from basics to advanced concepts like asynchronous programming, event loops, and the V8 JavaScript engine. Gain hands-on experience and build scalable, high-performance server-side applications. Perfect for developers aiming to enhance their backend development skills.",
+                      "siteName": "NamasteDev",
+                      "imageUrl": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp"
+                  
+                    }
+                  },
+                  {
+                    "title": "MERN Major Project 1",
+                    "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
+                    "ogData": {
+                      "title": "MERN From Scratch 2023 | eCommerce Platform",
+                      "description": "JUST UPDATED! Build an eCommerce platform from the ground up with React, Redux Toolkit, Express & MongoDB",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-b.udemycdn.com/course/480x270/3533422_867d.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+                   {
+                    "title": "AWS Hands On Serverless Project",
+                    "link": "https://school.learnwithshobhan.com/learn/Master-AWS-By-Building-A-Video-Sharing-App?fbclid=PAZXh0bgNhZW0BMAABpiPFS0BwVVDee6UWyvUms3XTu3LS9qxqp2O-9_sX2d4ieID9u7rkHYkhWg_aem_SELH3XY7lK70gPc0rh7bNw",
+                    "ogData": {
+                      "title": "AWS Hands On Serverless Project",
+                      "description": "Learn from a software Engineer with 6 years of experience in AWS",
+                       "siteName": "Shoban School",
+                      "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQEGtDsOvk-EeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709034306121?e=1733356800&v=beta&t=UOswe9nHqi1QEbTKsyv_27ZRafb9PsNOeSyS9r-zI4s"
+                      
+                      
+                    }
                   }
                 ]
               }
