@@ -1409,6 +1409,103 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
+                   {
+                    "title": "Namaste Node Js",
+                    "link": "https://namastedev.com/learn/namaste-node",
+                    "ogData": {
+                      "title": "Namaste Node Js",
+                      "description": "Master NodeJS with the Namaste NodeJS course. Learn from basics to advanced concepts like asynchronous programming, event loops, and the V8 JavaScript engine. Gain hands-on experience and build scalable, high-performance server-side applications. Perfect for developers aiming to enhance their backend development skills.",
+                      "siteName": "NamasteDev",
+                      "imageUrl": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp"
+                  
+                    }
+                  },
+                  {
+                    "title": "MERN Major Project 1",
+                    "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
+                    "ogData": {
+                      "title": "MERN From Scratch 2023 | eCommerce Platform",
+                      "description": "JUST UPDATED! Build an eCommerce platform from the ground up with React, Redux Toolkit, Express & MongoDB",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-b.udemycdn.com/course/480x270/3533422_867d.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+                   {
+                    "title": "AWS Hands On Serverless Project",
+                    "link": "https://school.learnwithshobhan.com/learn/Master-AWS-By-Building-A-Video-Sharing-App?fbclid=PAZXh0bgNhZW0BMAABpiPFS0BwVVDee6UWyvUms3XTu3LS9qxqp2O-9_sX2d4ieID9u7rkHYkhWg_aem_SELH3XY7lK70gPc0rh7bNw",
+                    "ogData": {
+                      "title": "AWS Hands On Serverless Project",
+                      "description": "Learn from a software Engineer with 6 years of experience in AWS",
+                       "siteName": "Shoban School",
+                      "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQEGtDsOvk-EeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709034306121?e=1733356800&v=beta&t=UOswe9nHqi1QEbTKsyv_27ZRafb9PsNOeSyS9r-zI4s"
+                      
+                      
+                    }
+                  },
+                  {
+                    "title": "What is Grid Layout",
+                    "link": "https://www.youtube.com/watch?v=jV8B24rSN5o",
+                    "ogData": {
+                      "title": "CSS Grid Layout Crash Course",
+                      "description": "2022 Updated Crash Course - https://www.youtube.com/watch?v=0xMQfnTU6ooIn this video we will look at the new CSS Grid layout and how to create grid based lay...",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/jV8B24rSN5o/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "Grid Documentation",
+                    "link": "https://www.w3schools.com/css/css_grid.asp",
+                    "ogData": {
+                      "title": "CSS Grid Layout",
+                      "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+                      "imageUrl": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+                      "favicon": "https://www.w3schools.com/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "CSS Game 4",
+                    "link": "https://cssgridgarden.com/",
+                    "ogData": {
+                      "title": "Grid Garden",
+                      "description": "A game for learning CSS grid layout",
+                      "imageUrl": "https://cssgridgarden.com/images/screenshot.png"
+                    }
+                  },
+                  {
+                    "title": "Practical CSS Workshop",
+                    "link": "https://codekaro.in/how-to-css?utm_source=google&utm_medium=ppc&utm_campaign=PMAX_IN_01112023&gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAWS4to_FNKl45r0IRZoLzVRMSqdsoqF_KCmUnTAkzoiiKTsCxZc-5RoCkt4QAvD_BwE",
+                    "ogData": {
+                      "title": "Codekaro - Live Coding Classes learn to code like a pro",
+                      "description": "Codekaro try to bring latest courses to students. Not only that we provide a dedicated team to answer their doubts.",
+                      "imageUrl": "https://codekaro.in/assets/img/l1.svg",
+                      "favicon": "https://codekaro.in/assets/img/chrome-icon.png"
+                    }
+                  },
+                     {
+                    "title": "Tailwind CSS Tutorial",
+                    "link": "https://www.udemy.com/course/tailwind-from-scratch/",
+                    "ogData": {
+                      "title": "Tailwind CSS From Scratch | Learn By Building Projects",
+                      "description": "Build great looking layouts fast and efficiently using Tailwind CSS utility classes",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/4699780_b487_2.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+
+                       {
+                    "title": "FrontEnd Mentors Practice",
+                    "link": "https://www.frontendmentor.io/challenges",
+                    "ogData": {
+                      "title": "Frontend Mentor | Challenges",
+                      "description": "Browse through the front-end coding challenges on Frontend Mentor. Find interesting projects to practice your HTML, CSS and JavaScript",
+                      "siteName": "Frontend Mentor",
+                      "imageUrl": "https://res.cloudinary.com/dz209s6jk/image/upload/v1585172856/Meta/meta-challenges.png",
+                      "favicon": "https://www.frontendmentor.io/static/favicon/android-chrome-512x512.png"
+                    }
+                  },
                   {
                     "title": "React Beginner Project 3",
                     "link": "https://www.youtube.com/watch?v=miUsa5SOXGk&amp;list=PLpPqplz6dKxVEqex8RMhgZUUe5_Sc6QHa&amp;index=33&amp;t=1540s",
@@ -1465,41 +1562,8 @@
                       "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/namaste-frontend-system-design/Namaste-Frontend-System-Design.jpeg"
                     }
                     
-                  },
-                    {
-                    "title": "Namaste Node Js",
-                    "link": "https://namastedev.com/learn/namaste-node",
-                    "ogData": {
-                      "title": "Namaste Node Js",
-                      "description": "Master NodeJS with the Namaste NodeJS course. Learn from basics to advanced concepts like asynchronous programming, event loops, and the V8 JavaScript engine. Gain hands-on experience and build scalable, high-performance server-side applications. Perfect for developers aiming to enhance their backend development skills.",
-                      "siteName": "NamasteDev",
-                      "imageUrl": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp"
-                  
-                    }
-                  },
-                  {
-                    "title": "MERN Major Project 1",
-                    "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
-                    "ogData": {
-                      "title": "MERN From Scratch 2023 | eCommerce Platform",
-                      "description": "JUST UPDATED! Build an eCommerce platform from the ground up with React, Redux Toolkit, Express & MongoDB",
-                      "siteName": "Udemy",
-                      "imageUrl": "https://img-b.udemycdn.com/course/480x270/3533422_867d.jpg",
-                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
-                    }
-                  },
-                   {
-                    "title": "AWS Hands On Serverless Project",
-                    "link": "https://school.learnwithshobhan.com/learn/Master-AWS-By-Building-A-Video-Sharing-App?fbclid=PAZXh0bgNhZW0BMAABpiPFS0BwVVDee6UWyvUms3XTu3LS9qxqp2O-9_sX2d4ieID9u7rkHYkhWg_aem_SELH3XY7lK70gPc0rh7bNw",
-                    "ogData": {
-                      "title": "AWS Hands On Serverless Project",
-                      "description": "Learn from a software Engineer with 6 years of experience in AWS",
-                       "siteName": "Shoban School",
-                      "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQEGtDsOvk-EeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709034306121?e=1733356800&v=beta&t=UOswe9nHqi1QEbTKsyv_27ZRafb9PsNOeSyS9r-zI4s"
-                      
-                      
-                    }
                   }
+                   
                 ]
               }
             ]
