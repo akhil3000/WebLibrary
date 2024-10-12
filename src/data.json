@@ -1409,17 +1409,6 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
-                   {
-                    "title": "Namaste Node Js",
-                    "link": "https://namastedev.com/learn/namaste-node",
-                    "ogData": {
-                      "title": "Namaste Node Js",
-                      "description": "Master NodeJS with the Namaste NodeJS course. Learn from basics to advanced concepts like asynchronous programming, event loops, and the V8 JavaScript engine. Gain hands-on experience and build scalable, high-performance server-side applications. Perfect for developers aiming to enhance their backend development skills.",
-                      "siteName": "NamasteDev",
-                      "imageUrl": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp"
-                  
-                    }
-                  },
                   {
                     "title": "MERN Major Project 1",
                     "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
@@ -1431,6 +1420,18 @@
                       "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
                     }
                   },
+                   {
+                    "title": "Namaste Node Js",
+                    "link": "https://namastedev.com/learn/namaste-node",
+                    "ogData": {
+                      "title": "Namaste Node Js",
+                      "description": "Master NodeJS with the Namaste NodeJS course. Learn from basics to advanced concepts like asynchronous programming, event loops, and the V8 JavaScript engine. Gain hands-on experience and build scalable, high-performance server-side applications. Perfect for developers aiming to enhance their backend development skills.",
+                      "siteName": "NamasteDev",
+                      "imageUrl": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp"
+                  
+                    }
+                  },
+                  
                    {
                     "title": "AWS Hands On Serverless Project",
                     "link": "https://school.learnwithshobhan.com/learn/Master-AWS-By-Building-A-Video-Sharing-App?fbclid=PAZXh0bgNhZW0BMAABpiPFS0BwVVDee6UWyvUms3XTu3LS9qxqp2O-9_sX2d4ieID9u7rkHYkhWg_aem_SELH3XY7lK70gPc0rh7bNw",
