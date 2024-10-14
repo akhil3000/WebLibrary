@@ -864,6 +864,28 @@
             "stages": [
               {
                 "resources": [
+                   {
+                    "title": "Difference Between Client Side Rendering and Server Side Rendering",
+                    "link": "https://www.youtube.com/watch?v=YkxrbxoqHDw",
+                    "ogData": {
+                      "title": "Difference Between Client Side Rendering and Server Side Rendering",
+                      "description":""Why is Next.JS becoming so popular in the web development world! 🌐 If you&#39;ve ever wondered what Next.js is, how it works, and why you should consider using ...",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/o0MiL33nf5U/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/fd504f58/img/favicon.ico"
+                    }
+                  },
+                   {
+                    "title": "What is Next Js",
+                    "link": "https://www.youtube.com/watch?v=o0MiL33nf5U&t=329s",
+                    "ogData": {
+                      "title": "What is Next Js",
+                      "description": "Why is Next.JS becoming so popular in the web development world! 🌐 If you&#39;ve ever wondered what Next.js is, how it works, and why you should consider using ...",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/o0MiL33nf5U/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/fd504f58/img/favicon.ico"
+                    }
+                  },
                   {
                     "title": "Next Js Basics",
                     "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI",
@@ -875,6 +897,19 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
+                    {
+                    "title": "Next Js Beginner Project",
+                    "link": "https://www.youtube.com/watch?v=PtDIVU_tlo0&list=PLpPqplz6dKxWBD36B5FKdYOiaOBYJBUt2&index=6",
+                    "ogData": {
+                      "title": "Next.js Beginner Project",
+                      "description": "See NordPass Business in action now with a 3-month free trial here http://nordpass.com/pedrotech with code pedrotech.Code: https://github.com/machadop1407/ne...",
+                      "siteName": "YouTube",
+                      "imageUrl":"https://i.ytimg.com/vi/PtDIVU_tlo0/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/fd504f58/img/favicon.ico"
+                    }
+                  },
+
+                  
                   {
                     "title": "Next Js Complete Tutorial",
                     "link": "https://www.udemy.com/course/next-js-the-complete-developers-guide/?couponCode=ST14MT32124",
