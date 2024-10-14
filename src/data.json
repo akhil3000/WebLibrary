@@ -472,6 +472,29 @@
                       "favicon": "https://www.w3schools.com/favicon.ico"
                     }
                   },
+                   {
+                    "title": "Tailwind CSS Tutorial",
+                    "link": "https://www.udemy.com/course/tailwind-from-scratch/",
+                    "ogData": {
+                      "title": "Tailwind CSS From Scratch | Learn By Building Projects",
+                      "description": "Build great looking layouts fast and efficiently using Tailwind CSS utility classes",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/4699780_b487_2.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+                   {
+                    "title": "React Material UI",
+                    "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO",
+                    "ogData": {
+                      "title": "React Material UI Tutorial",
+                      "description": "Material UI is a UI component library. It provides us with components to build awesome user interfaces in quick time. It is also an implementation of google",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/BHEPVdfBAqE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBpAaE5S8R-jQLWLKKv0gG9WiShOg&amp;days_since_epoch=20010",
+                      "favicon": "https://www.youtube.com/s/desktop/fd504f58/img/favicon.ico"
+                    }
+                  },
+                  
                   {
                     "title": "React Beginner Project 1",
                     "link": "https://www.youtube.com/watch?v=QwarZBtFoFA&amp;list=PLpPqplz6dKxVEqex8RMhgZUUe5_Sc6QHa&amp;index=20&amp;t=2830s",
@@ -1481,6 +1504,17 @@
                       "siteName": "Frontend Mentor",
                       "imageUrl": "https://res.cloudinary.com/dz209s6jk/image/upload/v1585172856/Meta/meta-challenges.png",
                       "favicon": "https://www.frontendmentor.io/static/favicon/android-chrome-512x512.png"
+                    }
+                  },
+                   {
+                    "title": "React Material UI",
+                    "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO",
+                    "ogData": {
+                      "title": "React Material UI Tutorial",
+                      "description": "Material UI is a UI component library. It provides us with components to build awesome user interfaces in quick time. It is also an implementation of google",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/BHEPVdfBAqE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBpAaE5S8R-jQLWLKKv0gG9WiShOg&amp;days_since_epoch=20010",
+                      "favicon": "https://www.youtube.com/s/desktop/fd504f58/img/favicon.ico"
                     }
                   },
                    {
