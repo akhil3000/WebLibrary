@@ -1397,7 +1397,16 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
-                  
+                   {
+                    "title": "React Beginner Project 3",
+                    "link": "https://www.youtube.com/watch?v=miUsa5SOXGk&amp;list=PLpPqplz6dKxVEqex8RMhgZUUe5_Sc6QHa&amp;index=33&amp;t=1540s",
+                    "ogData": {
+                      "title": "React Movie Rating App - Code and Deploy React Intermediate Project",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/miUsa5SOXGk/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
                   {
                     "title": "MERN Beginner Project 3",
                     "link": "https://www.youtube.com/watch?v=XnbUHzZkypQ&t=13501s",
@@ -1528,16 +1537,7 @@
                       "favicon": "https://www.frontendmentor.io/static/favicon/android-chrome-512x512.png"
                     }
                   },
-                  {
-                    "title": "React Beginner Project 3",
-                    "link": "https://www.youtube.com/watch?v=miUsa5SOXGk&amp;list=PLpPqplz6dKxVEqex8RMhgZUUe5_Sc6QHa&amp;index=33&amp;t=1540s",
-                    "ogData": {
-                      "title": "React Movie Rating App - Code and Deploy React Intermediate Project",
-                      "siteName": "YouTube",
-                      "imageUrl": "https://i.ytimg.com/vi/miUsa5SOXGk/maxresdefault.jpg",
-                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
-                    }
-                  },
+                 
                   {
                     "title": "Namaste React",
                     "link": "https://namastedev.com/learn/namaste-react",
