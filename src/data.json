@@ -908,17 +908,27 @@
                       "favicon": "https://www.youtube.com/s/desktop/fd504f58/img/favicon.ico"
                     }
                   },
-
+                    {
+                    "title": "Next Js Rest API's Backend Project",
+                    "link": "https://www.youtube.com/watch?v=aEFkWxUNAVc&t=1851s",
+                    "ogData": {
+                      "title": "Next Js Rest API's Backend Project",
+                      "description": "Learn how to code REST APIs using Next.js 14. You&#39;ll learn to create multiple MongoDB models, how to protect API routes, deploy APIs, and more.Course develop...",
+                      "siteName": "YouTube",
+                      "imageUrl":"https://i.ytimg.com/vi/aEFkWxUNAVc/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/4c862454/img/favicon.ico"
+                    }
+                  },
                   
                   {
-                    "title": "Next Js Complete Tutorial",
-                    "link": "https://www.udemy.com/course/next-js-the-complete-developers-guide/?couponCode=ST14MT32124",
+                    "title": "Next Js From Scratch",
+                    "link": "https://www.udemy.com/course/nextjs-from-scratch/?couponCode=KEEPLEARNING",
                     "ogData": {
-                      "title": "Next JS: The Complete Developer's Guide",
-                      "description": "Build apps using NextJS v14 using App Router, Next Auth, NextUI, and TailwindCSS! Learn the latest version of NextJS!",
+                      "title": "Next Js from Scratch",
+                      "description": "Build a real-world project using Next.js 14 and MongoDB",
                       "siteName": "Udemy",
-                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/5655418_6b47_3.jpg",
-                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/5828846_efa3.jpg",
+                      "favicon": "/staticx/udemy/images/v8/favicon-32x32.png"
                     }
                   },
                   {
