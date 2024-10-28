@@ -1594,7 +1594,17 @@
                       "favicon": "https://www.youtube.com/s/desktop/9f65bf98/img/favicon.ico"
                     }
                   },
-                 
+                 {
+                   "title":"Namaste Node Season 1 and Graphql Basics",
+                    "link":"https://www.youtube.com/watch?v=yqWzCV0kU_c&list=PLpPqplz6dKxXICtNgHY1tiCPau_AwWAJU&index=10&t=7736s",
+                       "ogData": {
+                      "title": "Namaste Node Season 1 and Graphql Basics",
+                      "description": "Namaste Node Season 1 and Graphql Basics",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/yqWzCV0kU_c/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/44c25f18/img/logos/favicon.ico"
+                    }
+                  },
                    {
                     "title": "AWS Hands On Serverless Project",
                     "link": "https://school.learnwithshobhan.com/learn/Master-AWS-By-Building-A-Video-Sharing-App?fbclid=PAZXh0bgNhZW0BMAABpiPFS0BwVVDee6UWyvUms3XTu3LS9qxqp2O-9_sX2d4ieID9u7rkHYkhWg_aem_SELH3XY7lK70gPc0rh7bNw",
