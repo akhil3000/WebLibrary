@@ -535,7 +535,20 @@
                       "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
                     }
                   },
+                
                   {
+                    "title": "Redux In Depth Playlist",
+                    "link": "https://www.youtube.com/playlist?list=PLTP3E5bPW797uMryjgPqSZsQkxU0s6gu2",
+                    "ogData": {
+                      "title": "Redux In Depth Playlist",
+                      "description": "Learn Redux and RTK in Depth",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/qNjNn9BCWCc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCrldLRhUTnuptbaJ4cYLzHuu0Rfg&amp;days_since_epoch=20028",
+                      "favicon": "https://www.youtube.com/s/desktop/7565d93c/img/logos/favicon.ico"
+                    }
+                  },
+
+                    {
                     "title": "React Interview Questions",
                     "link": "https://www.youtube.com/watch?v=uE925hp9KDk",
                     "ogData": {
@@ -544,17 +557,6 @@
                       "siteName": "YouTube",
                       "imageUrl": "https://i.ytimg.com/vi/uE925hp9KDk/maxresdefault.jpg",
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
-                    }
-                  },
-                  {
-                    "title": "Modern Redux In Depth",
-                    "link": "https://www.udemy.com/course/react-redux/?couponCode=LETSLEARNNOWPP",
-                    "ogData": {
-                      "title": "Modern React With Redux",
-                      "description": "Learn Redux and RTK in Depth",
-                      "siteName": "Udemy",
-                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/705264_caa9_13.jpg",
-                      "favicon": "/staticx/udemy/images/v8/favicon-32x32.png"
                     }
                   },
                   {
@@ -1662,7 +1664,17 @@
                       "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
                     }
                   },
-                  
+                   {
+                    "title": "Redux In Depth Playlist",
+                    "link": "https://www.youtube.com/playlist?list=PLTP3E5bPW797uMryjgPqSZsQkxU0s6gu2",
+                    "ogData": {
+                      "title": "Redux In Depth Playlist",
+                      "description": "Learn Redux and RTK in Depth",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/qNjNn9BCWCc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCrldLRhUTnuptbaJ4cYLzHuu0Rfg&amp;days_since_epoch=20028",
+                      "favicon": "https://www.youtube.com/s/desktop/7565d93c/img/logos/favicon.ico"
+                    }
+                  },
                    {
                     "title": "MERN Beginner Project 3",
                     "link": "https://www.youtube.com/watch?v=XnbUHzZkypQ&t=13501s",
