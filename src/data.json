@@ -1734,7 +1734,42 @@
                       
                       
                     }
-                  }
+                  },
+                    {
+                    "title": "Next Js Basics",
+                    "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI",
+                    "ogData": {
+                      "title": "Next.js 14 Tutorial",
+                      "description": "🚀 Welcome to a new series on mastering Next.js, the React framework that's transforming web development! Are you ready to take your React skills to the next ...",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/ZjAqacIC_3c/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDO8bDdkMvDHDYxENXcCZG-x-zOCg&days_since_epoch=19814",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
+                    
+                    {
+                    "title": "Next Js Rest API's Backend Project",
+                    "link": "https://www.youtube.com/watch?v=aEFkWxUNAVc&t=1851s",
+                    "ogData": {
+                      "title": "Next Js Rest API's Backend Project",
+                      "description": "Learn how to code REST APIs using Next.js 14. You&#39;ll learn to create multiple MongoDB models, how to protect API routes, deploy APIs, and more.Course develop...",
+                      "siteName": "YouTube",
+                      "imageUrl":"https://i.ytimg.com/vi/aEFkWxUNAVc/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/4c862454/img/favicon.ico"
+                    }
+                  },
+                  
+                  {
+                    "title": "Next Js From Scratch",
+                    "link": "https://www.udemy.com/course/nextjs-from-scratch/?couponCode=KEEPLEARNING",
+                    "ogData": {
+                      "title": "Next Js from Scratch",
+                      "description": "Build a real-world project using Next.js 14 and MongoDB",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/5828846_efa3.jpg",
+                      "favicon": "/staticx/udemy/images/v8/favicon-32x32.png"
+                    }
+                  },
                   
                 
                  
