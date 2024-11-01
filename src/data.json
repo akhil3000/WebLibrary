@@ -1465,7 +1465,144 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
-             
+
+                     {
+                    "title": "Practical CSS Workshop",
+                    "link": "https://codekaro.in/how-to-css?utm_source=google&utm_medium=ppc&utm_campaign=PMAX_IN_01112023&gad_source=1&gclid=CjwKCAjw7-SvBhB6EiwAwYdCAWS4to_FNKl45r0IRZoLzVRMSqdsoqF_KCmUnTAkzoiiKTsCxZc-5RoCkt4QAvD_BwE",
+                    "ogData": {
+                      "title": "Codekaro - Live Coding Classes learn to code like a pro",
+                      "description": "Codekaro try to bring latest courses to students. Not only that we provide a dedicated team to answer their doubts.",
+                      "imageUrl": "https://codekaro.in/assets/img/l1.svg",
+                      "favicon": "https://codekaro.in/assets/img/chrome-icon.png"
+                    }
+                  },
+                  
+
+                      {
+                    "title": "Html and CSS Documentation",
+                    "link": "https://www.w3schools.com/",
+                    "ogData": {
+                      "title": "W3Schools Online Web Tutorials",
+                      "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+                      "imageUrl": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+                      "favicon": "https://www.w3schools.com/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "CSS Basics Complete Tutorial",
+                    "link": "https://www.udemy.com/course/modern-html-css-from-the-beginning/",
+                    "ogData": {
+                      "title": "Modern HTML & CSS From The Beginning (Including Sass)",
+                      "description": "Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/2153774_bef0_4.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+                   {
+                    "title": "CSS Game 1",
+                    "link": "https://flukeout.github.io/",
+                    "ogData": {
+                      "title": "CSS Diner",
+                      "description": "A fun game to help you learn and practice CSS selectors.",
+                      "imageUrl": "https://flukeout.github.io/images/fb-share.jpg",
+                      "favicon": "favicon.png"
+                    }
+                  },
+                  {
+                    "title": "FlexBox Documentation",
+                    "link": "https://www.w3schools.com/css/css3_flexbox.asp",
+                    "ogData": {
+                      "title": "CSS Flexbox (Flexible Box)",
+                      "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+                      "imageUrl": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+                      "favicon": "https://www.w3schools.com/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "CSS Game 2",
+                    "link": "https://flexboxfroggy.com/",
+                    "ogData": {
+                      "title": "Flexbox Froggy",
+                      "description": "A game for learning CSS flexbox",
+                      "imageUrl": "https://flexboxfroggy.com/images/screenshot.png"
+                    }
+                  },
+                  {
+                    "title": "CSS Game 3",
+                    "link": "http://www.flexboxdefense.com/",
+                    "ogData": {
+                      "title": "Flexbox Defense",
+                      "description": "Your job is to stop the incoming enemies from getting past your defenses. Unlike other tower defense games, you must\n                   position your towers using CSS!",
+                      "imageUrl": "http://www.flexboxdefense.com/images/gameboard-b58cd885d125374f5156eac2d6c3b62c.png",
+                      "favicon": "images/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "What is Grid Layout",
+                    "link": "https://www.youtube.com/watch?v=jV8B24rSN5o",
+                    "ogData": {
+                      "title": "CSS Grid Layout Crash Course",
+                      "description": "2022 Updated Crash Course - https://www.youtube.com/watch?v=0xMQfnTU6ooIn this video we will look at the new CSS Grid layout and how to create grid based lay...",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/jV8B24rSN5o/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "Grid Documentation",
+                    "link": "https://www.w3schools.com/css/css_grid.asp",
+                    "ogData": {
+                      "title": "CSS Grid Layout",
+                      "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+                      "imageUrl": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+                      "favicon": "https://www.w3schools.com/favicon.ico"
+                    }
+                  },
+                  {
+                    "title": "CSS Game 4",
+                    "link": "https://cssgridgarden.com/",
+                    "ogData": {
+                      "title": "Grid Garden",
+                      "description": "A game for learning CSS grid layout",
+                      "imageUrl": "https://cssgridgarden.com/images/screenshot.png"
+                    }
+                  },
+                
+                  {
+                    "title": "FrontEnd Mentors Practice",
+                    "link": "https://www.frontendmentor.io/challenges",
+                    "ogData": {
+                      "title": "Frontend Mentor | Challenges",
+                      "description": "Browse through the front-end coding challenges on Frontend Mentor. Find interesting projects to practice your HTML, CSS and JavaScript",
+                      "siteName": "Frontend Mentor",
+                      "imageUrl": "https://res.cloudinary.com/dz209s6jk/image/upload/v1585172856/Meta/meta-challenges.png",
+                      "favicon": "https://www.frontendmentor.io/static/favicon/android-chrome-512x512.png"
+                    }
+                  },
+                  {
+                    "title": "Tailwind CSS Tutorial",
+                    "link": "https://www.udemy.com/course/tailwind-from-scratch/",
+                    "ogData": {
+                      "title": "Tailwind CSS From Scratch | Learn By Building Projects",
+                      "description": "Build great looking layouts fast and efficiently using Tailwind CSS utility classes",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/4699780_b487_2.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+                   {
+                    "title": "React Material UI",
+                    "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO",
+                    "ogData": {
+                      "title": "React Material UI Tutorial",
+                      "description": "Material UI is a UI component library. It provides us with components to build awesome user interfaces in quick time. It is also an implementation of google",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/BHEPVdfBAqE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBpAaE5S8R-jQLWLKKv0gG9WiShOg&amp;days_since_epoch=20010",
+                      "favicon": "https://www.youtube.com/s/desktop/fd504f58/img/favicon.ico"
+                    }
+                  },
+                  
                    {
                     "title": "React Beginner Project 3",
                     "link": "https://www.youtube.com/watch?v=miUsa5SOXGk&amp;list=PLpPqplz6dKxVEqex8RMhgZUUe5_Sc6QHa&amp;index=33&amp;t=1540s",
@@ -1476,7 +1613,16 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
-  
+                   {
+                    "title": "Namaste React",
+                    "link": "https://namastedev.com/learn/namaste-react",
+                    "ogData": {
+                      "title": "Namaste React",
+                      "description": "The mission of this web series is to take you from Zero to Hero in React. During this journey, you will learn everything in video classes and then implement it by building projects.",
+                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
+                    }
+                  },
+                  
                    {
                     "title": "MERN Beginner Project 3",
                     "link": "https://www.youtube.com/watch?v=XnbUHzZkypQ&t=13501s",
@@ -1509,20 +1655,9 @@
                       "imageUrl": "https://i.ytimg.com/vi/yqWzCV0kU_c/maxresdefault.jpg",
                       "favicon": "https://www.youtube.com/s/desktop/44c25f18/img/logos/favicon.ico"
                     }
-                  },                 
+                  },    
 
-                   {
-                    "title": "Namaste Node Js",
-                    "link": "https://namastedev.com/learn/namaste-node",
-                    "ogData": {
-                      "title": "Namaste Node Js",
-                      "description": "Master NodeJS with the Namaste NodeJS course. Learn from basics to advanced concepts like asynchronous programming, event loops, and the V8 JavaScript engine. Gain hands-on experience and build scalable, high-performance server-side applications. Perfect for developers aiming to enhance their backend development skills.",
-                      "siteName": "NamasteDev",
-                      "imageUrl": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp"
                   
-                    }
-                  },
-                    
                    {
                     "title": "AWS Hands On Serverless Project",
                     "link": "https://school.learnwithshobhan.com/learn/Master-AWS-By-Building-A-Video-Sharing-App?fbclid=PAZXh0bgNhZW0BMAABpiPFS0BwVVDee6UWyvUms3XTu3LS9qxqp2O-9_sX2d4ieID9u7rkHYkhWg_aem_SELH3XY7lK70gPc0rh7bNw",
