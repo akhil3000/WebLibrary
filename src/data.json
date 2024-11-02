@@ -1655,26 +1655,7 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
-                   {
-                    "title": "Namaste React",
-                    "link": "https://namastedev.com/learn/namaste-react",
-                    "ogData": {
-                      "title": "Namaste React",
-                      "description": "The mission of this web series is to take you from Zero to Hero in React. During this journey, you will learn everything in video classes and then implement it by building projects.",
-                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
-                    }
-                  },
-                   {
-                    "title": "Redux In Depth Playlist",
-                    "link": "https://www.youtube.com/playlist?list=PLTP3E5bPW797uMryjgPqSZsQkxU0s6gu2",
-                    "ogData": {
-                      "title": "Redux In Depth Playlist",
-                      "description": "Learn Redux and RTK in Depth",
-                      "siteName": "Youtube",
-                      "imageUrl": "https://i.ytimg.com/vi/qNjNn9BCWCc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCrldLRhUTnuptbaJ4cYLzHuu0Rfg&amp;days_since_epoch=20028",
-                      "favicon": "https://www.youtube.com/s/desktop/7565d93c/img/logos/favicon.ico"
-                    }
-                  },
+
                    {
                     "title": "MERN Beginner Project 3",
                     "link": "https://www.youtube.com/watch?v=XnbUHzZkypQ&t=13501s",
@@ -1707,7 +1688,28 @@
                       "imageUrl": "https://i.ytimg.com/vi/yqWzCV0kU_c/maxresdefault.jpg",
                       "favicon": "https://www.youtube.com/s/desktop/44c25f18/img/logos/favicon.ico"
                     }
-                  },    
+                  }, 
+                   {
+                    "title": "Redux concepts from Namaste React",
+                    "link": "https://namastedev.com/learn/namaste-react",
+                    "ogData": {
+                      "title": "Namaste React",
+                      "description": "The mission of this web series is to take you from Zero to Hero in React. During this journey, you will learn everything in video classes and then implement it by building projects.",
+                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
+                    }
+                  },
+                   {
+                    "title": "Redux In Depth Playlist",
+                    "link": "https://www.youtube.com/playlist?list=PLTP3E5bPW797uMryjgPqSZsQkxU0s6gu2",
+                    "ogData": {
+                      "title": "Redux In Depth Playlist",
+                      "description": "Learn Redux and RTK in Depth",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/qNjNn9BCWCc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCrldLRhUTnuptbaJ4cYLzHuu0Rfg&amp;days_since_epoch=20028",
+                      "favicon": "https://www.youtube.com/s/desktop/7565d93c/img/logos/favicon.ico"
+                    }
+                  },
+                     
 
                   
                   {
