@@ -3456,6 +3456,16 @@
                       "imageUrl": "https://takeuforward-content-images.s3.ap-south-1.amazonaws.com/content/wallpaperYoutube-2.webp",
                       "favicon": "https://static.takeuforward.org/content/favicon-yBC0qDmm"
                     }
+                  },
+                    {
+                    "title": "TLE Eliminators CP-31 Sheet",
+                    "link": "https://www.tle-eliminators.com/cp-sheet",
+                    "ogData": {
+                      "title": "TLE Eliminators CP-31 Sheet",
+                      "description": "Navigate your way to the top with our courses and thoughtfully curated resources for the dynamic world of competitive programming",
+                      "siteName": "TLE Eliminators",
+                      "favicon": "https://www.tle-eliminators.com/logo192.png"
+                    }
                   }
                 ]
               }
