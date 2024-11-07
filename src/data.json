@@ -1689,27 +1689,7 @@
                       "favicon": "https://www.youtube.com/s/desktop/44c25f18/img/logos/favicon.ico"
                     }
                   }, 
-                   {
-                    "title": "Redux concepts from Namaste React",
-                    "link": "https://namastedev.com/learn/namaste-react",
-                    "ogData": {
-                      "title": "Namaste React",
-                      "description": "The mission of this web series is to take you from Zero to Hero in React. During this journey, you will learn everything in video classes and then implement it by building projects.",
-                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
-                    }
-                  },
-                   {
-                    "title": "Redux In Depth Playlist",
-                    "link": "https://www.youtube.com/playlist?list=PLTP3E5bPW797uMryjgPqSZsQkxU0s6gu2",
-                    "ogData": {
-                      "title": "Redux In Depth Playlist",
-                      "description": "Learn Redux and RTK in Depth",
-                      "siteName": "Youtube",
-                      "imageUrl": "https://i.ytimg.com/vi/qNjNn9BCWCc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCrldLRhUTnuptbaJ4cYLzHuu0Rfg&amp;days_since_epoch=20028",
-                      "favicon": "https://www.youtube.com/s/desktop/7565d93c/img/logos/favicon.ico"
-                    }
-                  },
-                     
+                  
 
                   
                   {
@@ -1722,59 +1702,9 @@
                       "imageUrl": "https://img-b.udemycdn.com/course/480x270/3533422_867d.jpg",
                       "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
                     }
-                  },
-                  
-                 
-               {
-                    "title": "AWS Hands On Serverless Project",
-                    "link": "https://school.learnwithshobhan.com/learn/Master-AWS-By-Building-A-Video-Sharing-App?fbclid=PAZXh0bgNhZW0BMAABpiPFS0BwVVDee6UWyvUms3XTu3LS9qxqp2O-9_sX2d4ieID9u7rkHYkhWg_aem_SELH3XY7lK70gPc0rh7bNw",
-                    "ogData": {
-                      "title": "AWS Hands On Serverless Project",
-                      "description": "Learn from a software Engineer with 6 years of experience in AWS",
-                       "siteName": "Shoban School",
-                      "imageUrl": "https://media.licdn.com/dms/image/v2/D5603AQEGtDsOvk-EeA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1709034306121?e=1733356800&v=beta&t=UOswe9nHqi1QEbTKsyv_27ZRafb9PsNOeSyS9r-zI4s"
-                      
-                      
-                    }
-                  },
-                    {
-                    "title": "Next Js Basics",
-                    "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwjOKd6gdf4QtV1uYNiQnruI",
-                    "ogData": {
-                      "title": "Next.js 14 Tutorial",
-                      "description": "🚀 Welcome to a new series on mastering Next.js, the React framework that's transforming web development! Are you ready to take your React skills to the next ...",
-                      "siteName": "YouTube",
-                      "imageUrl": "https://i.ytimg.com/vi/ZjAqacIC_3c/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDO8bDdkMvDHDYxENXcCZG-x-zOCg&days_since_epoch=19814",
-                      "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
-                    }
-                  },
-                    
-                    {
-                    "title": "Next Js Rest API's Backend Project",
-                    "link": "https://www.youtube.com/watch?v=aEFkWxUNAVc&t=1851s",
-                    "ogData": {
-                      "title": "Next Js Rest API's Backend Project",
-                      "description": "Learn how to code REST APIs using Next.js 14. You&#39;ll learn to create multiple MongoDB models, how to protect API routes, deploy APIs, and more.Course develop...",
-                      "siteName": "YouTube",
-                      "imageUrl":"https://i.ytimg.com/vi/aEFkWxUNAVc/maxresdefault.jpg",
-                      "favicon": "https://www.youtube.com/s/desktop/4c862454/img/favicon.ico"
-                    }
-                  },
-                  
-                  {
-                    "title": "Next Js From Scratch",
-                    "link": "https://www.udemy.com/course/nextjs-from-scratch/?couponCode=KEEPLEARNING",
-                    "ogData": {
-                      "title": "Next Js from Scratch",
-                      "description": "Build a real-world project using Next.js 14 and MongoDB",
-                      "siteName": "Udemy",
-                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/5828846_efa3.jpg",
-                      "favicon": "/staticx/udemy/images/v8/favicon-32x32.png"
-                    }
                   }
                   
-                
-                 
+             
                 
                    
                 ]
