@@ -1636,6 +1636,18 @@
                       "favicon": "https://www.youtube.com/s/desktop/accca349/img/favicon.ico"
                     }
                   },
+
+                   {
+                    "title": "MERN Major Project 1",
+                    "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
+                    "ogData": {
+                      "title": "MERN From Scratch 2023 | eCommerce Platform",
+                      "description": "JUST UPDATED! Build an eCommerce platform from the ground up with React, Redux Toolkit, Express & MongoDB",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-b.udemycdn.com/course/480x270/3533422_867d.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
                 {
                    "title":" GFG Project",
                     "link":"https://www.youtube.com/watch?v=yqWzCV0kU_c&list=PLpPqplz6dKxXICtNgHY1tiCPau_AwWAJU&index=10&t=7736s",
@@ -1646,21 +1658,11 @@
                       "imageUrl": "https://i.ytimg.com/vi/yqWzCV0kU_c/maxresdefault.jpg",
                       "favicon": "https://www.youtube.com/s/desktop/44c25f18/img/logos/favicon.ico"
                     }
-                  }, 
+                  }
                   
 
                   
-                  {
-                    "title": "MERN Major Project 1",
-                    "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
-                    "ogData": {
-                      "title": "MERN From Scratch 2023 | eCommerce Platform",
-                      "description": "JUST UPDATED! Build an eCommerce platform from the ground up with React, Redux Toolkit, Express & MongoDB",
-                      "siteName": "Udemy",
-                      "imageUrl": "https://img-b.udemycdn.com/course/480x270/3533422_867d.jpg",
-                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
-                    }
-                  }
+                 
                   
              
                 
