@@ -1550,7 +1550,17 @@
                       "imageUrl": "https://cssgridgarden.com/images/screenshot.png"
                     }
                   },
-                
+                 {
+                    "title": "Tailwind CSS Tutorial",
+                    "link": "https://www.udemy.com/course/tailwind-from-scratch/",
+                    "ogData": {
+                      "title": "Tailwind CSS From Scratch | Learn By Building Projects",
+                      "description": "Build great looking layouts fast and efficiently using Tailwind CSS utility classes",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/4699780_b487_2.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
                   {
                     "title": "FrontEnd Mentors Practice",
                     "link": "https://www.frontendmentor.io/challenges",
