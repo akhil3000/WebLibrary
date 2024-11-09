@@ -1479,7 +1479,18 @@
                     }
                   },
                   
-
+                
+                  {
+                    "title": "CSS Basics Complete Tutorial",
+                    "link": "https://www.udemy.com/course/modern-html-css-from-the-beginning/",
+                    "ogData": {
+                      "title": "Modern HTML & CSS From The Beginning (Including Sass)",
+                      "description": "Build modern responsive websites & UIs with HTML5, CSS3 & Sass! Learn Flex & CSS Grid",
+                      "siteName": "Udemy",
+                      "imageUrl": "https://img-c.udemycdn.com/course/480x270/2153774_bef0_4.jpg",
+                      "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
                   
                    {
                     "title": "CSS Game 1",
@@ -1550,6 +1561,16 @@
                       "imageUrl": "https://cssgridgarden.com/images/screenshot.png"
                     }
                   },
+                   
+                 {   "title": "Html and CSS Documentation",
+                    "link": "https://www.w3schools.com/",
+                    "ogData": {
+                      "title": "W3Schools Online Web Tutorials",
+                      "description": "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
+                      "imageUrl": "https://www.w3schools.com/images/w3schools_logo_436_2.png",
+                      "favicon": "https://www.w3schools.com/favicon.ico"
+                    }
+                  },
                  {
                     "title": "Tailwind CSS Tutorial",
                     "link": "https://www.udemy.com/course/tailwind-from-scratch/",
@@ -1559,6 +1580,18 @@
                       "siteName": "Udemy",
                       "imageUrl": "https://img-c.udemycdn.com/course/480x270/4699780_b487_2.jpg",
                       "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
+                    }
+                  },
+
+                   {
+                    "title": "React Material UI",
+                    "link": "https://www.youtube.com/playlist?list=PLC3y8-rFHvwh-K9mDlrrcDywl7CeVL2rO",
+                    "ogData": {
+                      "title": "React Material UI Tutorial",
+                      "description": "Material UI is a UI component library. It provides us with components to build awesome user interfaces in quick time. It is also an implementation of google",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/BHEPVdfBAqE/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLBpAaE5S8R-jQLWLKKv0gG9WiShOg&amp;days_since_epoch=20010",
+                      "favicon": "https://www.youtube.com/s/desktop/fd504f58/img/favicon.ico"
                     }
                   },
                   {
@@ -1638,6 +1671,52 @@
                   },
 
                    {
+                   "title":"MERN Beginner Project 4 With OAuth",
+                    "link":"https://www.youtube.com/watch?v=4NZx9OF07qY&t=6283s",
+                       "ogData": {
+                      "title": "MERN Finance Tracker App - Build A React Advanced Project",
+                      "description": "This video is made possible by Twingate! They have a really simple, ready to use, service that will help you solve countless problems. On top of that, AWS EC...",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/4NZx9OF07qY/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/9f65bf98/img/favicon.ico"
+                    }
+                  },
+              
+                {
+                   "title":"Graphql&GFG Project",
+                    "link":"https://www.youtube.com/watch?v=yqWzCV0kU_c&list=PLpPqplz6dKxXICtNgHY1tiCPau_AwWAJU&index=10&t=7736s",
+                       "ogData": {
+                      "title": "Graphql&GFG Project",
+                      "description": "Graphql&GFG Project",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/yqWzCV0kU_c/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/44c25f18/img/logos/favicon.ico"
+                    }
+                  }
+                  ,
+
+                   {
+                    "title": "Redux Concepts from Namaste React",
+                    "link": "https://namastedev.com/learn/namaste-react",
+                    "ogData": {
+                      "title": "Namaste React",
+                      "description": "The mission of this web series is to take you from Zero to Hero in React. During this journey, you will learn everything in video classes and then implement it by building projects.",
+                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
+                    }
+                  },
+                
+                  {
+                    "title": "Redux In Depth Playlist",
+                    "link": "https://www.youtube.com/playlist?list=PLTP3E5bPW797uMryjgPqSZsQkxU0s6gu2",
+                    "ogData": {
+                      "title": "Redux In Depth Playlist",
+                      "description": "Learn Redux and RTK in Depth",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/qNjNn9BCWCc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCrldLRhUTnuptbaJ4cYLzHuu0Rfg&amp;days_since_epoch=20028",
+                      "favicon": "https://www.youtube.com/s/desktop/7565d93c/img/logos/favicon.ico"
+                    }
+                  },
+                       {
                     "title": "MERN Major Project 1",
                     "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
                     "ogData": {
@@ -1647,23 +1726,7 @@
                       "imageUrl": "https://img-b.udemycdn.com/course/480x270/3533422_867d.jpg",
                       "favicon": "https://www.udemy.com/staticx/udemy/images/v7/apple-touch-icon.png"
                     }
-                  },
-                {
-                   "title":" GFG Project",
-                    "link":"https://www.youtube.com/watch?v=yqWzCV0kU_c&list=PLpPqplz6dKxXICtNgHY1tiCPau_AwWAJU&index=10&t=7736s",
-                       "ogData": {
-                      "title": "GfG Project",
-                      "description": "GfG Project",
-                      "siteName": "YouTube",
-                      "imageUrl": "https://i.ytimg.com/vi/yqWzCV0kU_c/maxresdefault.jpg",
-                      "favicon": "https://www.youtube.com/s/desktop/44c25f18/img/logos/favicon.ico"
-                    }
                   }
-                  
-
-                  
-                 
-                  
              
                 
                    
