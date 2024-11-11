@@ -1681,17 +1681,7 @@
                       "favicon": "https://www.youtube.com/s/desktop/9f65bf98/img/favicon.ico"
                     }
                   },
-                       {
-                    "title": "Namaste Node Js",
-                    "link": "https://namastedev.com/learn/namaste-node",
-                    "ogData": {
-                      "title": "Namaste Node Js",
-                      "description": "Master NodeJS with the Namaste NodeJS course. Learn from basics to advanced concepts like asynchronous programming, event loops, and the V8 JavaScript engine. Gain hands-on experience and build scalable, high-performance server-side applications. Perfect for developers aiming to enhance their backend development skills.",
-                      "siteName": "NamasteDev",
-                      "imageUrl": "https://do6gp1uxl3luu.cloudfront.net/banner+and+logos/namaste-node.webp"
-                  
-                    }
-                  },
+                       
               
                 {
                    "title":"Graphql&GFG Project",
