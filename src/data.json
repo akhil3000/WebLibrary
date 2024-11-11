@@ -1705,7 +1705,21 @@
                     }
                   }
                   ,
+                  
+                    
+                       {
+                    "title": "Redux Toolkit Basics and Akshay Saini Notce",
+                    "link": "https://www.youtube.com/watch?v=k68j9xlbHHk&t=1564s",
+                    "ogData": {
+                      "title": "Redux Toolkit Basics and Akshay Saini Notce",
+                      "description": "Introduction To Redux Toolkit",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/k68j9xlbHHk/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon.ico"
+                    }
+                  },
 
+                    
                 
                        {
                     "title": "MERN Major Project 1",
