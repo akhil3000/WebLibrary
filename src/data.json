@@ -1706,27 +1706,7 @@
                   }
                   ,
 
-                   {
-                    "title": "Redux Concepts from Namaste React",
-                    "link": "https://namastedev.com/learn/namaste-react",
-                    "ogData": {
-                      "title": "Namaste React",
-                      "description": "The mission of this web series is to take you from Zero to Hero in React. During this journey, you will learn everything in video classes and then implement it by building projects.",
-                      "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
-                    }
-                  },
                 
-                  {
-                    "title": "Redux In Depth Playlist",
-                    "link": "https://www.youtube.com/playlist?list=PLTP3E5bPW797uMryjgPqSZsQkxU0s6gu2",
-                    "ogData": {
-                      "title": "Redux In Depth Playlist",
-                      "description": "Learn Redux and RTK in Depth",
-                      "siteName": "Youtube",
-                      "imageUrl": "https://i.ytimg.com/vi/qNjNn9BCWCc/hqdefault.jpg?sqp=-oaymwEXCOADEI4CSFryq4qpAwkIARUAAIhCGAE=&amp;rs=AOn4CLCrldLRhUTnuptbaJ4cYLzHuu0Rfg&amp;days_since_epoch=20028",
-                      "favicon": "https://www.youtube.com/s/desktop/7565d93c/img/logos/favicon.ico"
-                    }
-                  },
                        {
                     "title": "MERN Major Project 1",
                     "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
