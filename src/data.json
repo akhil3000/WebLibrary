@@ -535,7 +535,18 @@
                       "imageUrl": "https://namastedevprod.s3.ap-south-1.amazonaws.com/banner+and+logos/nrw.png"
                     }
                   },
-                
+                   {
+                    "title": "Redux Toolkit Basics",
+                    "link": "https://www.youtube.com/watch?v=k68j9xlbHHk&t=1564s",
+                    "ogData": {
+                      "title": "Redux Toolkit Basics",
+                      "description": "Introduction To Redux Toolkit",
+                      "siteName": "Youtube",
+                      "imageUrl": "https://i.ytimg.com/vi/k68j9xlbHHk/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon.ico"
+                    }
+                  },
+
                   {
                     "title": "Redux In Depth Playlist",
                     "link": "https://www.youtube.com/playlist?list=PLTP3E5bPW797uMryjgPqSZsQkxU0s6gu2",
