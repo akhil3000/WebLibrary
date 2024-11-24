@@ -826,7 +826,17 @@
                       "favicon": "https://www.youtube.com/s/desktop/9f65bf98/img/favicon.ico"
                     }
                   },
-                  
+                   {
+                   "title":"MERN Beginner Project 5 Messenger Application",
+                    "link":"https://www.youtube.com/watch?v=IRrK8AKPOtQ",
+                       "ogData": {
+                      "title": "MERN Messenger Application",
+                      "description": "MERN Messenger Application",
+                      "siteName": "YouTube",
+                      "imageUrl": "https://i.ytimg.com/vi/IRrK8AKPOtQ/maxresdefault.jpg",
+                      "favicon": "https://www.youtube.com/s/desktop/8b0677e9/img/logos/favicon.ico"
+                    }
+                  },
                   {
                     "title": "MERN Major Project 1",
                     "link": "https://www.udemy.com/course/mern-ecommerce/?couponCode=ST14MT32124",
