@@ -1056,7 +1056,8 @@
                      "imageUrl":"https://yt3.googleusercontent.com/ZEsPc6H7HbWT_ytgaQBldyu3Tkw2sEY0rJv4kQ1jwVEouMjmbfWHJqmbYlt5ycXjrMyrv4tTB9k=s900-c-k-c0x00ffffff-no-rj",
                      "favicon":"https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon.ico"
                    
-                 },
+                 }
+                 }    ,
                  {
                     "title": "Devops Playlists",
                     "link": "https://www.youtube.com/@AbhishekVeeramalla",
@@ -1265,7 +1266,9 @@
                      "siteName":"Youtube",
                      "imageUrl":"https://yt3.googleusercontent.com/ZEsPc6H7HbWT_ytgaQBldyu3Tkw2sEY0rJv4kQ1jwVEouMjmbfWHJqmbYlt5ycXjrMyrv4tTB9k=s900-c-k-c0x00ffffff-no-rj",      "favicon":"https://www.youtube.com/s/desktop/ceaca137/img/logos/favicon.ico"
                    
-                 },
+                 }
+                    
+                  }    ,
 
                  {
                     "title": "Devops Playlists",
